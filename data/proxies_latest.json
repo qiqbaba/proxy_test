@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "updated_at": "2026-08-17 06:56:48",
+    "timestamp": 1786921008.111747,
+    "total_unique_valid": 1,
+    "sites_tested": 2,
+    "site_summary": {
+      "u3c3.com": 1,
+      "api.myip.com": 1
+    }
+  },
+  "proxies": [
+    {
+      "protocol": "socks5",
+      "address": "59.38.113.185:20000",
+      "proxy_url": "socks5://59.38.113.185:20000",
+      "latency_ms": 417.8,
+      "score": -3,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "api.myip.com",
+        "u3c3.com"
+      ],
+      "last_verified": 1786921008.0264206
+    }
+  ]
+}

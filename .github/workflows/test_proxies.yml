@@ -1,0 +1,104 @@
+name: 定时代理测试与自动更新
+
+permissions:
+  contents: write
+  actions: write
+
+on:
+  schedule:
+    # 每天北京时间 23:00 (UTC 15:00) 自动运行一次
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+    inputs:
+      target_url:
+        description: '指定测试目标网址 (输入 "all" 测试 fuli_crawler 全部 11 个站点，或输入单个 URL)'
+        required: false
+        default: 'all'
+      target_count:
+        description: '每个站点期望可用数量'
+        required: false
+        default: '1000'
+      force_fetch:
+        description: '是否强制重新抓取网络源'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  test_and_update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 设置 Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 恢复代理缓存 (Actions Cache)
+        uses: actions/cache/restore@v4
+        with:
+          path: cache/
+          key: proxy-test-cache-latest
+
+      - name: 运行代理抓取与爬虫目标网站测试
+        run: |
+          TARGET_URL="${{ github.event.inputs.target_url || 'all' }}"
+          TARGET_COUNT="${{ github.event.inputs.target_count || '1000' }}"
+          FORCE_FETCH="${{ github.event.inputs.force_fetch || 'false' }}"
+          
+          FETCH_FLAG=""
+          if [ "$FORCE_FETCH" = "true" ]; then
+            FETCH_FLAG="-f"
+          fi
+          
+          python cli.py -u "$TARGET_URL" -c "$TARGET_COUNT" $FETCH_FLAG
+
+      - name: 删除旧的 Actions Cache (避免堆积)
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          CACHE_ID=$(gh actions cache list --key proxy-test-cache-latest --repo ${{ github.repository }} --json id --jq '.[0].id' 2>/dev/null || echo "")
+          if [ -n "$CACHE_ID" ]; then
+            gh actions cache delete "$CACHE_ID" --repo ${{ github.repository }}
+            echo "已删除旧缓存 (ID: $CACHE_ID)"
+          fi
+
+      - name: 保存最新的代理缓存 (Actions Cache)
+        uses: actions/cache/save@v4
+        with:
+          path: cache/
+          key: proxy-test-cache-latest
+
+      - name: 提交并推送最新代理数据到 Git 仓库
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "代理数据无变化，跳过提交"
+          else
+            git commit -m "chore(proxies): 定时自动更新可用代理列表 [skip ci]"
+            git push origin main
+          fi
+
+      - name: 上传数据产物 (Artifacts)
+        uses: actions/upload-artifact@v4
+        with:
+          name: proxy-data-latest
+          path: data/
+          retention-days: 30
