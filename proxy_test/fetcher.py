@@ -40,10 +40,9 @@ class ProxyFetcher:
         """完全异步并发从所有配置的代理源获取代理列表并去重"""
         logger.info("开始从 %s 个免费代理源并发获取原始代理列表...", len(self.sources))
         all_proxies = {}
-        timeout = aiohttp.ClientTimeout(total=35)
+        timeout = aiohttp.ClientTimeout(total=45)
 
-        connector = aiohttp.TCPConnector(ssl=False)
-        async with aiohttp.ClientSession(timeout=timeout, connector=connector) as session:
+        async with aiohttp.ClientSession(timeout=timeout) as session:
             tasks = [
                 self._fetch_from_source(session, name, url)
                 for name, url in self.sources.items()
@@ -71,11 +70,12 @@ class ProxyFetcher:
             headers = {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
             }
-            req_timeout = aiohttp.ClientTimeout(total=20)
+            req_timeout = aiohttp.ClientTimeout(total=25)
             async with session.get(url, headers=headers, proxy=self.fetch_proxy, timeout=req_timeout, ssl=False) as resp:
                 if resp.status != 200:
                     return []
-                text = await resp.text(errors="ignore")
+                raw_bytes = await resp.read()
+                text = raw_bytes.decode("utf-8", errors="ignore")
 
             # 针对 HTML 网页格式解析
             if source_name in ("free_proxy_list", "sslproxies_org"):
@@ -105,28 +105,20 @@ class ProxyFetcher:
                 if not line or line.startswith(('#', '//', ';')):
                     continue
 
-                protocol = default_proto
-                address = None
-
+                line_proto = default_proto
                 if "://" in line:
                     parts = line.split("://", 1)
                     if len(parts) == 2:
-                        protocol = parts[0].strip().lower()
-                        address = parts[1].strip()
-                else:
-                    address = line
+                        line_proto = parts[0].strip().lower()
+                        line = parts[1].strip()
 
-                if not address:
-                    continue
-
-                # 清理常见干扰字符
-                address = re.sub(r"[\[\]\"\']", "", address).split()[0].strip(",;")
-
-                if ":" in address:
-                    ip, port = address.rsplit(":", 1)
-                    if re.match(r"^\d{1,3}(?:\.\d{1,3}){3}$", ip) and port.isdigit() and 1 <= int(port) <= 65535:
+                match = re.search(r"(\d{1,3}(?:\.\d{1,3}){3}):(\d{1,5})", line)
+                if match:
+                    ip = match.group(1)
+                    port = int(match.group(2))
+                    if 1 <= port <= 65535:
                         proxies.append({
-                            "protocol": protocol,
+                            "protocol": line_proto,
                             "address": f"{ip}:{port}",
                             "source": source_name
                         })

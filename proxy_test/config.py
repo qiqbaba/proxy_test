@@ -49,12 +49,16 @@ DEFAULT_TEST_URLS = [
 
 # 高质量高频更新免费代理源配置 (HTTP / HTTPS / SOCKS4 / SOCKS5)
 PROXY_SOURCES: Dict[str, str] = {
-    # 1. 实时 HTTPS 专用源 (高可用)
-    "sslproxies_org": "https://www.sslproxies.org/",
+    # 1. 实时 HTTPS 专用源
     "proxyscrape_https": "https://api.proxyscrape.com/v2/?request=getproxies&protocol=https&timeout=10000&country=all",
     "roosterkid_https": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt",
     "r00tee_https": "https://raw.githubusercontent.com/r00tee/Proxy-List/main/Https.txt",
-    
+    "vmheaven_https": "https://raw.githubusercontent.com/vmheaven/VMHeaven-Free-Proxy-Updated/refs/heads/main/https.txt",
+    "ercindedeoglu_https": "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt",
+    "jetkai_https": "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt",
+    "zloi_https": "https://raw.githubusercontent.com/zloi-user/hideip.me/main/https.txt",
+    "vakhov_https": "https://vakhov.github.io/fresh-proxy-list/https.txt",
+
     # 2. 实时 SOCKS5 代理源
     "proxyscrape_socks5": "https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all",
     "speedx_socks5": "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt",
@@ -68,14 +72,53 @@ PROXY_SOURCES: Dict[str, str] = {
     "databay_socks5": "https://raw.githubusercontent.com/databay-labs/free-proxy-list/master/socks5.txt",
     "vakhov_socks5": "https://vakhov.github.io/fresh-proxy-list/socks5.txt",
     "komutan_socks5": "https://raw.githubusercontent.com/komutan234/Proxy-List-Free/main/proxies/socks5.txt",
-    
+    "gfpcom_socks5": "https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/socks5.txt",
+    # 新增 SOCKS5 优质源
+    "murongpig_socks5": "https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/main/socks5.txt",
+    "ercindedeoglu_socks5": "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt",
+    "zevtyardt_socks5": "https://raw.githubusercontent.com/zevtyardt/proxy-list/main/socks5.txt",
+    "vmheaven_socks5": "https://raw.githubusercontent.com/vmheaven/VMHeaven-Free-Proxy-Updated/refs/heads/main/socks5.txt",
+    "jetkai_socks5": "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt",
+    "zloi_socks5": "https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt",
+    "aliilapro_socks5": "https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks5.txt",
+    "shiftytr_socks5": "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt",
+    "hendrikbgr_socks5": "https://raw.githubusercontent.com/hendrikbgr/Free-Proxy-Repo/master/proxy_list.txt",
+    "hookzof_socks5": "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt",
+    "rdavydov_socks5": "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks5.txt",
+    "prxchk_socks5": "https://raw.githubusercontent.com/prxchk/proxy-list/main/socks5.txt",
+    "sunny9577_socks5": "https://raw.githubusercontent.com/Sunny9577/proxy-scraper/master/generated/socks5_proxies.txt",
+
     # 3. 实时 SOCKS4 代理源
+    "proxyscrape_socks4": "https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000&country=all",
+    "speedx_socks4": "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt",
+    "speedx_proxy_list_socks4": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt",
     "proxyscraper_socks4": "https://raw.githubusercontent.com/ProxyScraper/ProxyScraper/main/socks4.txt",
+    "monosans_socks4": "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt",
+    "roosterkid_socks4": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt",
     "anonym0uswork_socks4": "https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_files/socks4_proxies.txt",
+    "thordata_socks4": "https://raw.githubusercontent.com/Thordata/awesome-free-proxy-list/main/proxies/socks4.txt",
+    "vpslab_socks4_all": "https://raw.githubusercontent.com/VPSLabCloud/VPSLab-Free-Proxy-List/main/socks4_all.txt",
+    "r00tee_socks4": "https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks4.txt",
+    "vakhov_socks4": "https://vakhov.github.io/fresh-proxy-list/socks4.txt",
+    "komutan_socks4": "https://raw.githubusercontent.com/komutan234/Proxy-List-Free/main/proxies/socks4.txt",
+    "gfpcom_socks4": "https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/socks4.txt",
+    # 新增 SOCKS4 优质源
+    "murongpig_socks4": "https://raw.githubusercontent.com/MuRongPIG/Proxy-Master/main/socks4.txt",
+    "ercindedeoglu_socks4": "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt",
+    "zevtyardt_socks4": "https://raw.githubusercontent.com/zevtyardt/proxy-list/main/socks4.txt",
+    "vmheaven_socks4": "https://raw.githubusercontent.com/vmheaven/VMHeaven-Free-Proxy-Updated/refs/heads/main/socks4.txt",
+    "jetkai_socks4": "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt",
+    "zloi_socks4": "https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt",
+    "aliilapro_socks4": "https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks4.txt",
+    "shiftytr_socks4": "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt",
+    "rdavydov_socks4": "https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks4.txt",
+    "prxchk_socks4": "https://raw.githubusercontent.com/prxchk/proxy-list/main/socks4.txt",
+    "sunny9577_socks4": "https://raw.githubusercontent.com/Sunny9577/proxy-scraper/master/generated/socks4_proxies.txt",
 
     # 4. 高匿/精选综合源
     "proxifly_all": "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.txt",
     "vpslab_all_elite": "https://raw.githubusercontent.com/VPSLabCloud/VPSLab-Free-Proxy-List/main/all_elite.txt",
+    "clarketm_proxy": "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
 }
 
 @lru_cache(maxsize=None)
