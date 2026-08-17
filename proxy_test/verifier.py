@@ -235,7 +235,7 @@ class ProxyVerifier:
                     if not stop_event.is_set():
                         verified_count[0] += 1
                         curr = verified_count[0]
-                        if curr % 500 == 0 or curr == len(sorted_proxies):
+                        if curr % 10000 == 0 or curr == len(sorted_proxies):
                             logger.info("  进度: %s/%s [已发现可用: %s 个, 耗时: %.1fs]", curr, len(sorted_proxies), len(working), time.time() - start_time)
 
         num_workers = min(workers_count, len(sorted_proxies))
