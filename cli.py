@@ -129,8 +129,46 @@ def main():
     parser.add_argument("--fetch-proxy", type=str, default=None, help="拉取代理源时使用的临时代理 (如: http://127.0.0.1:7890)")
     parser.add_argument("--no-export", action="store_true", default=False, help="禁止自动导出到 data/ 目录")
     parser.add_argument("--list-proxies", action="store_true", default=False, help="测试结束后在终端逐条打印可用代理明细列表 (默认不列出)")
+    parser.add_argument("--merge", action="store_true", default=False, help="扫描并合并 data/sites/ 目录中的所有测试产物至全局文件")
+    parser.add_argument("--merge-artifacts", type=str, default=None, help="从 GitHub Actions 下载的多任务产物根目录合并至 data/sites/ 并生成全局文件")
 
     args = parser.parse_args()
+
+    exporter = ProxyExporter()
+
+    # 处理产物合并模式
+    if args.merge or args.merge_artifacts:
+        import shutil
+        if args.merge_artifacts and os.path.exists(args.merge_artifacts):
+            print(f"[*] 正在从产物目录 {args.merge_artifacts} 搜集各站点测试结果...")
+            for root, dirs, files in os.walk(args.merge_artifacts):
+                for f in files:
+                    if f.endswith(".json") or f.endswith(".txt"):
+                        src_file = os.path.join(root, f)
+                        dst_file = os.path.join(exporter.sites_dir, f)
+                        shutil.copy2(src_file, dst_file)
+                        print(f"    -> 导入: {f}")
+
+        print("[*] 正在合并所有站点测试产物...")
+        exported = exporter.merge_all_sites(custom_export_path=args.export)
+        
+        # 加载合并后的站点结果用于打印汇总表格
+        site_results = {}
+        target_meta_map = {item["url"]: item for item in DEFAULT_CRAWLER_TARGETS}
+        for item in DEFAULT_CRAWLER_TARGETS:
+            domain = urlparse(item["url"]).netloc
+            safe_name = domain.replace(":", "_").replace("/", "_")
+            site_json = os.path.join(exporter.sites_dir, f"{safe_name}.json")
+            if os.path.exists(site_json):
+                try:
+                    with open(site_json, "r", encoding="utf-8") as jf:
+                        site_results[item["url"]] = json.load(jf).get("proxies", [])
+                except Exception:
+                    pass
+        if site_results:
+            print_summary_table(site_results, target_meta_map)
+        print(f"[+] 合并完成! 全局代理文件已更新至 data/ 目录。")
+        return
 
     protocols_list = [p.strip().lower() for p in args.protocols.split(",") if p.strip()] if args.protocols else None
 
@@ -162,7 +200,6 @@ def main():
     print(f"[*] 每个网站期望可用数: {args.count} 个 | 单次超时: {args.timeout}s | 协议: {protocols_list or '全部'}\n")
 
     pool = get_global_pool(fetch_proxy=args.fetch_proxy)
-    exporter = ProxyExporter()
     site_results: Dict[str, List[Dict]] = {}
 
     for idx, target in enumerate(targets, 1):

@@ -71,7 +71,7 @@ class ProxyExporter:
                 f.write(f"{p['protocol']}://{p['address']}\n")
         exported_files["txt"] = txt_path
 
-        # 3. 按测试站点导出专用 TXT
+        # 3. 按测试站点导出专用 TXT 和 JSON
         if domain and domain != "global":
             safe_domain_name = domain.replace(":", "_").replace("/", "_")
             site_txt_path = os.path.join(self.sites_dir, f"{safe_domain_name}.txt")
@@ -79,6 +79,29 @@ class ProxyExporter:
                 for p in working_proxies:
                     f.write(f"{p['protocol']}://{p['address']}\n")
             exported_files["site_txt"] = site_txt_path
+
+            site_json_path = os.path.join(self.sites_dir, f"{safe_domain_name}.json")
+            with open(site_json_path, "w", encoding="utf-8") as f:
+                json.dump({
+                    "target_url": target_url,
+                    "domain": domain,
+                    "updated_at": now_str,
+                    "count": len(working_proxies),
+                    "proxies": [
+                        {
+                            "protocol": p["protocol"],
+                            "address": p["address"],
+                            "proxy_url": f"{p['protocol']}://{p['address']}",
+                            "latency_ms": p.get("latency_ms", 0.0),
+                            "score": round(p.get("score", 0.0), 2),
+                            "source": p.get("source", ""),
+                            "valid_targets": list(p.get("valid_targets", [])) if isinstance(p.get("valid_targets"), (set, list)) else [domain],
+                            "last_verified": p.get("last_verified", 0.0),
+                        }
+                        for p in working_proxies
+                    ]
+                }, f, ensure_ascii=False, indent=2)
+            exported_files["site_json"] = site_json_path
 
         # 4. 如果用户指定了自定义导出路径
         if custom_export_path:
@@ -94,6 +117,55 @@ class ProxyExporter:
 
         logger.info("已将 %s 个可用代理成功导出至: %s", len(working_proxies), self.data_dir)
         return exported_files
+
+    def merge_all_sites(self, custom_export_path: Optional[str] = None) -> Dict[str, str]:
+        """
+        扫描 data/sites/ 目录下所有已测试站点的 JSON / TXT 产物，并聚合生成全局统一文件
+        """
+        site_results: Dict[str, List[Dict[str, any]]] = {}
+        if os.path.exists(self.sites_dir):
+            # 1. 优先读取 .json 格式（带完整延迟、评分等元数据）
+            json_domains = set()
+            for filename in os.listdir(self.sites_dir):
+                if filename.endswith(".json"):
+                    filepath = os.path.join(self.sites_dir, filename)
+                    try:
+                        with open(filepath, "r", encoding="utf-8") as f:
+                            data = json.load(f)
+                            target_url = data.get("target_url") or f"https://{data.get('domain', filename[:-5])}/"
+                            domain = data.get("domain") or filename[:-5]
+                            json_domains.add(domain)
+                            proxies = data.get("proxies", [])
+                            site_results[target_url] = proxies
+                    except Exception as e:
+                        logger.warning("读取站点 JSON 异常 %s: %s", filepath, e)
+
+            # 2. 兼容仅有 .txt 的历史文件
+            for filename in os.listdir(self.sites_dir):
+                if filename.endswith(".txt"):
+                    domain = filename[:-4]
+                    if domain not in json_domains:
+                        filepath = os.path.join(self.sites_dir, filename)
+                        proxies = []
+                        try:
+                            with open(filepath, "r", encoding="utf-8") as f:
+                                for line in f:
+                                    line = line.strip()
+                                    if line and "://" in line:
+                                        proto, addr = line.split("://", 1)
+                                        proxies.append({
+                                            "protocol": proto,
+                                            "address": addr,
+                                            "latency_ms": 500.0,
+                                            "score": 1.0,
+                                            "valid_targets": {domain}
+                                        })
+                            if proxies:
+                                site_results[f"https://{domain}/"] = proxies
+                        except Exception as e:
+                            logger.warning("读取站点 TXT 异常 %s: %s", filepath, e)
+
+        return self.export_batch(site_results, custom_export_path=custom_export_path)
 
     def export_batch(
         self,
