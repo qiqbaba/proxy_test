@@ -21,11 +21,11 @@ on:
       force_fetch:
         description: '是否强制重新抓取网络源'
         required: false
-        default: 'false'
+        default: 'true'
         type: choice
         options:
-          - 'false'
           - 'true'
+          - 'false'
 
 jobs:
   test_and_update:
