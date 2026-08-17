@@ -47,11 +47,11 @@ jobs:
 
       - name: 解析测试站点列表
         id: set-matrix
+        env:
+          INPUT_TARGET_URL: ${{ github.event.inputs.target_url || 'all' }}
+          INPUT_TARGET_COUNT: ${{ github.event.inputs.target_count || '1000' }}
+          INPUT_FORCE_FETCH: ${{ github.event.inputs.force_fetch || 'true' }}
         run: |
-          TARGET_URL="${{ github.event.inputs.target_url || 'all' }}"
-          TARGET_COUNT="${{ github.event.inputs.target_count || '1000' }}"
-          FORCE_FETCH="${{ github.event.inputs.force_fetch || 'true' }}"
-          
           python -c "
           import json, os, sys, importlib.util
           from urllib.parse import urlparse
@@ -61,7 +61,10 @@ jobs:
           spec.loader.exec_module(config)
           DEFAULT_CRAWLER_TARGETS = config.DEFAULT_CRAWLER_TARGETS
 
-          target_input = '''$TARGET_URL'''.strip()
+          target_input = os.environ.get('INPUT_TARGET_URL', 'all').strip()
+          target_count = os.environ.get('INPUT_TARGET_COUNT', '1000').strip()
+          force_fetch = os.environ.get('INPUT_FORCE_FETCH', 'true').strip()
+
           if target_input.lower() in ('all', 'default', '*', ''):
               targets = DEFAULT_CRAWLER_TARGETS
           else:
@@ -76,8 +79,8 @@ jobs:
           print(f'Matrix targets: {matrix_json}')
           with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as f:
               f.write(f'targets={matrix_json}\n')
-              f.write(f'target_count={TARGET_COUNT}\n')
-              f.write(f'force_fetch={FORCE_FETCH}\n')
+              f.write(f'target_count={target_count}\n')
+              f.write(f'force_fetch={force_fetch}\n')
           "
 
   test_matrix:
