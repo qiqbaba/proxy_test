@@ -53,8 +53,8 @@ if sys.platform.startswith("win"):
     except Exception:
         pass
 
-def print_batch_summary_table(site_results: Dict[str, List[Dict]], target_meta_map: Dict[str, Dict]):
-    """格式化打印多站点批量测试汇总表格"""
+def print_summary_table(site_results: Dict[str, List[Dict]], target_meta_map: Dict[str, Dict]):
+    """格式化打印站点代理测试汇总表格（统计每个站点的可用数与延迟，不逐条列出代理明细）"""
     headers = ["#", "标识", "目标网站", "可用数", "最佳延迟", "平均延迟", "状态"]
     col_widths = [4, 16, 30, 8, 12, 12, 10]
 
@@ -62,7 +62,7 @@ def print_batch_summary_table(site_results: Dict[str, List[Dict]], target_meta_m
     sep_line = "-+-".join("-" * w for w in col_widths)
 
     print("\n" + "=" * len(header_line))
-    print(" 爬虫多目标代理测试汇总表")
+    print(" 爬虫目标代理测试汇总表")
     print("=" * len(header_line))
     print(header_line)
     print(sep_line)
@@ -128,6 +128,7 @@ def main():
     parser.add_argument("-o", "--export", type=str, default=None, help="自定义导出文件路径 (.json 或 .txt)")
     parser.add_argument("--fetch-proxy", type=str, default=None, help="拉取代理源时使用的临时代理 (如: http://127.0.0.1:7890)")
     parser.add_argument("--no-export", action="store_true", default=False, help="禁止自动导出到 data/ 目录")
+    parser.add_argument("--list-proxies", action="store_true", default=False, help="测试结束后在终端逐条打印可用代理明细列表 (默认不列出)")
 
     args = parser.parse_args()
 
@@ -185,17 +186,21 @@ def main():
         site_results[url] = working
         print(f"    -> 找到 {len(working)} 个可用代理")
 
-    if is_batch:
-        print_batch_summary_table(site_results, target_meta_map)
-        if not args.no_export:
+    # 打印汇总表格（不逐条列出具体代理）
+    print_summary_table(site_results, target_meta_map)
+
+    # 仅当显式指定 --list-proxies 时才打印明细表格
+    if args.list_proxies:
+        for url, proxies in site_results.items():
+            print_single_table(proxies, url)
+
+    if not args.no_export:
+        if is_batch:
             exported = exporter.export_batch(site_results, custom_export_path=args.export)
             print(f"[+] 结果已聚合导出至 data/ 目录及 data/sites/ 各站点专属文件。")
-    else:
-        # 单站模式
-        url = targets[0]["url"]
-        working = site_results.get(url, [])
-        print_single_table(working, url)
-        if not args.no_export:
+        else:
+            url = targets[0]["url"]
+            working = site_results.get(url, [])
             exported = exporter.export(working, target_url=url, custom_export_path=args.export)
             print(f"[+] 测试完成! 共找到 {len(working)} 个针对 {url} 可用的代理。已保存至 data/")
 
