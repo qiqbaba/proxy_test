@@ -53,10 +53,13 @@ jobs:
           FORCE_FETCH="${{ github.event.inputs.force_fetch || 'true' }}"
           
           python -c "
-          import json, os, sys
+          import json, os, sys, importlib.util
           from urllib.parse import urlparse
-          sys.path.insert(0, '.')
-          from proxy_test.config import DEFAULT_CRAWLER_TARGETS
+
+          spec = importlib.util.spec_from_file_location('proxy_test_config', 'proxy_test/config.py')
+          config = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(config)
+          DEFAULT_CRAWLER_TARGETS = config.DEFAULT_CRAWLER_TARGETS
 
           target_input = '''$TARGET_URL'''.strip()
           if target_input.lower() in ('all', 'default', '*', ''):

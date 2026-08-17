@@ -2,7 +2,9 @@
 命令行测试工具 (CLI)
 支持通过命令行对单个或批量爬虫目标网站进行代理检测、表格输出与格式化保存
 """
+import os
 import sys
+import json
 import argparse
 from typing import List, Dict
 from urllib.parse import urlparse
