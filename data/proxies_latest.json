@@ -1,1317 +1,16 @@
 {
   "meta": {
-    "updated_at": "2026-08-17 13:45:40",
-    "timestamp": 1786974340.500726,
-    "total_unique_valid": 1011,
-    "sites_tested": 4,
+    "updated_at": "2026-08-17 21:50:55",
+    "timestamp": 1786974655.5833926,
+    "total_unique_valid": 1000,
+    "sites_tested": 3,
     "site_summary": {
-      "www.alicesw.com": 100,
       "api.myip.com": 1,
-      "www.xxread.net": 1000,
-      "u3c3.com": 1
+      "u3c3.com": 1,
+      "www.xxread.net": 1000
     }
   },
   "proxies": [
-    {
-      "protocol": "http",
-      "address": "34.94.46.8:80",
-      "proxy_url": "http://34.94.46.8:80",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.1218958
-    },
-    {
-      "protocol": "http",
-      "address": "216.106.182.177:3128",
-      "proxy_url": "http://216.106.182.177:3128",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.1279373
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.239.1:4145",
-      "proxy_url": "socks5://142.54.239.1:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.154987
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.231.38:4145",
-      "proxy_url": "socks5://142.54.231.38:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.1691008
-    },
-    {
-      "protocol": "socks4",
-      "address": "142.54.237.38:4145",
-      "proxy_url": "socks4://142.54.237.38:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "anonym0uswork_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.173369
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.229.249:4145",
-      "proxy_url": "socks5://142.54.229.249:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.1801848
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.237.38:4145",
-      "proxy_url": "socks5://142.54.237.38:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "r00tee_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.1954286
-    },
-    {
-      "protocol": "socks5",
-      "address": "199.116.114.11:4145",
-      "proxy_url": "socks5://199.116.114.11:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.2018821
-    },
-    {
-      "protocol": "socks5",
-      "address": "67.201.39.14:4145",
-      "proxy_url": "socks5://67.201.39.14:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.202109
-    },
-    {
-      "protocol": "socks4",
-      "address": "142.54.231.38:4145",
-      "proxy_url": "socks4://142.54.231.38:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.2119594
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.237.34:4145",
-      "proxy_url": "socks5://142.54.237.34:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.214725
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.232.6:4145",
-      "proxy_url": "socks5://142.54.232.6:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.2318559
-    },
-    {
-      "protocol": "socks5",
-      "address": "198.8.84.3:4145",
-      "proxy_url": "socks5://198.8.84.3:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.2594283
-    },
-    {
-      "protocol": "socks4",
-      "address": "199.66.183.251:4145",
-      "proxy_url": "socks4://199.66.183.251:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.323225
-    },
-    {
-      "protocol": "socks5",
-      "address": "74.119.147.209:4145",
-      "proxy_url": "socks5://74.119.147.209:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.343143
-    },
-    {
-      "protocol": "socks4",
-      "address": "192.111.138.29:4145",
-      "proxy_url": "socks4://192.111.138.29:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.376876
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.170.249.65:4145",
-      "proxy_url": "socks5://184.170.249.65:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.3971822
-    },
-    {
-      "protocol": "socks4",
-      "address": "199.66.182.243:4145",
-      "proxy_url": "socks4://199.66.182.243:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.4197438
-    },
-    {
-      "protocol": "socks5",
-      "address": "199.66.182.243:4145",
-      "proxy_url": "socks5://199.66.182.243:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.4423435
-    },
-    {
-      "protocol": "socks5",
-      "address": "199.229.254.129:4145",
-      "proxy_url": "socks5://199.229.254.129:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.4522378
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.138.29:4145",
-      "proxy_url": "socks5://192.111.138.29:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.466251
-    },
-    {
-      "protocol": "socks5",
-      "address": "199.66.183.251:4145",
-      "proxy_url": "socks5://199.66.183.251:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.469627
-    },
-    {
-      "protocol": "socks5",
-      "address": "198.8.94.174:39078",
-      "proxy_url": "socks5://198.8.94.174:39078",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.4708784
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.137.35:4145",
-      "proxy_url": "socks5://192.111.137.35:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.4768825
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.170.245.148:4145",
-      "proxy_url": "socks5://184.170.245.148:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.47717
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.182.240.12:4145",
-      "proxy_url": "socks4://184.182.240.12:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5022738
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.139.165:4145",
-      "proxy_url": "socks5://192.111.139.165:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5086026
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.252.208.70:14282",
-      "proxy_url": "socks5://192.252.208.70:14282",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5152
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.182.240.211:4145",
-      "proxy_url": "socks5://184.182.240.211:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5154264
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.139.162:4145",
-      "proxy_url": "socks5://192.111.139.162:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5311685
-    },
-    {
-      "protocol": "socks5",
-      "address": "174.77.111.196:4145",
-      "proxy_url": "socks5://174.77.111.196:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5325246
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.181.217.194:4145",
-      "proxy_url": "socks5://184.181.217.194:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5330667
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.178.72.30:4145",
-      "proxy_url": "socks5://98.178.72.30:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5386524
-    },
-    {
-      "protocol": "socks5",
-      "address": "193.25.215.182:22222",
-      "proxy_url": "socks5://193.25.215.182:22222",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5428524
-    },
-    {
-      "protocol": "socks5",
-      "address": "198.8.94.170:4145",
-      "proxy_url": "socks5://198.8.94.170:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.547549
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.25:15291",
-      "proxy_url": "socks5://184.178.172.25:15291",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5578814
-    },
-    {
-      "protocol": "socks5",
-      "address": "68.1.210.163:4145",
-      "proxy_url": "socks5://68.1.210.163:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.58857
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.195.34.60:27391",
-      "proxy_url": "socks5://72.195.34.60:27391",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.6718981
-    },
-    {
-      "protocol": "socks5",
-      "address": "74.119.144.60:4145",
-      "proxy_url": "socks5://74.119.144.60:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.6781888
-    },
-    {
-      "protocol": "socks4",
-      "address": "198.8.94.174:39078",
-      "proxy_url": "socks4://198.8.94.174:39078",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.7033505
-    },
-    {
-      "protocol": "http",
-      "address": "204.76.203.9:3128",
-      "proxy_url": "http://204.76.203.9:3128",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.710173
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.185.2.12:4145",
-      "proxy_url": "socks5://184.185.2.12:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.8246365
-    },
-    {
-      "protocol": "http",
-      "address": "66.163.118.99:10006",
-      "proxy_url": "http://66.163.118.99:10006",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.8713577
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.144.54.40:1080",
-      "proxy_url": "socks5://45.144.54.40:1080",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.913087
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.182.240.211:4145",
-      "proxy_url": "socks4://184.182.240.211:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.0204444
-    },
-    {
-      "protocol": "socks5",
-      "address": "66.163.119.55:10006",
-      "proxy_url": "socks5://66.163.119.55:10006",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.0326667
-    },
-    {
-      "protocol": "socks5",
-      "address": "185.125.200.80:1090",
-      "proxy_url": "socks5://185.125.200.80:1090",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.0833035
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.185.2.12:4145",
-      "proxy_url": "socks4://184.185.2.12:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "anonym0uswork_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.084813
-    },
-    {
-      "protocol": "http",
-      "address": "103.237.102.191:11111",
-      "proxy_url": "http://103.237.102.191:11111",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.1250176
-    },
-    {
-      "protocol": "http",
-      "address": "185.141.26.131:3128",
-      "proxy_url": "http://185.141.26.131:3128",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.1389184
-    },
-    {
-      "protocol": "http",
-      "address": "151.115.99.193:10006",
-      "proxy_url": "http://151.115.99.193:10006",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.1564264
-    },
-    {
-      "protocol": "socks5",
-      "address": "151.243.224.12:1080",
-      "proxy_url": "socks5://151.243.224.12:1080",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.223364
-    },
-    {
-      "protocol": "socks5",
-      "address": "130.193.43.183:1080",
-      "proxy_url": "socks5://130.193.43.183:1080",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.2491002
-    },
-    {
-      "protocol": "socks5",
-      "address": "89.208.106.37:32712",
-      "proxy_url": "socks5://89.208.106.37:32712",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.2653887
-    },
-    {
-      "protocol": "socks5",
-      "address": "112.90.88.102:20000",
-      "proxy_url": "socks5://112.90.88.102:20000",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.325437
-    },
-    {
-      "protocol": "http",
-      "address": "103.147.109.250:3128",
-      "proxy_url": "http://103.147.109.250:3128",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.3811893
-    },
-    {
-      "protocol": "socks5",
-      "address": "95.31.16.116:1081",
-      "proxy_url": "socks5://95.31.16.116:1081",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.382588
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.129.145:16894",
-      "proxy_url": "socks5://192.111.129.145:16894",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.4389396
-    },
-    {
-      "protocol": "http",
-      "address": "130.110.103.245:3128",
-      "proxy_url": "http://130.110.103.245:3128",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.465469
-    },
-    {
-      "protocol": "socks5",
-      "address": "213.136.92.91:1080",
-      "proxy_url": "socks5://213.136.92.91:1080",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.5366914
-    },
-    {
-      "protocol": "socks5",
-      "address": "47.250.211.53:1080",
-      "proxy_url": "socks5://47.250.211.53:1080",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.5898314
-    },
-    {
-      "protocol": "http",
-      "address": "181.39.25.196:8118",
-      "proxy_url": "http://181.39.25.196:8118",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.59518
-    },
-    {
-      "protocol": "http",
-      "address": "8.213.151.128:3128",
-      "proxy_url": "http://8.213.151.128:3128",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.6236424
-    },
-    {
-      "protocol": "http",
-      "address": "37.59.125.131:8888",
-      "proxy_url": "http://37.59.125.131:8888",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.7120466
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.194.33.12:30001",
-      "proxy_url": "socks5://45.194.33.12:30001",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.7829664
-    },
-    {
-      "protocol": "socks5",
-      "address": "152.69.167.87:1080",
-      "proxy_url": "socks5://152.69.167.87:1080",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974248.3539717
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.61.129.165:9050",
-      "proxy_url": "socks5://45.61.129.165:9050",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974248.398608
-    },
-    {
-      "protocol": "socks5",
-      "address": "212.58.132.5:1080",
-      "proxy_url": "socks5://212.58.132.5:1080",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974248.5131674
-    },
-    {
-      "protocol": "socks5",
-      "address": "144.24.111.128:1088",
-      "proxy_url": "socks5://144.24.111.128:1088",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974248.5473394
-    },
-    {
-      "protocol": "http",
-      "address": "165.154.162.73:8888",
-      "proxy_url": "http://165.154.162.73:8888",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974248.707862
-    },
-    {
-      "protocol": "socks4",
-      "address": "45.61.129.165:9050",
-      "proxy_url": "socks4://45.61.129.165:9050",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "monosans_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974248.730123
-    },
-    {
-      "protocol": "http",
-      "address": "95.211.64.139:8887",
-      "proxy_url": "http://95.211.64.139:8887",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974248.810643
-    },
-    {
-      "protocol": "socks5",
-      "address": "43.164.136.189:1080",
-      "proxy_url": "socks5://43.164.136.189:1080",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974248.980799
-    },
-    {
-      "protocol": "http",
-      "address": "109.94.1.23:4050",
-      "proxy_url": "http://109.94.1.23:4050",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974249.2615798
-    },
-    {
-      "protocol": "socks5",
-      "address": "103.75.118.84:1080",
-      "proxy_url": "socks5://103.75.118.84:1080",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974249.6398523
-    },
-    {
-      "protocol": "http",
-      "address": "202.28.194.139:31280",
-      "proxy_url": "http://202.28.194.139:31280",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974249.8094347
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.43.63.37:10808",
-      "proxy_url": "socks5://45.43.63.37:10808",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974249.8755164
-    },
-    {
-      "protocol": "socks4",
-      "address": "47.237.113.119:1720",
-      "proxy_url": "socks4://47.237.113.119:1720",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "gfpcom_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974250.3325353
-    },
-    {
-      "protocol": "socks4",
-      "address": "8.212.168.170:35561",
-      "proxy_url": "socks4://8.212.168.170:35561",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "gfpcom_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974250.4276166
-    },
-    {
-      "protocol": "socks5",
-      "address": "193.233.218.213:1080",
-      "proxy_url": "socks5://193.233.218.213:1080",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "monosans_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974251.1703243
-    },
-    {
-      "protocol": "http",
-      "address": "42.96.18.62:1311",
-      "proxy_url": "http://42.96.18.62:1311",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974251.1709008
-    },
-    {
-      "protocol": "http",
-      "address": "34.134.231.117:3129",
-      "proxy_url": "http://34.134.231.117:3129",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974251.1714008
-    },
-    {
-      "protocol": "socks5",
-      "address": "101.36.104.239:10808",
-      "proxy_url": "socks5://101.36.104.239:10808",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974252.2491853
-    },
-    {
-      "protocol": "socks5",
-      "address": "67.207.92.87:1088",
-      "proxy_url": "socks5://67.207.92.87:1088",
-      "latency_ms": 609.4,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.1747265
-    },
-    {
-      "protocol": "socks4",
-      "address": "24.249.199.4:4145",
-      "proxy_url": "socks4://24.249.199.4:4145",
-      "latency_ms": 991.1,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.4811356
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.181.217.213:4145",
-      "proxy_url": "socks4://184.181.217.213:4145",
-      "latency_ms": 1002.0,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.4916408
-    },
-    {
-      "protocol": "socks4",
-      "address": "174.77.111.197:4145",
-      "proxy_url": "socks4://174.77.111.197:4145",
-      "latency_ms": 1023.2,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5162983
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.190.239.3:4145",
-      "proxy_url": "socks5://98.190.239.3:4145",
-      "latency_ms": 1025.5,
-      "score": 2,
-      "source": "r00tee_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.5125742
-    },
-    {
-      "protocol": "http",
-      "address": "176.111.37.216:39811",
-      "proxy_url": "http://176.111.37.216:39811",
-      "latency_ms": 1409.4,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974246.947528
-    },
-    {
-      "protocol": "socks5",
-      "address": "93.123.118.15:1080",
-      "proxy_url": "socks5://93.123.118.15:1080",
-      "latency_ms": 1460.4,
-      "score": 2,
-      "source": "vpslab_socks5_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.1343012
-    },
-    {
-      "protocol": "http",
-      "address": "176.111.37.5:39811",
-      "proxy_url": "http://176.111.37.5:39811",
-      "latency_ms": 2340.0,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.9639375
-    },
-    {
-      "protocol": "socks5",
-      "address": "185.93.104.246:1080",
-      "proxy_url": "socks5://185.93.104.246:1080",
-      "latency_ms": 2354.6,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974247.8776848
-    },
-    {
-      "protocol": "http",
-      "address": "163.181.207.170:9999",
-      "proxy_url": "http://163.181.207.170:9999",
-      "latency_ms": 2470.4,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974248.5484228
-    },
-    {
-      "protocol": "socks4",
-      "address": "66.163.118.99:10006",
-      "proxy_url": "socks4://66.163.118.99:10006",
-      "latency_ms": 3290.0,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974248.8938868
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.217:9002",
-      "proxy_url": "https://138.199.35.217:9002",
-      "latency_ms": 390.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974318.4992938
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.197:9002",
-      "proxy_url": "https://138.199.35.197:9002",
-      "latency_ms": 414.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974318.563645
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.200:9002",
-      "proxy_url": "https://138.199.35.200:9002",
-      "latency_ms": 415.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974318.5899348
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.201:9002",
-      "proxy_url": "https://138.199.35.201:9002",
-      "latency_ms": 436.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974318.5462255
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.199:9002",
-      "proxy_url": "https://138.199.35.199:9002",
-      "latency_ms": 447.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974318.5828736
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.214:9002",
-      "proxy_url": "https://138.199.35.214:9002",
-      "latency_ms": 474.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1786974318.5453045
-    },
     {
       "protocol": "socks5",
       "address": "59.38.113.185:20000",
@@ -1322,6 +21,54 @@
       "valid_targets": [
         "api.myip.com",
         "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.252.208.70:14282",
+      "proxy_url": "socks5://192.252.208.70:14282",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "199.66.182.243:4145",
+      "proxy_url": "socks5://199.66.182.243:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "199.66.183.251:4145",
+      "proxy_url": "socks5://199.66.183.251:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "198.8.84.3:4145",
+      "proxy_url": "socks5://198.8.84.3:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
         "www.xxread.net"
       ],
       "last_verified": 0.0
@@ -1352,8 +99,32 @@
     },
     {
       "protocol": "socks5",
+      "address": "142.54.231.38:4145",
+      "proxy_url": "socks5://142.54.231.38:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "142.54.226.214:4145",
       "proxy_url": "socks5://142.54.226.214:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "142.54.237.38:4145",
+      "proxy_url": "socks5://142.54.237.38:4145",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -1388,6 +159,162 @@
     },
     {
       "protocol": "socks5",
+      "address": "199.229.254.129:4145",
+      "proxy_url": "socks5://199.229.254.129:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "67.201.39.14:4145",
+      "proxy_url": "socks5://67.201.39.14:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.137.35:4145",
+      "proxy_url": "socks5://192.111.137.35:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.170.249.65:4145",
+      "proxy_url": "socks5://184.170.249.65:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.170.245.148:4145",
+      "proxy_url": "socks5://184.170.245.148:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "198.8.94.174:39078",
+      "proxy_url": "socks5://198.8.94.174:39078",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "142.54.239.1:4145",
+      "proxy_url": "socks5://142.54.239.1:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.129.145:16894",
+      "proxy_url": "socks5://192.111.129.145:16894",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "193.25.215.182:22222",
+      "proxy_url": "socks5://193.25.215.182:22222",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "74.119.147.209:4145",
+      "proxy_url": "socks5://74.119.147.209:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.138.29:4145",
+      "proxy_url": "socks5://192.111.138.29:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.139.162:4145",
+      "proxy_url": "socks5://192.111.139.162:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "142.54.232.6:4145",
+      "proxy_url": "socks5://142.54.232.6:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "98.182.147.97:4145",
       "proxy_url": "socks5://98.182.147.97:4145",
       "latency_ms": 500.0,
@@ -1402,6 +329,30 @@
       "protocol": "socks5",
       "address": "72.195.114.169:4145",
       "proxy_url": "socks5://72.195.114.169:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.178.172.25:15291",
+      "proxy_url": "socks5://184.178.172.25:15291",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "72.195.34.60:27391",
+      "proxy_url": "socks5://72.195.34.60:27391",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -1520,6 +471,30 @@
     },
     {
       "protocol": "socks5",
+      "address": "98.178.72.30:4145",
+      "proxy_url": "socks5://98.178.72.30:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "174.77.111.196:4145",
+      "proxy_url": "socks5://174.77.111.196:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "174.64.199.82:4145",
       "proxy_url": "socks5://174.64.199.82:4145",
       "latency_ms": 500.0,
@@ -1534,6 +509,18 @@
       "protocol": "socks5",
       "address": "174.64.199.79:4145",
       "proxy_url": "socks5://174.64.199.79:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.181.217.194:4145",
+      "proxy_url": "socks5://184.181.217.194:4145",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -1652,6 +639,18 @@
     },
     {
       "protocol": "socks5",
+      "address": "185.125.200.80:1090",
+      "proxy_url": "socks5://185.125.200.80:1090",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "98.191.0.37:4145",
       "proxy_url": "socks5://98.191.0.37:4145",
       "latency_ms": 500.0,
@@ -1666,6 +665,18 @@
       "protocol": "socks5",
       "address": "184.178.172.14:4145",
       "proxy_url": "socks5://184.178.172.14:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "151.243.224.12:1080",
+      "proxy_url": "socks5://151.243.224.12:1080",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -1772,6 +783,18 @@
     },
     {
       "protocol": "socks5",
+      "address": "68.1.210.163:4145",
+      "proxy_url": "socks5://68.1.210.163:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "184.181.217.210:4145",
       "proxy_url": "socks5://184.181.217.210:4145",
       "latency_ms": 500.0,
@@ -1820,8 +843,104 @@
     },
     {
       "protocol": "socks5",
+      "address": "66.163.119.55:10006",
+      "proxy_url": "socks5://66.163.119.55:10006",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "193.233.218.213:1080",
+      "proxy_url": "socks5://193.233.218.213:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.144.54.40:1080",
+      "proxy_url": "socks5://45.144.54.40:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "95.31.16.116:1081",
+      "proxy_url": "socks5://95.31.16.116:1081",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "130.193.43.183:1080",
+      "proxy_url": "socks5://130.193.43.183:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "199.116.114.11:4145",
+      "proxy_url": "socks5://199.116.114.11:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.185.2.12:4145",
+      "proxy_url": "socks5://184.185.2.12:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "65.21.252.66:10811",
       "proxy_url": "socks5://65.21.252.66:10811",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "101.36.104.239:10808",
+      "proxy_url": "socks5://101.36.104.239:10808",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -1843,6 +962,90 @@
       "last_verified": 0.0
     },
     {
+      "protocol": "socks5",
+      "address": "142.54.237.34:4145",
+      "proxy_url": "socks5://142.54.237.34:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "142.54.229.249:4145",
+      "proxy_url": "socks5://142.54.229.249:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.139.165:4145",
+      "proxy_url": "socks5://192.111.139.165:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "198.8.94.170:4145",
+      "proxy_url": "socks5://198.8.94.170:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.164.136.189:1080",
+      "proxy_url": "socks5://43.164.136.189:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.61.129.165:9050",
+      "proxy_url": "socks5://45.61.129.165:9050",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "74.119.144.60:4145",
+      "proxy_url": "socks5://74.119.144.60:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
       "protocol": "socks4",
       "address": "199.66.183.226:4145",
       "proxy_url": "socks4://199.66.183.226:4145",
@@ -1855,9 +1058,141 @@
       "last_verified": 0.0
     },
     {
+      "protocol": "socks4",
+      "address": "142.54.231.38:4145",
+      "proxy_url": "socks4://142.54.231.38:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "213.136.92.91:1080",
+      "proxy_url": "socks5://213.136.92.91:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "142.54.237.38:4145",
+      "proxy_url": "socks4://142.54.237.38:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "199.66.183.251:4145",
+      "proxy_url": "socks4://199.66.183.251:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "152.69.167.87:1080",
+      "proxy_url": "socks5://152.69.167.87:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "144.24.111.128:1088",
+      "proxy_url": "socks5://144.24.111.128:1088",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "199.66.182.243:4145",
+      "proxy_url": "socks4://199.66.182.243:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "47.250.211.53:1080",
+      "proxy_url": "socks5://47.250.211.53:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "192.111.138.29:4145",
+      "proxy_url": "socks4://192.111.138.29:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.194.33.12:30001",
+      "proxy_url": "socks5://45.194.33.12:30001",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
       "protocol": "socks5",
       "address": "173.212.252.150:1080",
       "proxy_url": "socks5://173.212.252.150:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.43.63.37:10808",
+      "proxy_url": "socks5://45.43.63.37:10808",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -1915,9 +1250,81 @@
       "last_verified": 0.0
     },
     {
+      "protocol": "socks4",
+      "address": "198.8.94.174:39078",
+      "proxy_url": "socks4://198.8.94.174:39078",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
       "protocol": "http",
       "address": "64.112.184.210:3128",
       "proxy_url": "http://64.112.184.210:3128",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.182.240.211:4145",
+      "proxy_url": "socks5://184.182.240.211:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "34.94.46.8:80",
+      "proxy_url": "http://34.94.46.8:80",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "216.106.182.177:3128",
+      "proxy_url": "http://216.106.182.177:3128",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.182.240.211:4145",
+      "proxy_url": "socks4://184.182.240.211:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "112.90.88.102:20000",
+      "proxy_url": "socks5://112.90.88.102:20000",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -1964,8 +1371,56 @@
     },
     {
       "protocol": "socks5",
+      "address": "89.208.106.37:32712",
+      "proxy_url": "socks5://89.208.106.37:32712",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "34.134.231.117:3129",
+      "proxy_url": "http://34.134.231.117:3129",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "123.58.219.171:10808",
       "proxy_url": "socks5://123.58.219.171:10808",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "185.141.26.131:3128",
+      "proxy_url": "http://185.141.26.131:3128",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "103.237.102.191:11111",
+      "proxy_url": "http://103.237.102.191:11111",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -1987,9 +1442,45 @@
       "last_verified": 0.0
     },
     {
+      "protocol": "socks4",
+      "address": "184.182.240.12:4145",
+      "proxy_url": "socks4://184.182.240.12:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
       "protocol": "socks5",
       "address": "45.77.244.108:1080",
       "proxy_url": "socks5://45.77.244.108:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "165.154.162.73:8888",
+      "proxy_url": "http://165.154.162.73:8888",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "204.76.203.9:3128",
+      "proxy_url": "http://204.76.203.9:3128",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -2035,6 +1526,18 @@
       "last_verified": 0.0
     },
     {
+      "protocol": "socks4",
+      "address": "45.61.129.165:9050",
+      "proxy_url": "socks4://45.61.129.165:9050",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
       "protocol": "socks5",
       "address": "172.81.111.156:10001",
       "proxy_url": "socks5://172.81.111.156:10001",
@@ -2060,8 +1563,56 @@
     },
     {
       "protocol": "socks5",
+      "address": "212.58.132.5:1080",
+      "proxy_url": "socks5://212.58.132.5:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "66.163.118.99:10006",
+      "proxy_url": "http://66.163.118.99:10006",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "103.28.33.115:1084",
       "proxy_url": "socks5://103.28.33.115:1084",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "95.211.64.139:8887",
+      "proxy_url": "http://95.211.64.139:8887",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "151.115.99.193:10006",
+      "proxy_url": "http://151.115.99.193:10006",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -2074,6 +1625,42 @@
       "protocol": "socks5",
       "address": "103.82.37.110:49153",
       "proxy_url": "socks5://103.82.37.110:49153",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "130.110.103.245:3128",
+      "proxy_url": "http://130.110.103.245:3128",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "181.39.25.196:8118",
+      "proxy_url": "http://181.39.25.196:8118",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "103.147.109.250:3128",
+      "proxy_url": "http://103.147.109.250:3128",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -2120,6 +1707,30 @@
     },
     {
       "protocol": "http",
+      "address": "37.59.125.131:8888",
+      "proxy_url": "http://37.59.125.131:8888",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "8.213.151.128:3128",
+      "proxy_url": "http://8.213.151.128:3128",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
       "address": "47.81.56.193:8888",
       "proxy_url": "http://47.81.56.193:8888",
       "latency_ms": 500.0,
@@ -2146,6 +1757,18 @@
       "protocol": "socks5",
       "address": "38.175.197.50:5555",
       "proxy_url": "socks5://38.175.197.50:5555",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "103.75.118.84:1080",
+      "proxy_url": "socks5://103.75.118.84:1080",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -2203,6 +1826,42 @@
       "last_verified": 0.0
     },
     {
+      "protocol": "http",
+      "address": "202.28.194.139:31280",
+      "proxy_url": "http://202.28.194.139:31280",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "42.96.18.62:1311",
+      "proxy_url": "http://42.96.18.62:1311",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.185.2.12:4145",
+      "proxy_url": "socks4://184.185.2.12:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
       "protocol": "socks5",
       "address": "101.36.104.46:10808",
       "proxy_url": "socks5://101.36.104.46:10808",
@@ -2218,6 +1877,18 @@
       "protocol": "socks5",
       "address": "192.9.231.220:30001",
       "proxy_url": "socks5://192.9.231.220:30001",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "http",
+      "address": "109.94.1.23:4050",
+      "proxy_url": "http://109.94.1.23:4050",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -2254,6 +1925,30 @@
       "protocol": "http",
       "address": "176.57.189.138:3128",
       "proxy_url": "http://176.57.189.138:3128",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "8.212.168.170:35561",
+      "proxy_url": "socks4://8.212.168.170:35561",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "47.237.113.119:1720",
+      "proxy_url": "socks4://47.237.113.119:1720",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -2348,6 +2043,18 @@
     },
     {
       "protocol": "https",
+      "address": "138.199.35.214:9002",
+      "proxy_url": "https://138.199.35.214:9002",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "156.146.59.9:9002",
       "proxy_url": "https://156.146.59.9:9002",
       "latency_ms": 500.0,
@@ -2372,8 +2079,32 @@
     },
     {
       "protocol": "https",
+      "address": "138.199.35.200:9002",
+      "proxy_url": "https://138.199.35.200:9002",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "138.199.35.203:9002",
       "proxy_url": "https://138.199.35.203:9002",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.199:9002",
+      "proxy_url": "https://138.199.35.199:9002",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -2444,6 +2175,18 @@
     },
     {
       "protocol": "https",
+      "address": "138.199.35.201:9002",
+      "proxy_url": "https://138.199.35.201:9002",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "138.199.35.204:9002",
       "proxy_url": "https://138.199.35.204:9002",
       "latency_ms": 500.0,
@@ -2504,6 +2247,18 @@
     },
     {
       "protocol": "https",
+      "address": "138.199.35.197:9002",
+      "proxy_url": "https://138.199.35.197:9002",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "156.146.59.5:9002",
       "proxy_url": "https://156.146.59.5:9002",
       "latency_ms": 500.0,
@@ -2518,6 +2273,18 @@
       "protocol": "https",
       "address": "138.199.35.198:9002",
       "proxy_url": "https://138.199.35.198:9002",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.217:9002",
+      "proxy_url": "https://138.199.35.217:9002",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",

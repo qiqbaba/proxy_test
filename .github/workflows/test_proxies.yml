@@ -28,71 +28,13 @@ on:
           - 'false'
 
 jobs:
-  prepare_matrix:
-    name: 准备测试矩阵
+  prepare_and_fetch:
+    name: 准备矩阵与统一抓取代理源
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     outputs:
       targets: ${{ steps.set-matrix.outputs.targets }}
       target_count: ${{ steps.set-matrix.outputs.target_count }}
-      force_fetch: ${{ steps.set-matrix.outputs.force_fetch }}
-    steps:
-      - name: 检出仓库代码
-        uses: actions/checkout@v4
-
-      - name: 设置 Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: 解析测试站点列表
-        id: set-matrix
-        env:
-          INPUT_TARGET_URL: ${{ github.event.inputs.target_url || 'all' }}
-          INPUT_TARGET_COUNT: ${{ github.event.inputs.target_count || '1000' }}
-          INPUT_FORCE_FETCH: ${{ github.event.inputs.force_fetch || 'true' }}
-        run: |
-          python -c "
-          import json, os, sys, importlib.util
-          from urllib.parse import urlparse
-
-          spec = importlib.util.spec_from_file_location('proxy_test_config', 'proxy_test/config.py')
-          config = importlib.util.module_from_spec(spec)
-          spec.loader.exec_module(config)
-          DEFAULT_CRAWLER_TARGETS = config.DEFAULT_CRAWLER_TARGETS
-
-          target_input = os.environ.get('INPUT_TARGET_URL', 'all').strip()
-          target_count = os.environ.get('INPUT_TARGET_COUNT', '1000').strip()
-          force_fetch = os.environ.get('INPUT_FORCE_FETCH', 'true').strip()
-
-          if target_input.lower() in ('all', 'default', '*', ''):
-              targets = DEFAULT_CRAWLER_TARGETS
-          else:
-              targets = []
-              for u in target_input.split(','):
-                  u = u.strip()
-                  if u:
-                      source = urlparse(u).netloc.replace(':', '_').replace('.', '_') or 'custom'
-                      targets.append({'source': source, 'name': urlparse(u).netloc or u, 'url': u})
-          
-          matrix_json = json.dumps(targets, ensure_ascii=False)
-          print(f'Matrix targets: {matrix_json}')
-          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as f:
-              f.write(f'targets={matrix_json}\n')
-              f.write(f'target_count={target_count}\n')
-              f.write(f'force_fetch={force_fetch}\n')
-          "
-
-  test_matrix:
-    name: 测试站点 - ${{ matrix.target.name }}
-    needs: prepare_matrix
-    runs-on: ubuntu-latest
-    timeout-minutes: 360
-    strategy:
-      fail-fast: false
-      matrix:
-        target: ${{ fromJson(needs.prepare_matrix.outputs.targets) }}
-
     steps:
       - name: 检出仓库代码
         uses: actions/checkout@v4
@@ -112,19 +54,94 @@ jobs:
           path: cache/
           key: proxy-test-cache-latest
 
-      - name: 运行单站点代理测试
+      - name: 解析测试站点列表
+        id: set-matrix
+        env:
+          INPUT_TARGET_URL: ${{ github.event.inputs.target_url || 'all' }}
+          INPUT_TARGET_COUNT: ${{ github.event.inputs.target_count || '1000' }}
+        run: |
+          python -c "
+          import json, os, sys, importlib.util
+          from urllib.parse import urlparse
+
+          spec = importlib.util.spec_from_file_location('proxy_test_config', 'proxy_test/config.py')
+          config = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(config)
+          DEFAULT_CRAWLER_TARGETS = config.DEFAULT_CRAWLER_TARGETS
+
+          target_input = os.environ.get('INPUT_TARGET_URL', 'all').strip()
+          target_count = os.environ.get('INPUT_TARGET_COUNT', '1000').strip()
+
+          if target_input.lower() in ('all', 'default', '*', ''):
+              targets = DEFAULT_CRAWLER_TARGETS
+          else:
+              targets = []
+              for u in target_input.split(','):
+                  u = u.strip()
+                  if u:
+                      source = urlparse(u).netloc.replace(':', '_').replace('.', '_') or 'custom'
+                      targets.append({'source': source, 'name': urlparse(u).netloc or u, 'url': u})
+          
+          matrix_json = json.dumps(targets, ensure_ascii=False)
+          print(f'Matrix targets: {matrix_json}')
+          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as f:
+              f.write(f'targets={matrix_json}\n')
+              f.write(f'target_count={target_count}\n')
+          "
+
+      - name: 统一从网络源抓取最新候选代理
+        env:
+          INPUT_FORCE_FETCH: ${{ github.event.inputs.force_fetch || 'true' }}
+        run: |
+          if [ "$INPUT_FORCE_FETCH" = "true" ] || [ ! -f "cache/proxy_cache.db" ]; then
+            echo "[*] 执行统一抓取候选代理..."
+            python cli.py --fetch-only
+          else
+            echo "[*] 使用已有缓存数据库，跳过网络抓取"
+          fi
+
+      - name: 上传统一候选代理缓存产物
+        uses: actions/upload-artifact@v4
+        with:
+          name: proxy-candidates-cache
+          path: cache/
+          retention-days: 1
+
+  test_matrix:
+    name: 测试站点 - ${{ matrix.target.name }}
+    needs: prepare_and_fetch
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    strategy:
+      fail-fast: false
+      matrix:
+        target: ${{ fromJson(needs.prepare_and_fetch.outputs.targets) }}
+
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 下载统一候选代理缓存
+        uses: actions/download-artifact@v4
+        with:
+          name: proxy-candidates-cache
+          path: cache/
+
+      - name: 运行单站点代理测试 (复用候选池)
         env:
           PROXY_VERIFY_WORKERS: 250
         run: |
-          TARGET_COUNT="${{ needs.prepare_matrix.outputs.target_count }}"
-          FORCE_FETCH="${{ needs.prepare_matrix.outputs.force_fetch }}"
-          
-          FETCH_FLAG=""
-          if [ "$FORCE_FETCH" = "true" ]; then
-            FETCH_FLAG="-f"
-          fi
-          
-          python cli.py -u "${{ matrix.target.url }}" -c "$TARGET_COUNT" $FETCH_FLAG
+          TARGET_COUNT="${{ needs.prepare_and_fetch.outputs.target_count }}"
+          python cli.py -u "${{ matrix.target.url }}" -c "$TARGET_COUNT"
 
       - name: 上传单站点测试产物
         uses: actions/upload-artifact@v4
@@ -135,8 +152,8 @@ jobs:
 
   aggregate_and_commit:
     name: 聚合多站数据并提交推送
-    needs: [prepare_matrix, test_matrix]
-    if: always() && needs.prepare_matrix.result == 'success' && (needs.test_matrix.result == 'success' || needs.test_matrix.result == 'failure')
+    needs: [prepare_and_fetch, test_matrix]
+    if: always() && needs.prepare_and_fetch.result == 'success' && (needs.test_matrix.result == 'success' || needs.test_matrix.result == 'failure')
     runs-on: ubuntu-latest
     timeout-minutes: 360
 
@@ -154,6 +171,13 @@ jobs:
 
       - name: 安装依赖
         run: pip install -r requirements.txt
+
+      - name: 下载统一候选代理缓存
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: proxy-candidates-cache
+          path: cache/
 
       - name: 下载各站点测试产物
         uses: actions/download-artifact@v4

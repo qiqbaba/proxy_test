@@ -131,10 +131,19 @@ def main():
     parser.add_argument("--fetch-proxy", type=str, default=None, help="拉取代理源时使用的临时代理 (如: http://127.0.0.1:7890)")
     parser.add_argument("--no-export", action="store_true", default=False, help="禁止自动导出到 data/ 目录")
     parser.add_argument("--list-proxies", action="store_true", default=False, help="测试结束后在终端逐条打印可用代理明细列表 (默认不列出)")
+    parser.add_argument("--fetch-only", action="store_true", default=False, help="仅从网络代理源抓取候选代理并写入缓存数据库，不执行站点测活")
     parser.add_argument("--merge", action="store_true", default=False, help="扫描并合并 data/sites/ 目录中的所有测试产物至全局文件")
     parser.add_argument("--merge-artifacts", type=str, default=None, help="从 GitHub Actions 下载的多任务产物根目录合并至 data/sites/ 并生成全局文件")
 
     args = parser.parse_args()
+
+    # 处理纯抓取模式
+    if args.fetch_only:
+        print("[*] 正在从配置的网络代理源统一抓取候选代理列表...")
+        pool = get_global_pool(fetch_proxy=args.fetch_proxy)
+        count = pool.fetch_proxies(force=True, fetch_proxy=args.fetch_proxy)
+        print(f"[+] 抓取完成! 共获取 {count} 个候选代理，已持久化至缓存数据库: {pool.db_path}")
+        return
 
     exporter = ProxyExporter()
 

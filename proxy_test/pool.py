@@ -89,7 +89,7 @@ class ProxyPool:
             self._last_fetch_time = int(meta.get("last_fetch_time", 0))
             self._last_verify_time = int(meta.get("last_verify_time", 0))
 
-            cursor.execute("SELECT * FROM proxy_cache WHERE last_verified > 0")
+            cursor.execute("SELECT * FROM proxy_cache")
             self._proxies = []
             self._working_proxies = []
             for row in cursor.fetchall():
@@ -110,10 +110,11 @@ class ProxyPool:
                     "valid_targets": valid_set
                 }
                 self._proxies.append(p)
-                self._working_proxies.append(p.copy())
+                if p["last_verified"] > 0 and p["score"] >= -5:
+                    self._working_proxies.append(p.copy())
 
             conn.close()
-            logger.info("从缓存加载了 %s 个已验证代理", len(self._working_proxies))
+            logger.info("从缓存加载了 %s 个候选代理 (其中 %s 个已验证有效)", len(self._proxies), len(self._working_proxies))
         except Exception as e:
             logger.warning("加载 SQLite 缓存异常: %s", e)
 
@@ -175,8 +176,8 @@ class ProxyPool:
     def fetch_proxies(self, force: bool = False, min_count: int = 200, fetch_proxy: Optional[str] = None) -> int:
         """获取并更新代理池候选列表"""
         now = time.time()
-        if not force and (now - self._last_fetch_time) < self.cache_ttl and len(self._working_proxies) >= min_count:
-            logger.info("当前可用代理充足 (%s 个)，跳过网络抓取", len(self._working_proxies))
+        if not force and (now - self._last_fetch_time) < self.cache_ttl and len(self._proxies) >= min_count:
+            logger.info("当前候选代理充足 (%s 个)，跳过网络抓取", len(self._proxies))
             return len(self._proxies)
 
         existing_history = {}
