@@ -4550,61 +4550,59 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "dtbt7.com"
-      ],
-      "last_verified": 1786980551.769234
-    },
-    {
-      "protocol": "https",
-      "address": "45.9.61.18:443",
-      "proxy_url": "https://45.9.61.18:443",
-      "latency_ms": 4934.2,
+        "dtbt7.com"3:443",
+      "proxy_url": "https://13.232.233.63:443",
+      "latency_ms": 1915.7,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com"
       ],
-      "last_verified": 1786980551.778604
+      "last_verified": 1787067415.22715
     },
     {
       "protocol": "https",
-      "address": "129.212.181.253:8443",
-      "proxy_url": "https://129.212.181.253:8443",
-      "latency_ms": 1566.8,
+      "address": "194.186.179.62:443",
+      "proxy_url": "https://194.186.179.62:443",
+      "latency_ms": 3956.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com"
       ],
-      "last_verified": 1786980551.8098366
+      "last_verified": 1787067415.2783167
     },
     {
       "protocol": "https",
-      "address": "159.13.44.228:443",
-      "proxy_url": "https://159.13.44.228:443",
-      "latency_ms": 1272.4,
+      "address": "80.155.33.20:443",
+      "proxy_url": "https://80.155.33.20:443",
+      "latency_ms": 3289.5,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com"
       ],
-      "last_verified": 1786980551.8955405
+      "last_verified": 1787067415.2942102
     },
     {
       "protocol": "https",
-      "address": "38.165.233.178:9443",
-      "proxy_url": "https://38.165.233.178:9443",
-      "latency_ms": 3996.8,
+      "address": "103.86.47.40:443",
+      "proxy_url": "https://103.86.47.40:443",
+      "latency_ms": 1046.5,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com"
       ],
-      "last_verified": 1786980551.9390297
+      "last_verified": 1787067415.3426783
     },
     {
       "protocol": "https",
-      "address": "158.173.154.67:9002",
+      "address": "4.193.133.242:443",
+      "proxy_url": "https://4.193.133.242:443",
+      "latency_ms": 4076.7,
+      "score": 1,
+      "source":58.173.154.67:9002",
       "proxy_url": "https://158.173.154.67:9002",
       "latency_ms": 1863.7,
       "score": 1,
@@ -12113,6 +12111,28 @@
         "dtbt7.com"
       ],
       "last_verified": 1786981459.8696654
+    }
+  ]
+}79.23:49772",
+      "latency_ms": 642.9,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "dtbt7.com"
+      ],
+      "last_verified": 1787068972.2441907
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.200.179.23:8197",
+      "proxy_url": "socks5://43.200.179.23:8197",
+      "latency_ms": 660.8,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "dtbt7.com"
+      ],
+      "last_verified": 1787068972.2457783
     }
   ]
 }

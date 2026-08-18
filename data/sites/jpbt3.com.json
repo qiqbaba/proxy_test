@@ -12085,4 +12085,135 @@
       "last_verified": 1786980632.5909655
     }
   ]
+}dress": "43.208.243.207:8200",
+      "proxy_url": "socks5://43.208.243.207:8200",
+      "latency_ms": 982.5,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068969.871367
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.208.243.207:9976",
+      "proxy_url": "socks5://43.208.243.207:9976",
+      "latency_ms": 993.9,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068969.8715794
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.208.243.207:44776",
+      "proxy_url": "socks5://43.208.243.207:44776",
+      "latency_ms": 963.7,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068969.882196
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.208.243.207:36313",
+      "proxy_url": "socks5://43.208.243.207:36313",
+      "latency_ms": 968.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068969.8833723
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.208.243.207:12905",
+      "proxy_url": "socks5://43.208.243.207:12905",
+      "latency_ms": 976.0,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068969.8917482
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.208.243.207:9182",
+      "proxy_url": "socks5://43.208.243.207:9182",
+      "latency_ms": 946.5,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068969.9079266
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.208.243.207:4790",
+      "proxy_url": "socks5://43.208.243.207:4790",
+      "latency_ms": 967.9,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068969.9126058
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.209.173.229:33871",
+      "proxy_url": "socks5://43.209.173.229:33871",
+      "latency_ms": 1229.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068970.979547
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.209.173.229:25315",
+      "proxy_url": "socks5://43.209.173.229:25315",
+      "latency_ms": 1198.8,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068970.979742
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.209.173.229:38156",
+      "proxy_url": "socks5://43.209.173.229:38156",
+      "latency_ms": 1228.9,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068971.0077064
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.209.173.229:40519",
+      "proxy_url": "socks5://43.209.173.229:40519",
+      "latency_ms": 1218.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1787068971.0080183
+    }
+  ]
 }

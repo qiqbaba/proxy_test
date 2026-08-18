@@ -12129,4 +12129,36 @@
       "last_verified": 1786982340.517818
     }
   ]
+}ore": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1787068851.3137593
+    },
+    {
+      "protocol": "socks5",
+      "address": "34.246.183.20:50168",
+      "proxy_url": "socks5://34.246.183.20:50168",
+      "latency_ms": 372.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1787068851.335176
+    },
+    {
+      "protocol": "socks5",
+      "address": "34.246.183.20:34558",
+      "proxy_url": "socks5://34.246.183.20:34558",
+      "latency_ms": 370.5,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1787068851.3940172
+    }
+  ]
 }
