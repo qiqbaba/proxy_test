@@ -12221,4 +12221,14 @@
       "last_verified": 1787068857.0712743
     }
   ]
+}43.198.22.151:10",
+      "latency_ms": 956.2,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "mfgc3.com"
+      ],
+      "last_verified": 1787241830.5899172
+    }
+  ]
 }

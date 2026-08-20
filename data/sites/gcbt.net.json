@@ -12063,4 +12063,130 @@
       "last_verified": 1787155333.3052807
     }
   ]
+}s": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.8706748
+    },
+    {
+      "protocol": "socks4",
+      "address": "13.60.163.108:5509",
+      "proxy_url": "socks4://13.60.163.108:5509",
+      "latency_ms": 679.4,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.881402
+    },
+    {
+      "protocol": "socks4",
+      "address": "13.60.181.61:8079",
+      "proxy_url": "socks4://13.60.181.61:8079",
+      "latency_ms": 654.1,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.8909705
+    },
+    {
+      "protocol": "socks4",
+      "address": "13.60.163.108:1082",
+      "proxy_url": "socks4://13.60.163.108:1082",
+      "latency_ms": 703.6,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.903701
+    },
+    {
+      "protocol": "socks4",
+      "address": "13.60.163.108:8300",
+      "proxy_url": "socks4://13.60.163.108:8300",
+      "latency_ms": 718.2,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.909222
+    },
+    {
+      "protocol": "socks4",
+      "address": "13.60.181.61:49513",
+      "proxy_url": "socks4://13.60.181.61:49513",
+      "latency_ms": 671.5,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.9124372
+    },
+    {
+      "protocol": "socks4",
+      "address": "13.60.163.108:8101",
+      "proxy_url": "socks4://13.60.163.108:8101",
+      "latency_ms": 678.3,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.9144561
+    },
+    {
+      "protocol": "socks4",
+      "address": "13.60.181.61:11876",
+      "proxy_url": "socks4://13.60.181.61:11876",
+      "latency_ms": 638.2,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.9154165
+    },
+    {
+      "protocol": "socks4",
+      "address": "13.60.163.108:51013",
+      "proxy_url": "socks4://13.60.163.108:51013",
+      "latency_ms": 697.3,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.9157093
+    },
+    {
+      "protocol": "socks4",
+      "address": "13.60.181.61:26286",
+      "proxy_url": "socks4://13.60.181.61:26286",
+      "latency_ms": 704.0,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.9179323
+    },
+    {
+      "protocol": "socks4",
+      "address": "13.60.181.61:9480",
+      "proxy_url": "socks4://13.60.181.61:9480",
+      "latency_ms": 709.6,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1787243190.9185374
+    }
+  ]
 }

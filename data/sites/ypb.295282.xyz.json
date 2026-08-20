@@ -12125,4 +12125,20 @@
       "last_verified": 1786981230.8265328
     }
   ]
+},
+      "last_verified": 1787241712.7742324
+    },
+    {
+      "protocol": "socks5",
+      "address": "3.19.213.118:20799",
+      "proxy_url": "socks5://3.19.213.118:20799",
+      "latency_ms": 196.6,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787241712.9332705
+    }
+  ]
 }

@@ -12122,4 +12122,89 @@
       "last_verified": 1786981002.4058182
     }
   ]
+}{
+      "protocol": "socks5",
+      "address": "51.84.101.19:5020",
+      "proxy_url": "socks5://51.84.101.19:5020",
+      "latency_ms": 980.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 1787242116.190681
+    },
+    {
+      "protocol": "socks5",
+      "address": "51.85.44.149:9002",
+      "proxy_url": "socks5://51.85.44.149:9002",
+      "latency_ms": 982.8,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 1787242116.1912324
+    },
+    {
+      "protocol": "socks5",
+      "address": "51.85.44.149:32788",
+      "proxy_url": "socks5://51.85.44.149:32788",
+      "latency_ms": 974.6,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 1787242116.195734
+    },
+    {
+      "protocol": "socks5",
+      "address": "51.84.101.19:47948",
+      "proxy_url": "socks5://51.84.101.19:47948",
+      "latency_ms": 972.6,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 1787242116.1975255
+    },
+    {
+      "protocol": "socks5",
+      "address": "51.84.101.19:15689",
+      "proxy_url": "socks5://51.84.101.19:15689",
+      "latency_ms": 948.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 1787242116.2124379
+    },
+    {
+      "protocol": "socks5",
+      "address": "51.84.101.19:38238",
+      "proxy_url": "socks5://51.84.101.19:38238",
+      "latency_ms": 985.8,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 1787242116.238621
+    },
+    {
+      "protocol": "socks5",
+      "address": "51.84.101.19:18867",
+      "proxy_url": "socks5://51.84.101.19:18867",
+      "latency_ms": 962.0,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 1787242116.2470324
+    }
+  ]
 }
