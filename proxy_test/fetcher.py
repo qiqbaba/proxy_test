@@ -77,15 +77,48 @@ class ProxyFetcher:
                 raw_bytes = await resp.read()
                 text = raw_bytes.decode("utf-8", errors="ignore")
 
-            # 针对 HTML 网页格式解析
-            if source_name in ("free_proxy_list", "sslproxies_org"):
+            # 快代理: 解析嵌入 <script> 的 fpsList JSON ({"ip": "...", "port": "..."})
+            if source_name.startswith("kuaidaili_"):
+                pairs = re.findall(
+                    r'"ip"\s*:\s*"(\d{1,3}(?:\.\d{1,3}){3})"[^}]*?"port"\s*:\s*"(\d{1,5})"',
+                    text,
+                )
+                for ip, port in pairs:
+                    p = int(port)
+                    if 1 <= p <= 65535:
+                        proxies.append({
+                            "protocol": "http",
+                            "address": f"{ip}:{p}",
+                            "source": source_name,
+                        })
+                return proxies
+
+            # ProxyList+: HTML 表格 <td>IP</td><td>Port</td> 相邻单元格
+            if source_name.startswith("proxylistplus_"):
+                pairs = re.findall(
+                    r"<td[^>]*>\s*(\d{1,3}(?:\.\d{1,3}){3})\s*</td>\s*<td[^>]*>\s*(\d{1,5})\s*</td>",
+                    text,
+                    re.IGNORECASE,
+                )
+                for ip, port in pairs:
+                    p = int(port)
+                    if 1 <= p <= 65535:
+                        proxies.append({
+                            "protocol": "http",
+                            "address": f"{ip}:{p}",
+                            "source": source_name,
+                        })
+                return proxies
+
+            # 89ip / free_proxy_list / sslproxies_org: 全文检索 ip:port 模式
+            if source_name in ("free_proxy_list", "sslproxies_org", "89ip"):
                 matches = re.findall(r"(\d{1,3}(?:\.\d{1,3}){3}:\d{1,5})", text)
                 for address in matches:
                     protocol = "https" if "ssl" in source_name else "http"
                     proxies.append({
                         "protocol": protocol,
                         "address": address,
-                        "source": source_name
+                        "source": source_name,
                     })
                 return proxies
 

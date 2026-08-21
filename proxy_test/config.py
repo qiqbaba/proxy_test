@@ -119,6 +119,19 @@ PROXY_SOURCES: Dict[str, str] = {
     "proxifly_all": "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.txt",
     "vpslab_all_elite": "https://raw.githubusercontent.com/VPSLabCloud/VPSLab-Free-Proxy-List/main/all_elite.txt",
     "clarketm_proxy": "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
+
+    # 5. 实时 HTTP 代理源 (补全 TheSpeedX HTTP 列表)
+    "speedx_http": "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt",
+    "speedx_proxy_list_http": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+
+    # 6. 国内免费代理站 (HTML/JSON 格式，参考 henson/proxypool 用到的代理站)
+    "kuaidaili_inha": "https://www.kuaidaili.com/free/inha/",
+    "kuaidaili_intr": "https://www.kuaidaili.com/free/intr/",
+    "89ip": "https://www.89ip.cn/tqdl.html?num=100&address=&ajax=true",
+    "proxylistplus_http": "https://list.proxylistplus.com/Fresh-HTTP-Proxy-List-1",
+
+    # 7. 公共代理池 API (支持国内 CN 地区筛选)
+    "proxypool_scrape_cn": "https://proxypool.scrape.center/all?area=CN",
 }
 
 @lru_cache(maxsize=None)
