@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated_at": "2026-08-27 22:50:26",
-    "timestamp": 1787871026.3249652,
-    "total_unique_valid": 3318,
+    "updated_at": "2026-08-27 23:05:34",
+    "timestamp": 1787871934.381153,
+    "total_unique_valid": 3319,
     "sites_tested": 14,
     "site_summary": {
       "jpbt3.com": 1000,
@@ -52,17 +52,34 @@
       "proxy_url": "http://34.94.46.8:80",
       "latency_ms": 323.0,
       "score": 2,
-      "source": "proxifly_all",
+      "source": "vpslab_all_elite",
       "valid_targets": [
         "gcbt.net",
         "j4f4.com",
         "seju.life",
         "taosebt.com",
         "thbt8.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870952.5769594
+      "last_verified": 1787761284.2049904
+    },
+    {
+      "protocol": "http",
+      "address": "64.112.184.210:3128",
+      "proxy_url": "http://64.112.184.210:3128",
+      "latency_ms": 384.7,
+      "score": 2,
+      "source": "proxifly_all",
+      "valid_targets": [
+        "gcbt.net",
+        "pms.532862.xyz",
+        "seju.life",
+        "u3c3.com",
+        "www.alicesw.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787404232.5712686
     },
     {
       "protocol": "socks4",
@@ -110,24 +127,6 @@
         "ypb.295282.xyz"
       ],
       "last_verified": 1787240237.0842786
-    },
-    {
-      "protocol": "http",
-      "address": "64.112.184.210:3128",
-      "proxy_url": "http://64.112.184.210:3128",
-      "latency_ms": 483.1,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "gcbt.net",
-        "pms.532862.xyz",
-        "seju.life",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787404232.5712686
     },
     {
       "protocol": "socks5",
@@ -261,6 +260,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -737,6 +737,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -911,7 +912,6 @@
       "valid_targets": [
         "jpbt3.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -996,7 +996,6 @@
         "seju.life",
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.1934543
@@ -1013,7 +1012,6 @@
         "mfgc3.com",
         "taosebt.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.2013524
@@ -1029,7 +1027,6 @@
         "jpbt3.com",
         "taosebt.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.20441
@@ -1046,7 +1043,6 @@
         "jpbt3.com",
         "pms.532862.xyz",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.211813
@@ -1062,7 +1058,6 @@
         "jpbt3.com",
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.2128108
@@ -1078,7 +1073,6 @@
         "jpbt3.com",
         "taosebt.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -1099,7 +1093,6 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -1170,7 +1163,6 @@
         "mfgc3.com",
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.2731154
@@ -1186,7 +1178,6 @@
         "jpbt3.com",
         "pms.532862.xyz",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.2747457
@@ -1202,7 +1193,6 @@
         "jpbt3.com",
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.2766273
@@ -1252,7 +1242,6 @@
         "jpbt3.com",
         "pms.532862.xyz",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.2777016
@@ -1304,7 +1293,6 @@
         "pms.532862.xyz",
         "taosebt.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.3216584
@@ -1321,7 +1309,6 @@
         "seju.life",
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.3759823
@@ -1338,7 +1325,6 @@
         "seju.life",
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.379108
@@ -1663,7 +1649,6 @@
         "pms.532862.xyz",
         "taosebt.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -1853,7 +1838,6 @@
         "jpbt3.com",
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -1870,7 +1854,6 @@
         "jpbt3.com",
         "mfgc3.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240240.2692275
@@ -1886,7 +1869,6 @@
         "jpbt3.com",
         "taosebt.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240240.317138
@@ -1931,7 +1913,6 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240241.2909718
@@ -2006,7 +1987,6 @@
       "valid_targets": [
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -2039,7 +2019,6 @@
         "seju.life",
         "taosebt.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404233.192139
@@ -2072,7 +2051,6 @@
       "valid_targets": [
         "pms.532862.xyz",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404233.2634494
@@ -2087,7 +2065,6 @@
       "valid_targets": [
         "taosebt.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404233.2636466
@@ -2102,7 +2079,6 @@
       "valid_targets": [
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -2134,7 +2110,6 @@
       "valid_targets": [
         "dtbt7.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404233.290204
@@ -2149,7 +2124,6 @@
       "valid_targets": [
         "taosebt.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -2181,7 +2155,6 @@
       "valid_targets": [
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -2198,7 +2171,6 @@
         "dtbt7.com",
         "seju.life",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404233.312631
@@ -2231,7 +2203,6 @@
         "pms.532862.xyz",
         "taosebt.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404233.3324609
@@ -2281,7 +2252,6 @@
         "mfgc3.com",
         "seju.life",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -2300,7 +2270,6 @@
         "seju.life",
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -2367,6 +2336,7 @@
       "valid_targets": [
         "gcbt.net",
         "seju.life",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -2381,7 +2351,6 @@
       "source": "monosans_socks5",
       "valid_targets": [
         "pms.532862.xyz",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -2428,7 +2397,6 @@
         "j4f4.com",
         "pms.532862.xyz",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -2445,6 +2413,7 @@
         "dtbt7.com",
         "pms.532862.xyz",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -2460,7 +2429,6 @@
       "valid_targets": [
         "thbt8.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404235.9439425
@@ -2515,6 +2483,39 @@
     },
     {
       "protocol": "socks4",
+      "address": "72.214.108.67:4145",
+      "proxy_url": "socks4://72.214.108.67:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "anonym0uswork_socks4",
+      "valid_targets": [
+        "dtbt7.com",
+        "pms.532862.xyz",
+        "thbt8.com",
+        "u3c3.com",
+        "www.alicesw.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787871864.231872
+    },
+    {
+      "protocol": "socks4",
+      "address": "98.170.57.241:4145",
+      "proxy_url": "socks4://98.170.57.241:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "anonym0uswork_socks4",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "u3c3.com",
+        "www.alicesw.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787871864.2342346
+    },
+    {
+      "protocol": "socks4",
       "address": "184.181.217.213:4145",
       "proxy_url": "socks4://184.181.217.213:4145",
       "latency_ms": 500.0,
@@ -2528,113 +2529,22 @@
         "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.219338
+      "last_verified": 1787871864.2481563
     },
     {
-      "protocol": "socks4",
-      "address": "98.181.137.83:4145",
-      "proxy_url": "socks4://98.181.137.83:4145",
+      "protocol": "http",
+      "address": "34.134.231.117:3129",
+      "proxy_url": "http://34.134.231.117:3129",
       "latency_ms": 500.0,
       "score": 2,
-      "source": "speedx_socks4",
+      "source": "proxifly_all",
       "valid_targets": [
-        "pms.532862.xyz",
         "u3c3.com",
         "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "ypb.295282.xyz"
       ],
-      "last_verified": 1787870953.2307174
-    },
-    {
-      "protocol": "socks4",
-      "address": "98.170.57.231:4145",
-      "proxy_url": "socks4://98.170.57.231:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "mfgc3.com",
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.236428
-    },
-    {
-      "protocol": "socks4",
-      "address": "174.64.199.82:4145",
-      "proxy_url": "socks4://174.64.199.82:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "mfgc3.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.2617059
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.205.0.67:4145",
-      "proxy_url": "socks5://72.205.0.67:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "komutan_socks5",
-      "valid_targets": [
-        "dtbt7.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.2633612
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.195.34.59:4145",
-      "proxy_url": "socks5://72.195.34.59:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "mfgc3.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.2644958
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.181.217.201:4145",
-      "proxy_url": "socks4://184.181.217.201:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.2734416
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.178.172.28:15294",
-      "proxy_url": "socks4://184.178.172.28:15294",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "mfgc3.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.2767673
+      "last_verified": 1787871864.2517104
     },
     {
       "protocol": "socks4",
@@ -2651,55 +2561,7 @@
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
-      "last_verified": 1787870953.2774413
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.181.217.220:4145",
-      "proxy_url": "socks4://184.181.217.220:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "taosebt.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787870953.2823615
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.178.72.30:4145",
-      "proxy_url": "socks5://98.178.72.30:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "seju.life",
-        "taosebt.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.2848065
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.181.137.83:4145",
-      "proxy_url": "socks5://98.181.137.83:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "dtbt7.com",
-        "pms.532862.xyz",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.2904007
+      "last_verified": 1787871864.2617986
     },
     {
       "protocol": "socks4",
@@ -2707,7 +2569,7 @@
       "proxy_url": "socks4://72.205.0.67:4145",
       "latency_ms": 500.0,
       "score": 2,
-      "source": "proxyscrape_socks4",
+      "source": "anonym0uswork_socks4",
       "valid_targets": [
         "j4f4.com",
         "mfgc3.com",
@@ -2716,228 +2578,7 @@
         "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.2954907
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.223.188.67:4145",
-      "proxy_url": "socks5://72.223.188.67:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "pms.532862.xyz",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.2976193
-    },
-    {
-      "protocol": "socks4",
-      "address": "72.214.108.67:4145",
-      "proxy_url": "socks4://72.214.108.67:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "anonym0uswork_socks4",
-      "valid_targets": [
-        "dtbt7.com",
-        "pms.532862.xyz",
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787870953.2979877
-    },
-    {
-      "protocol": "socks5",
-      "address": "174.75.211.222:4145",
-      "proxy_url": "socks5://174.75.211.222:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "r00tee_socks5",
-      "valid_targets": [
-        "mfgc3.com",
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.2981386
-    },
-    {
-      "protocol": "socks5",
-      "address": "70.166.65.160:4145",
-      "proxy_url": "socks5://70.166.65.160:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "thordata_socks5",
-      "valid_targets": [
-        "dtbt7.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.3065085
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.25:15291",
-      "proxy_url": "socks5://184.178.172.25:15291",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787870953.309911
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.191.0.47:4145",
-      "proxy_url": "socks5://98.191.0.47:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_socks5_all",
-      "valid_targets": [
-        "taosebt.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.3147988
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.178.172.11:4145",
-      "proxy_url": "socks4://184.178.172.11:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787870953.3149536
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.11:4145",
-      "proxy_url": "socks5://184.178.172.11:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "dtbt7.com",
-        "taosebt.com",
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.3208435
-    },
-    {
-      "protocol": "socks5",
-      "address": "24.249.199.4:4145",
-      "proxy_url": "socks5://24.249.199.4:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.32501
-    },
-    {
-      "protocol": "socks4",
-      "address": "98.170.57.241:4145",
-      "proxy_url": "socks4://98.170.57.241:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "anonym0uswork_socks4",
-      "valid_targets": [
-        "pms.532862.xyz",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.3287995
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.182.147.97:4145",
-      "proxy_url": "socks5://98.182.147.97:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "dtbt7.com",
-        "seju.life",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.330452
-    },
-    {
-      "protocol": "socks4",
-      "address": "68.1.210.189:4145",
-      "proxy_url": "socks4://68.1.210.189:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "dtbt7.com",
-        "pms.532862.xyz",
-        "taosebt.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.3311775
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.181.217.206:4145",
-      "proxy_url": "socks4://184.181.217.206:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "dtbt7.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.334271
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.170.57.231:4145",
-      "proxy_url": "socks5://98.170.57.231:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "dtbt7.com",
-        "pms.532862.xyz",
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.334738
+      "last_verified": 1787871864.287959
     },
     {
       "protocol": "socks4",
@@ -2945,145 +2586,14 @@
       "proxy_url": "socks4://184.178.172.25:15291",
       "latency_ms": 500.0,
       "score": 2,
-      "source": "speedx_socks4",
+      "source": "proxyscrape_socks4",
       "valid_targets": [
         "taosebt.com",
         "u3c3.com",
         "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.3365054
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.13:15311",
-      "proxy_url": "socks5://184.178.172.13:15311",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "pms.532862.xyz",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.3604853
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.18:15280",
-      "proxy_url": "socks5://184.178.172.18:15280",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "taosebt.com",
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787870953.3657963
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.5:15303",
-      "proxy_url": "socks5://184.178.172.5:15303",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "dtbt7.com",
-        "mfgc3.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "taosebt.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.369638
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.178.72.21:10919",
-      "proxy_url": "socks5://98.178.72.21:10919",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "dtbt7.com",
-        "mfgc3.com",
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.3924496
-    },
-    {
-      "protocol": "socks5",
-      "address": "70.166.167.38:57728",
-      "proxy_url": "socks5://70.166.167.38:57728",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "dtbt7.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787870953.3994446
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.170.57.241:4145",
-      "proxy_url": "socks5://98.170.57.241:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "mfgc3.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.4011211
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.191.0.37:4145",
-      "proxy_url": "socks5://98.191.0.37:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "taosebt.com",
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.4028108
-    },
-    {
-      "protocol": "socks4",
-      "address": "98.170.57.249:4145",
-      "proxy_url": "socks4://98.170.57.249:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "seju.life",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787870953.4378858
+      "last_verified": 1787871864.304795
     },
     {
       "protocol": "socks4",
@@ -3101,69 +2611,37 @@
         "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.5795715
+      "last_verified": 1787871864.3107753
     },
     {
-      "protocol": "socks4",
-      "address": "184.178.172.18:15280",
-      "proxy_url": "socks4://184.178.172.18:15280",
+      "protocol": "socks5",
+      "address": "184.178.172.13:15311",
+      "proxy_url": "socks5://184.178.172.13:15311",
       "latency_ms": 500.0,
       "score": 2,
-      "source": "speedx_socks4",
+      "source": "proxyscrape_socks5",
       "valid_targets": [
         "pms.532862.xyz",
         "u3c3.com",
         "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.6174583
+      "last_verified": 1787871864.3448877
     },
     {
-      "protocol": "socks4",
-      "address": "184.178.172.3:4145",
-      "proxy_url": "socks4://184.178.172.3:4145",
+      "protocol": "socks5",
+      "address": "72.223.188.67:4145",
+      "proxy_url": "socks5://72.223.188.67:4145",
       "latency_ms": 500.0,
       "score": 2,
-      "source": "speedx_socks4",
+      "source": "speedx_socks5",
       "valid_targets": [
         "pms.532862.xyz",
         "u3c3.com",
         "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787870953.639756
-    },
-    {
-      "protocol": "socks5",
-      "address": "68.1.210.189:4145",
-      "proxy_url": "socks5://68.1.210.189:4145",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "mfgc3.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787870953.740898
-    },
-    {
-      "protocol": "socks5",
-      "address": "144.124.227.88:3129",
-      "proxy_url": "socks5://144.124.227.88:3129",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "seju.life",
-        "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.8810964
+      "last_verified": 1787871864.3486834
     },
     {
       "protocol": "socks5",
@@ -3179,7 +2657,175 @@
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
-      "last_verified": 1787870953.8958795
+      "last_verified": 1787871864.6414177
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.170.57.241:4145",
+      "proxy_url": "socks5://98.170.57.241:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "mfgc3.com",
+        "u3c3.com",
+        "www.alicesw.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787871864.7261126
+    },
+    {
+      "protocol": "socks5",
+      "address": "89.208.106.37:32712",
+      "proxy_url": "socks5://89.208.106.37:32712",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "dtbt7.com",
+        "gcbt.net",
+        "j4f4.com",
+        "pms.532862.xyz",
+        "www.alicesw.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787871864.8272095
+    },
+    {
+      "protocol": "socks5",
+      "address": "147.45.221.111:1082",
+      "proxy_url": "socks5://147.45.221.111:1082",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "thbt8.com",
+        "www.alicesw.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787871865.4601288
+    },
+    {
+      "protocol": "socks5",
+      "address": "144.124.227.88:3129",
+      "proxy_url": "socks5://144.124.227.88:3129",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "seju.life",
+        "u3c3.com",
+        "www.alicesw.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787871865.645308
+    },
+    {
+      "protocol": "socks5",
+      "address": "141.148.158.143:1080",
+      "proxy_url": "socks5://141.148.158.143:1080",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "vpslab_socks5_all",
+      "valid_targets": [
+        "mfgc3.com",
+        "u3c3.com",
+        "www.alicesw.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787871865.9002247
+    },
+    {
+      "protocol": "http",
+      "address": "43.109.48.180:9999",
+      "proxy_url": "http://43.109.48.180:9999",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "vpslab_all_elite",
+      "valid_targets": [
+        "seju.life",
+        "u3c3.com",
+        "www.alicesw.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787871866.3025694
+    },
+    {
+      "protocol": "http",
+      "address": "163.181.207.170:9999",
+      "proxy_url": "http://163.181.207.170:9999",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxypool_scrape_cn",
+      "valid_targets": [
+        "www.alicesw.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787871866.451089
+    },
+    {
+      "protocol": "socks4",
+      "address": "45.61.129.165:9050",
+      "proxy_url": "socks4://45.61.129.165:9050",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "anonym0uswork_socks4",
+      "valid_targets": [
+        "dtbt7.com",
+        "mfgc3.com",
+        "www.alicesw.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787871866.7587786
+    },
+    {
+      "protocol": "http",
+      "address": "42.96.18.62:1311",
+      "proxy_url": "http://42.96.18.62:1311",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxifly_all",
+      "valid_targets": [
+        "mfgc3.com",
+        "u3c3.com",
+        "www.alicesw.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787871866.93915
+    },
+    {
+      "protocol": "socks5",
+      "address": "109.123.251.109:1080",
+      "proxy_url": "socks5://109.123.251.109:1080",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "thbt8.com",
+        "www.alicesw.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787871867.0425253
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.181.217.201:4145",
+      "proxy_url": "socks4://184.181.217.201:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "thbt8.com",
+        "u3c3.com",
+        "www.alicesw.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787871867.4099398
     },
     {
       "protocol": "socks5",
@@ -3195,38 +2841,7 @@
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
-      "last_verified": 1787870954.5027823
-    },
-    {
-      "protocol": "http",
-      "address": "43.109.48.180:9999",
-      "proxy_url": "http://43.109.48.180:9999",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "seju.life",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870954.9479473
-    },
-    {
-      "protocol": "socks5",
-      "address": "152.32.168.221:10808",
-      "proxy_url": "socks5://152.32.168.221:10808",
-      "latency_ms": 500.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "pms.532862.xyz",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787870956.2230885
+      "last_verified": 1787871867.9340417
     },
     {
       "protocol": "socks5",
@@ -3243,68 +2858,213 @@
         "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870956.291861
+      "last_verified": 1787871867.9546678
     },
     {
-      "protocol": "http",
-      "address": "34.134.231.117:3129",
-      "proxy_url": "http://34.134.231.117:3129",
+      "protocol": "socks4",
+      "address": "98.181.137.83:4145",
+      "proxy_url": "socks4://98.181.137.83:4145",
       "latency_ms": 500.0,
       "score": 2,
-      "source": "proxifly_all",
+      "source": "speedx_socks4",
       "valid_targets": [
+        "pms.532862.xyz",
         "u3c3.com",
-        "www.alicesw.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326652.92719
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.178.172.18:15280",
+      "proxy_url": "socks4://184.178.172.18:15280",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326652.9339848
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.181.217.220:4145",
+      "proxy_url": "socks4://184.181.217.220:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "taosebt.com",
+        "u3c3.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
-      "last_verified": 1787870956.7881505
+      "last_verified": 1787326652.9688034
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.178.172.11:4145",
+      "proxy_url": "socks4://184.178.172.11:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "u3c3.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787326652.9752312
+    },
+    {
+      "protocol": "socks4",
+      "address": "98.170.57.231:4145",
+      "proxy_url": "socks4://98.170.57.231:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "mfgc3.com",
+        "thbt8.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326652.9780552
     },
     {
       "protocol": "socks5",
-      "address": "171.25.158.95:1080",
-      "proxy_url": "socks5://171.25.158.95:1080",
+      "address": "98.191.0.37:4145",
+      "proxy_url": "socks5://98.191.0.37:4145",
       "latency_ms": 500.0,
       "score": 2,
       "source": "r00tee_socks5",
       "valid_targets": [
-        "pms.532862.xyz",
-        "www.alicesw.com",
+        "taosebt.com",
+        "thbt8.com",
+        "u3c3.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870958.044633
+      "last_verified": 1787326652.9842675
     },
     {
-      "protocol": "http",
-      "address": "42.96.18.62:1311",
-      "proxy_url": "http://42.96.18.62:1311",
+      "protocol": "socks4",
+      "address": "184.178.172.3:4145",
+      "proxy_url": "socks4://184.178.172.3:4145",
       "latency_ms": 500.0,
       "score": 2,
-      "source": "proxifly_all",
+      "source": "speedx_socks4",
       "valid_targets": [
-        "mfgc3.com",
+        "pms.532862.xyz",
         "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "ypb.295282.xyz"
       ],
-      "last_verified": 1787870958.137733
+      "last_verified": 1787326653.0013669
     },
     {
       "protocol": "socks5",
-      "address": "89.208.106.37:32712",
-      "proxy_url": "socks5://89.208.106.37:32712",
+      "address": "98.182.147.97:4145",
+      "proxy_url": "socks5://98.182.147.97:4145",
       "latency_ms": 500.0,
       "score": 2,
       "source": "proxyscrape_socks5",
       "valid_targets": [
         "dtbt7.com",
-        "gcbt.net",
-        "j4f4.com",
+        "seju.life",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.107869
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.170.57.231:4145",
+      "proxy_url": "socks5://98.170.57.231:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "dtbt7.com",
         "pms.532862.xyz",
+        "thbt8.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.1500869
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.178.172.11:4145",
+      "proxy_url": "socks5://184.178.172.11:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "dtbt7.com",
+        "taosebt.com",
+        "thbt8.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.1622837
+    },
+    {
+      "protocol": "socks5",
+      "address": "24.249.199.4:4145",
+      "proxy_url": "socks5://24.249.199.4:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "thbt8.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.181105
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.178.172.28:15294",
+      "proxy_url": "socks4://184.178.172.28:15294",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "mfgc3.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.2283406
+    },
+    {
+      "protocol": "socks5",
+      "address": "70.166.167.38:57728",
+      "proxy_url": "socks5://70.166.167.38:57728",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "dtbt7.com",
+        "u3c3.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
-      "last_verified": 1787761285.4784508
+      "last_verified": 1787326653.2306395
+    },
+    {
+      "protocol": "socks5",
+      "address": "72.195.34.59:4145",
+      "proxy_url": "socks5://72.195.34.59:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "mfgc3.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.2352624
     },
     {
       "protocol": "socks5",
@@ -3319,6 +3079,231 @@
         "www.xxread.net"
       ],
       "last_verified": 1787326653.2442029
+    },
+    {
+      "protocol": "socks5",
+      "address": "174.75.211.222:4145",
+      "proxy_url": "socks5://174.75.211.222:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscraper_socks5",
+      "valid_targets": [
+        "mfgc3.com",
+        "thbt8.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.2531378
+    },
+    {
+      "protocol": "socks5",
+      "address": "68.1.210.189:4145",
+      "proxy_url": "socks5://68.1.210.189:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "mfgc3.com",
+        "u3c3.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787326653.2555666
+    },
+    {
+      "protocol": "socks4",
+      "address": "174.64.199.82:4145",
+      "proxy_url": "socks4://174.64.199.82:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "mfgc3.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.265174
+    },
+    {
+      "protocol": "socks5",
+      "address": "72.205.0.67:4145",
+      "proxy_url": "socks5://72.205.0.67:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "dtbt7.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.270181
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.178.172.5:15303",
+      "proxy_url": "socks5://184.178.172.5:15303",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "dtbt7.com",
+        "mfgc3.com",
+        "pms.532862.xyz",
+        "seju.life",
+        "taosebt.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.292106
+    },
+    {
+      "protocol": "socks4",
+      "address": "98.170.57.249:4145",
+      "proxy_url": "socks4://98.170.57.249:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "seju.life",
+        "u3c3.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787326653.2949243
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.178.172.25:15291",
+      "proxy_url": "socks5://184.178.172.25:15291",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "u3c3.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787326653.2997706
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.178.72.30:4145",
+      "proxy_url": "socks5://98.178.72.30:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscraper_socks5",
+      "valid_targets": [
+        "seju.life",
+        "taosebt.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.3000524
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.178.172.18:15280",
+      "proxy_url": "socks5://184.178.172.18:15280",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "taosebt.com",
+        "thbt8.com",
+        "u3c3.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787326653.3086758
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.181.137.83:4145",
+      "proxy_url": "socks5://98.181.137.83:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "dtbt7.com",
+        "pms.532862.xyz",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.315663
+    },
+    {
+      "protocol": "socks5",
+      "address": "70.166.65.160:4145",
+      "proxy_url": "socks5://70.166.65.160:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "dtbt7.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.3304384
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.191.0.47:4145",
+      "proxy_url": "socks5://98.191.0.47:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "taosebt.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.3322701
+    },
+    {
+      "protocol": "socks4",
+      "address": "68.1.210.189:4145",
+      "proxy_url": "socks4://68.1.210.189:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "dtbt7.com",
+        "pms.532862.xyz",
+        "taosebt.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.3344944
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.178.72.21:10919",
+      "proxy_url": "socks5://98.178.72.21:10919",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "dtbt7.com",
+        "mfgc3.com",
+        "thbt8.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.3390222
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.181.217.206:4145",
+      "proxy_url": "socks4://184.181.217.206:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "dtbt7.com",
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.345014
     },
     {
       "protocol": "socks5",
@@ -3340,17 +3325,18 @@
     },
     {
       "protocol": "socks5",
-      "address": "141.148.158.143:1080",
-      "proxy_url": "socks5://141.148.158.143:1080",
+      "address": "152.32.168.221:10808",
+      "proxy_url": "socks5://152.32.168.221:10808",
       "latency_ms": 500.0,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
-        "mfgc3.com",
+        "pms.532862.xyz",
         "u3c3.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "ypb.295282.xyz"
       ],
-      "last_verified": 1787326656.746485
+      "last_verified": 1787326656.3082972
     },
     {
       "protocol": "socks5",
@@ -3374,10 +3360,9 @@
       "source": "proxyscrape_socks4",
       "valid_targets": [
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.4475036
+      "last_verified": 1787326652.9610534
     },
     {
       "protocol": "socks4",
@@ -3391,7 +3376,7 @@
         "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.236178
+      "last_verified": 1787871864.2647727
     },
     {
       "protocol": "socks5",
@@ -3403,7 +3388,6 @@
       "valid_targets": [
         "jpbt3.com",
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240237.2113435
@@ -3412,7 +3396,7 @@
       "protocol": "socks5",
       "address": "184.178.172.26:4145",
       "proxy_url": "socks5://184.178.172.26:4145",
-      "latency_ms": 1022.6,
+      "latency_ms": 1046.2,
       "score": 2,
       "source": "proxyscrape_socks5",
       "valid_targets": [
@@ -3420,90 +3404,72 @@
         "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.358881
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.188.47.132:4145",
-      "proxy_url": "socks5://98.188.47.132:4145",
-      "latency_ms": 1031.8,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.3914142
+      "last_verified": 1787871864.3327703
     },
     {
       "protocol": "socks5",
       "address": "174.64.199.82:4145",
       "proxy_url": "socks5://174.64.199.82:4145",
-      "latency_ms": 1045.3,
+      "latency_ms": 1101.1,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.3270056
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.190.239.3:4145",
-      "proxy_url": "socks5://98.190.239.3:4145",
-      "latency_ms": 1048.3,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870953.3236773
+      "last_verified": 1787326653.3142068
     },
     {
       "protocol": "socks5",
       "address": "174.75.211.193:4145",
       "proxy_url": "socks5://174.75.211.193:4145",
-      "latency_ms": 1052.1,
+      "latency_ms": 1103.1,
       "score": 2,
       "source": "proxyscrape_socks5",
       "valid_targets": [
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.336091
+      "last_verified": 1787326653.2878878
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.190.239.3:4145",
+      "proxy_url": "socks5://98.190.239.3:4145",
+      "latency_ms": 1111.6,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.3298166
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.188.47.132:4145",
+      "proxy_url": "socks5://98.188.47.132:4145",
+      "latency_ms": 1129.4,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "u3c3.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787326653.1794634
     },
     {
       "protocol": "socks5",
       "address": "72.195.34.35:27360",
       "proxy_url": "socks5://72.195.34.35:27360",
-      "latency_ms": 1075.7,
+      "latency_ms": 1150.6,
       "score": 2,
-      "source": "speedx_socks5",
+      "source": "proxyscrape_socks5",
       "valid_targets": [
         "u3c3.com",
-        "www.alicesw.com",
         "www.xxread.net"
       ],
-      "last_verified": 1787870953.3224595
-    },
-    {
-      "protocol": "http",
-      "address": "163.181.207.169:9999",
-      "proxy_url": "http://163.181.207.169:9999",
-      "latency_ms": 2156.1,
-      "score": 2,
-      "source": "proxypool_scrape_cn",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787870954.7626524
+      "last_verified": 1787326653.3158772
     },
     {
       "protocol": "socks5",
@@ -4671,6 +4637,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -5687,6 +5654,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -5706,6 +5674,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -5913,6 +5882,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -5980,6 +5950,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6068,6 +6039,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6311,6 +6283,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6418,6 +6391,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6436,6 +6410,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.205283
@@ -6453,6 +6428,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6472,6 +6448,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6544,6 +6521,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6582,6 +6560,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6748,6 +6727,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6804,6 +6784,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6875,6 +6856,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -6925,6 +6907,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -7043,6 +7026,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.530494
@@ -7477,6 +7461,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -7591,6 +7576,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -7667,6 +7653,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -7723,6 +7710,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -7778,6 +7766,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -8105,6 +8094,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.2058985
@@ -8123,6 +8113,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -8188,6 +8179,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -8485,6 +8477,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.2862856
@@ -9264,29 +9257,6 @@
       "last_verified": 1787404280.6981266
     },
     {
-      "protocol": "https",
-      "address": "138.199.35.197:9002",
-      "proxy_url": "https://138.199.35.197:9002",
-      "latency_ms": 363.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "dtbt7.com",
-        "gcbt.net",
-        "j4f4.com",
-        "jpbt3.com",
-        "mfgc3.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "thbt8.com",
-        "u3c3.com",
-        "www.alicesw.com",
-        "www.xxread.net",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1787240272.3207903
-    },
-    {
       "protocol": "socks5",
       "address": "18.190.253.157:13061",
       "proxy_url": "socks5://18.190.253.157:13061",
@@ -9333,6 +9303,29 @@
         "www.xxread.net"
       ],
       "last_verified": 1787240277.4404612
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.197:9002",
+      "proxy_url": "https://138.199.35.197:9002",
+      "latency_ms": 372.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "dtbt7.com",
+        "gcbt.net",
+        "j4f4.com",
+        "jpbt3.com",
+        "mfgc3.com",
+        "pms.532862.xyz",
+        "seju.life",
+        "thbt8.com",
+        "u3c3.com",
+        "www.alicesw.com",
+        "www.xxread.net",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1787240272.3207903
     },
     {
       "protocol": "https",
@@ -9770,6 +9763,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -10084,6 +10078,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -10290,6 +10285,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -11807,6 +11803,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -11870,6 +11867,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -11912,6 +11910,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -11953,6 +11952,7 @@
         "seju.life",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -12639,6 +12639,7 @@
         "seju.life",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240275.3176277
@@ -13013,6 +13014,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240276.9120958
@@ -13136,6 +13138,7 @@
         "seju.life",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240277.3068314
@@ -13175,6 +13178,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787240277.6101
@@ -20794,6 +20798,7 @@
         "seju.life",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22020,6 +22025,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22055,6 +22061,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22194,6 +22201,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.0073764
@@ -22227,6 +22235,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.0265152
@@ -22264,6 +22273,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.030691
@@ -22281,6 +22291,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.0312726
@@ -22299,6 +22310,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22353,6 +22365,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22372,6 +22385,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22459,6 +22473,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22515,6 +22530,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22532,6 +22548,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.2056115
@@ -22548,6 +22565,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22566,6 +22584,7 @@
         "taosebt.com",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.206421
@@ -22642,6 +22661,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22660,6 +22680,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.241562
@@ -22675,6 +22696,7 @@
         "j4f4.com",
         "pms.532862.xyz",
         "thbt8.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22693,6 +22715,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404278.2784617
@@ -22728,6 +22751,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22779,6 +22803,7 @@
         "pms.532862.xyz",
         "taosebt.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -22865,6 +22890,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -23146,6 +23172,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net",
         "ypb.295282.xyz"
       ],
@@ -27322,6 +27349,7 @@
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
+        "www.alicesw.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404281.3853447
@@ -28224,19 +28252,6 @@
     },
     {
       "protocol": "https",
-      "address": "165.99.14.18:2222",
-      "proxy_url": "https://165.99.14.18:2222",
-      "latency_ms": 500.0,
-      "score": 1,
-      "source": "proxyscrape_https",
-      "valid_targets": [
-        "gcbt.net",
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787870961.461163
-    },
-    {
-      "protocol": "https",
       "address": "74.103.66.15:443",
       "proxy_url": "https://74.103.66.15:443",
       "latency_ms": 500.0,
@@ -28250,7 +28265,7 @@
         "www.alicesw.com",
         "ypb.295282.xyz"
       ],
-      "last_verified": 1787870994.8285768
+      "last_verified": 1787871905.976649
     },
     {
       "protocol": "https",
@@ -34724,20 +34739,6 @@
     },
     {
       "protocol": "socks5",
-      "address": "109.123.251.109:1080",
-      "proxy_url": "socks5://109.123.251.109:1080",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "pms.532862.xyz",
-        "thbt8.com",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
       "address": "45.137.43.0:1081",
       "proxy_url": "socks5://45.137.43.0:1081",
       "latency_ms": 500.0,
@@ -34758,18 +34759,6 @@
       "valid_targets": [
         "dtbt7.com",
         "mfgc3.com",
-        "thbt8.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "147.45.221.111:1082",
-      "proxy_url": "socks5://147.45.221.111:1082",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
         "thbt8.com"
       ],
       "last_verified": 0.0
@@ -35835,6 +35824,18 @@
       "protocol": "socks5",
       "address": "220.158.232.118:1080",
       "proxy_url": "socks5://220.158.232.118:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "165.99.14.18:2222",
+      "proxy_url": "https://165.99.14.18:2222",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -37433,6 +37434,18 @@
     },
     {
       "protocol": "socks5",
+      "address": "171.25.158.95:1080",
+      "proxy_url": "socks5://171.25.158.95:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "46.224.153.114:9050",
       "proxy_url": "socks5://46.224.153.114:9050",
       "latency_ms": 500.0,
@@ -38432,32 +38445,6 @@
       "source": "",
       "valid_targets": [
         "seju.life",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks4",
-      "address": "45.61.129.165:9050",
-      "proxy_url": "socks4://45.61.129.165:9050",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "mfgc3.com",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "http",
-      "address": "163.181.207.170:9999",
-      "proxy_url": "http://163.181.207.170:9999",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
         "ypb.295282.xyz"
       ],
       "last_verified": 0.0
@@ -47183,6 +47170,18 @@
       "last_verified": 1787404281.8350403
     },
     {
+      "protocol": "https",
+      "address": "84.17.50.157:9443",
+      "proxy_url": "https://84.17.50.157:9443",
+      "latency_ms": 1108.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787871906.0799875
+    },
+    {
       "protocol": "socks5",
       "address": "16.28.32.67:52",
       "proxy_url": "socks5://16.28.32.67:52",
@@ -47193,6 +47192,19 @@
         "jpbt3.com"
       ],
       "last_verified": 1787240974.9560616
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.50.129:9443",
+      "proxy_url": "https://84.17.50.129:9443",
+      "latency_ms": 1123.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "j4f4.com",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787871906.2385435
     },
     {
       "protocol": "socks5",
@@ -47289,6 +47301,19 @@
         "jpbt3.com"
       ],
       "last_verified": 1787240974.6868055
+    },
+    {
+      "protocol": "https",
+      "address": "37.120.233.34:9443",
+      "proxy_url": "https://37.120.233.34:9443",
+      "latency_ms": 1173.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "j4f4.com",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787871906.3762019
     },
     {
       "protocol": "https",
@@ -47409,6 +47434,18 @@
         "j4f4.com"
       ],
       "last_verified": 1787761821.5199013
+    },
+    {
+      "protocol": "https",
+      "address": "37.120.233.50:9443",
+      "proxy_url": "https://37.120.233.50:9443",
+      "latency_ms": 1231.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787871906.2947292
     },
     {
       "protocol": "socks5",
@@ -47544,18 +47581,6 @@
       "last_verified": 1787761345.3196986
     },
     {
-      "protocol": "https",
-      "address": "84.17.50.129:9443",
-      "proxy_url": "https://84.17.50.129:9443",
-      "latency_ms": 1297.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 1787761332.538994
-    },
-    {
       "protocol": "socks4",
       "address": "13.126.183.60:48293",
       "proxy_url": "socks4://13.126.183.60:48293",
@@ -47664,6 +47689,18 @@
       "last_verified": 1787762905.7673771
     },
     {
+      "protocol": "https",
+      "address": "37.120.210.146:9443",
+      "proxy_url": "https://37.120.210.146:9443",
+      "latency_ms": 1369.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787871906.5080848
+    },
+    {
       "protocol": "socks5",
       "address": "85.117.248.36:1080",
       "proxy_url": "socks5://85.117.248.36:1080",
@@ -47712,18 +47749,6 @@
         "www.xxread.net"
       ],
       "last_verified": 1787404279.448424
-    },
-    {
-      "protocol": "https",
-      "address": "37.120.233.34:9443",
-      "proxy_url": "https://37.120.233.34:9443",
-      "latency_ms": 1500.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 1787761332.807521
     },
     {
       "protocol": "socks5",
@@ -48673,18 +48698,6 @@
         "j4f4.com"
       ],
       "last_verified": 1787761348.0815485
-    },
-    {
-      "protocol": "https",
-      "address": "165.99.14.18:3333",
-      "proxy_url": "https://165.99.14.18:3333",
-      "latency_ms": 4598.7,
-      "score": 1,
-      "source": "proxyscrape_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787870959.6320055
     },
     {
       "protocol": "https",
