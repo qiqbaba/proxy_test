@@ -1,2474 +1,2474 @@
 {
   "target_url": "https://www.alicesw.com",
   "domain": "www.alicesw.com",
-  "updated_at": "2026-08-27 04:47:09",
+  "updated_at": "2026-08-27 07:19:07",
   "count": 200,
   "proxies": [
-    {
-      "protocol": "http",
-      "address": "64.112.184.210:3128",
-      "proxy_url": "http://64.112.184.210:3128",
-      "latency_ms": 502.5,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805974.749342
-    },
-    {
-      "protocol": "socks4",
-      "address": "142.54.237.38:4145",
-      "proxy_url": "socks4://142.54.237.38:4145",
-      "latency_ms": 598.5,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805974.906108
-    },
-    {
-      "protocol": "socks5",
-      "address": "67.201.39.14:4145",
-      "proxy_url": "socks5://67.201.39.14:4145",
-      "latency_ms": 672.6,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805974.9206028
-    },
     {
       "protocol": "socks5",
       "address": "72.37.216.68:4145",
       "proxy_url": "socks5://72.37.216.68:4145",
-      "latency_ms": 624.2,
+      "latency_ms": 392.4,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805974.9278827
-    },
-    {
-      "protocol": "socks5",
-      "address": "199.116.114.11:4145",
-      "proxy_url": "socks5://199.116.114.11:4145",
-      "latency_ms": 631.1,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805974.928944
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.239.1:4145",
-      "proxy_url": "socks5://142.54.239.1:4145",
-      "latency_ms": 631.8,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805974.936408
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.237.34:4145",
-      "proxy_url": "socks5://142.54.237.34:4145",
-      "latency_ms": 638.7,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805974.9494975
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.237.38:4145",
-      "proxy_url": "socks5://142.54.237.38:4145",
-      "latency_ms": 645.7,
-      "score": 2,
-      "source": "r00tee_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805974.9566462
+      "last_verified": 1787815090.2126307
     },
     {
       "protocol": "socks4",
       "address": "142.54.231.38:4145",
       "proxy_url": "socks4://142.54.231.38:4145",
-      "latency_ms": 653.2,
+      "latency_ms": 386.6,
       "score": 2,
-      "source": "speedx_socks4",
+      "source": "proxyscrape_socks4",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805974.9592962
+      "last_verified": 1787815090.2168815
+    },
+    {
+      "protocol": "socks4",
+      "address": "142.54.237.38:4145",
+      "proxy_url": "socks4://142.54.237.38:4145",
+      "latency_ms": 412.0,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.221655
     },
     {
       "protocol": "socks5",
-      "address": "142.54.235.9:4145",
-      "proxy_url": "socks5://142.54.235.9:4145",
-      "latency_ms": 659.1,
+      "address": "142.54.237.38:4145",
+      "proxy_url": "socks5://142.54.237.38:4145",
+      "latency_ms": 412.9,
       "score": 2,
-      "source": "speedx_socks5",
+      "source": "r00tee_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805974.9677796
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.226.214:4145",
-      "proxy_url": "socks5://142.54.226.214:4145",
-      "latency_ms": 721.1,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805974.969852
-    },
-    {
-      "protocol": "socks5",
-      "address": "198.8.84.3:4145",
-      "proxy_url": "socks5://198.8.84.3:4145",
-      "latency_ms": 680.6,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805974.985748
+      "last_verified": 1787815090.2280984
     },
     {
       "protocol": "socks5",
       "address": "142.54.229.249:4145",
       "proxy_url": "socks5://142.54.229.249:4145",
-      "latency_ms": 679.8,
+      "latency_ms": 419.9,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805974.9898076
+      "last_verified": 1787815090.22861
+    },
+    {
+      "protocol": "socks5",
+      "address": "142.54.237.34:4145",
+      "proxy_url": "socks5://142.54.237.34:4145",
+      "latency_ms": 406.7,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.2343254
+    },
+    {
+      "protocol": "socks5",
+      "address": "198.8.84.3:4145",
+      "proxy_url": "socks5://198.8.84.3:4145",
+      "latency_ms": 417.4,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.2412162
     },
     {
       "protocol": "socks5",
       "address": "142.54.232.6:4145",
       "proxy_url": "socks5://142.54.232.6:4145",
-      "latency_ms": 707.0,
+      "latency_ms": 423.2,
       "score": 2,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805975.016911
+      "last_verified": 1787815090.2418883
+    },
+    {
+      "protocol": "socks5",
+      "address": "199.116.114.11:4145",
+      "proxy_url": "socks5://199.116.114.11:4145",
+      "latency_ms": 441.2,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.2552323
     },
     {
       "protocol": "socks5",
       "address": "142.54.231.38:4145",
       "proxy_url": "socks5://142.54.231.38:4145",
-      "latency_ms": 717.8,
+      "latency_ms": 491.7,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805975.023467
-    },
-    {
-      "protocol": "socks4",
-      "address": "199.66.183.226:4145",
-      "proxy_url": "socks4://199.66.183.226:4145",
-      "latency_ms": 774.3,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.0844288
-    },
-    {
-      "protocol": "socks5",
-      "address": "199.66.183.226:4145",
-      "proxy_url": "socks5://199.66.183.226:4145",
-      "latency_ms": 849.9,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.1593025
-    },
-    {
-      "protocol": "socks4",
-      "address": "192.111.138.29:4145",
-      "proxy_url": "socks4://192.111.138.29:4145",
-      "latency_ms": 852.1,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.1609192
-    },
-    {
-      "protocol": "socks4",
-      "address": "198.8.94.174:39078",
-      "proxy_url": "socks4://198.8.94.174:39078",
-      "latency_ms": 878.1,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.188461
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.170.249.65:4145",
-      "proxy_url": "socks5://184.170.249.65:4145",
-      "latency_ms": 929.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.2331848
-    },
-    {
-      "protocol": "socks5",
-      "address": "199.229.254.129:4145",
-      "proxy_url": "socks5://199.229.254.129:4145",
-      "latency_ms": 938.5,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.2454138
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.139.162:4145",
-      "proxy_url": "socks5://192.111.139.162:4145",
-      "latency_ms": 955.3,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.262296
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.129.145:16894",
-      "proxy_url": "socks5://192.111.129.145:16894",
-      "latency_ms": 960.4,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.2735786
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.138.29:4145",
-      "proxy_url": "socks5://192.111.138.29:4145",
-      "latency_ms": 961.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.2743046
-    },
-    {
-      "protocol": "socks5",
-      "address": "198.8.94.174:39078",
-      "proxy_url": "socks5://198.8.94.174:39078",
-      "latency_ms": 972.8,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.280532
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.170.245.148:4145",
-      "proxy_url": "socks5://184.170.245.148:4145",
-      "latency_ms": 990.8,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.2997715
-    },
-    {
-      "protocol": "socks5",
-      "address": "74.119.144.60:4145",
-      "proxy_url": "socks5://74.119.144.60:4145",
-      "latency_ms": 989.3,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.3010275
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.139.165:4145",
-      "proxy_url": "socks5://192.111.139.165:4145",
-      "latency_ms": 990.5,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.3020782
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.137.35:4145",
-      "proxy_url": "socks5://192.111.137.35:4145",
-      "latency_ms": 1006.9,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.306495
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.252.208.70:14282",
-      "proxy_url": "socks5://192.252.208.70:14282",
-      "latency_ms": 1010.4,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.3172433
-    },
-    {
-      "protocol": "socks5",
-      "address": "74.119.147.209:4145",
-      "proxy_url": "socks5://74.119.147.209:4145",
-      "latency_ms": 1028.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.334907
-    },
-    {
-      "protocol": "socks5",
-      "address": "198.8.94.170:4145",
-      "proxy_url": "socks5://198.8.94.170:4145",
-      "latency_ms": 1080.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.3867805
+      "last_verified": 1787815090.312395
     },
     {
       "protocol": "http",
-      "address": "103.237.102.191:11111",
-      "proxy_url": "http://103.237.102.191:11111",
-      "latency_ms": 1082.1,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.436639
-    },
-    {
-      "protocol": "http",
-      "address": "204.76.203.9:3128",
-      "proxy_url": "http://204.76.203.9:3128",
-      "latency_ms": 1154.9,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.4914405
-    },
-    {
-      "protocol": "http",
-      "address": "176.111.37.5:39811",
-      "proxy_url": "http://176.111.37.5:39811",
-      "latency_ms": 1181.8,
+      "address": "64.112.184.210:3128",
+      "proxy_url": "http://64.112.184.210:3128",
+      "latency_ms": 699.3,
       "score": 2,
       "source": "proxifly_all",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805975.5525906
-    },
-    {
-      "protocol": "http",
-      "address": "176.111.37.216:39811",
-      "proxy_url": "http://176.111.37.216:39811",
-      "latency_ms": 1211.3,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.57274
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.14:4145",
-      "proxy_url": "socks5://184.178.172.14:4145",
-      "latency_ms": 1393.3,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.6425407
-    },
-    {
-      "protocol": "http",
-      "address": "47.91.65.23:3128",
-      "proxy_url": "http://47.91.65.23:3128",
-      "latency_ms": 1141.2,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.7216105
-    },
-    {
-      "protocol": "socks5",
-      "address": "93.123.118.15:1080",
-      "proxy_url": "socks5://93.123.118.15:1080",
-      "latency_ms": 1397.9,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.7458136
-    },
-    {
-      "protocol": "http",
-      "address": "181.39.25.196:8118",
-      "proxy_url": "http://181.39.25.196:8118",
-      "latency_ms": 1155.1,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.779455
-    },
-    {
-      "protocol": "socks5",
-      "address": "109.123.251.109:1080",
-      "proxy_url": "socks5://109.123.251.109:1080",
-      "latency_ms": 1425.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.79518
-    },
-    {
-      "protocol": "http",
-      "address": "8.213.151.128:3128",
-      "proxy_url": "http://8.213.151.128:3128",
-      "latency_ms": 1397.5,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.81036
-    },
-    {
-      "protocol": "socks5",
-      "address": "89.208.106.37:32712",
-      "proxy_url": "socks5://89.208.106.37:32712",
-      "latency_ms": 1566.8,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.9407735
-    },
-    {
-      "protocol": "http",
-      "address": "130.110.103.245:3128",
-      "proxy_url": "http://130.110.103.245:3128",
-      "latency_ms": 1554.9,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805975.9621055
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.61.129.165:9050",
-      "proxy_url": "socks5://45.61.129.165:9050",
-      "latency_ms": 1864.5,
-      "score": 2,
-      "source": "monosans_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805976.1461887
-    },
-    {
-      "protocol": "socks5",
-      "address": "43.164.136.189:1080",
-      "proxy_url": "socks5://43.164.136.189:1080",
-      "latency_ms": 1907.6,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805976.3271065
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.182.240.211:4145",
-      "proxy_url": "socks5://184.182.240.211:4145",
-      "latency_ms": 2010.1,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805976.3628728
-    },
-    {
-      "protocol": "http",
-      "address": "8.209.255.13:3128",
-      "proxy_url": "http://8.209.255.13:3128",
-      "latency_ms": 1991.8,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805976.3766563
-    },
-    {
-      "protocol": "socks5",
-      "address": "101.36.104.46:10808",
-      "proxy_url": "socks5://101.36.104.46:10808",
-      "latency_ms": 2030.1,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805976.4125779
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.194.33.12:30001",
-      "proxy_url": "socks5://45.194.33.12:30001",
-      "latency_ms": 2045.4,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805976.497982
+      "last_verified": 1787815090.5647268
     },
     {
       "protocol": "socks5",
       "address": "193.25.215.182:22222",
       "proxy_url": "socks5://193.25.215.182:22222",
-      "latency_ms": 1408.4,
+      "latency_ms": 703.4,
       "score": 2,
       "source": "proxyscrape_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805976.8124666
+      "last_verified": 1787815090.582586
     },
     {
       "protocol": "http",
-      "address": "163.181.207.170:9999",
-      "proxy_url": "http://163.181.207.170:9999",
-      "latency_ms": 2188.5,
+      "address": "15.235.21.254:8080",
+      "proxy_url": "http://15.235.21.254:8080",
+      "latency_ms": 870.6,
       "score": 2,
-      "source": "proxypool_scrape_cn",
+      "source": "proxifly_all",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805976.964754
+      "last_verified": 1787815090.7562702
+    },
+    {
+      "protocol": "socks4",
+      "address": "199.66.183.251:4145",
+      "proxy_url": "socks4://199.66.183.251:4145",
+      "latency_ms": 947.4,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.757326
+    },
+    {
+      "protocol": "socks4",
+      "address": "199.66.182.243:4145",
+      "proxy_url": "socks4://199.66.182.243:4145",
+      "latency_ms": 923.9,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.824143
+    },
+    {
+      "protocol": "socks4",
+      "address": "199.66.183.226:4145",
+      "proxy_url": "socks4://199.66.183.226:4145",
+      "latency_ms": 923.7,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.825536
     },
     {
       "protocol": "socks5",
-      "address": "144.24.111.128:1088",
-      "proxy_url": "socks5://144.24.111.128:1088",
-      "latency_ms": 2529.9,
+      "address": "199.66.183.251:4145",
+      "proxy_url": "socks5://199.66.183.251:4145",
+      "latency_ms": 1018.3,
       "score": 2,
-      "source": "speedx_socks5",
+      "source": "proxyscrape_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805976.9851804
+      "last_verified": 1787815090.8280993
+    },
+    {
+      "protocol": "socks4",
+      "address": "198.8.94.174:39078",
+      "proxy_url": "socks4://198.8.94.174:39078",
+      "latency_ms": 932.5,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.8302984
+    },
+    {
+      "protocol": "socks4",
+      "address": "192.111.138.29:4145",
+      "proxy_url": "socks4://192.111.138.29:4145",
+      "latency_ms": 957.5,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.8541253
     },
     {
       "protocol": "socks5",
-      "address": "123.58.219.171:10808",
-      "proxy_url": "socks5://123.58.219.171:10808",
-      "latency_ms": 2664.7,
+      "address": "199.66.182.243:4145",
+      "proxy_url": "socks5://199.66.182.243:4145",
+      "latency_ms": 1005.5,
       "score": 2,
-      "source": "speedx_socks5",
+      "source": "proxyscrape_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805977.0915947
+      "last_verified": 1787815090.899855
     },
     {
       "protocol": "socks5",
-      "address": "152.32.168.221:10808",
-      "proxy_url": "socks5://152.32.168.221:10808",
-      "latency_ms": 2965.2,
+      "address": "192.111.139.162:4145",
+      "proxy_url": "socks5://192.111.139.162:4145",
+      "latency_ms": 1011.0,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805977.3999853
+      "last_verified": 1787815090.9029276
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.137.35:4145",
+      "proxy_url": "socks5://192.111.137.35:4145",
+      "latency_ms": 1011.1,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.9096463
+    },
+    {
+      "protocol": "socks5",
+      "address": "198.8.94.174:39078",
+      "proxy_url": "socks5://198.8.94.174:39078",
+      "latency_ms": 1013.8,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.914797
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.252.208.70:14282",
+      "proxy_url": "socks5://192.252.208.70:14282",
+      "latency_ms": 1013.2,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.915576
+    },
+    {
+      "protocol": "socks5",
+      "address": "74.119.147.209:4145",
+      "proxy_url": "socks5://74.119.147.209:4145",
+      "latency_ms": 1029.4,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.921657
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.170.245.148:4145",
+      "proxy_url": "socks5://184.170.245.148:4145",
+      "latency_ms": 1050.2,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.937199
+    },
+    {
+      "protocol": "socks5",
+      "address": "199.66.183.226:4145",
+      "proxy_url": "socks5://199.66.183.226:4145",
+      "latency_ms": 1049.2,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.9424698
+    },
+    {
+      "protocol": "socks5",
+      "address": "74.119.144.60:4145",
+      "proxy_url": "socks5://74.119.144.60:4145",
+      "latency_ms": 1040.5,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.9439042
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.138.29:4145",
+      "proxy_url": "socks5://192.111.138.29:4145",
+      "latency_ms": 1061.2,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.9541428
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.129.145:16894",
+      "proxy_url": "socks5://192.111.129.145:16894",
+      "latency_ms": 1056.9,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.9598637
+    },
+    {
+      "protocol": "socks5",
+      "address": "198.8.94.170:4145",
+      "proxy_url": "socks5://198.8.94.170:4145",
+      "latency_ms": 1057.8,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.9609113
+    },
+    {
+      "protocol": "socks5",
+      "address": "199.229.254.129:4145",
+      "proxy_url": "socks5://199.229.254.129:4145",
+      "latency_ms": 1078.4,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.971523
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.139.165:4145",
+      "proxy_url": "socks5://192.111.139.165:4145",
+      "latency_ms": 1075.7,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815090.975296
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.170.249.65:4145",
+      "proxy_url": "socks5://184.170.249.65:4145",
+      "latency_ms": 1086.9,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.0004015
+    },
+    {
+      "protocol": "http",
+      "address": "103.237.102.191:11111",
+      "proxy_url": "http://103.237.102.191:11111",
+      "latency_ms": 1166.8,
+      "score": 2,
+      "source": "vpslab_all_elite",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.132748
+    },
+    {
+      "protocol": "http",
+      "address": "8.213.151.128:3128",
+      "proxy_url": "http://8.213.151.128:3128",
+      "latency_ms": 1224.8,
+      "score": 2,
+      "source": "vpslab_all_elite",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.151936
+    },
+    {
+      "protocol": "http",
+      "address": "176.111.37.5:39811",
+      "proxy_url": "http://176.111.37.5:39811",
+      "latency_ms": 1355.3,
+      "score": 2,
+      "source": "proxifly_all",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.166434
+    },
+    {
+      "protocol": "http",
+      "address": "204.76.203.9:3128",
+      "proxy_url": "http://204.76.203.9:3128",
+      "latency_ms": 1286.3,
+      "score": 2,
+      "source": "vpslab_all_elite",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.2507727
     },
     {
       "protocol": "socks4",
       "address": "184.185.2.12:4145",
       "proxy_url": "socks4://184.185.2.12:4145",
-      "latency_ms": 3083.3,
+      "latency_ms": 1318.8,
       "score": 2,
       "source": "anonym0uswork_socks4",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805977.4366798
+      "last_verified": 1787815091.25187
+    },
+    {
+      "protocol": "http",
+      "address": "176.111.37.216:39811",
+      "proxy_url": "http://176.111.37.216:39811",
+      "latency_ms": 1424.0,
+      "score": 2,
+      "source": "proxifly_all",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.390848
+    },
+    {
+      "protocol": "socks5",
+      "address": "141.148.158.143:1080",
+      "proxy_url": "socks5://141.148.158.143:1080",
+      "latency_ms": 1586.3,
+      "score": 2,
+      "source": "r00tee_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.4000711
+    },
+    {
+      "protocol": "http",
+      "address": "8.209.255.13:3128",
+      "proxy_url": "http://8.209.255.13:3128",
+      "latency_ms": 1625.9,
+      "score": 2,
+      "source": "vpslab_all_elite",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.5337267
+    },
+    {
+      "protocol": "http",
+      "address": "181.39.25.196:8118",
+      "proxy_url": "http://181.39.25.196:8118",
+      "latency_ms": 1299.2,
+      "score": 2,
+      "source": "vpslab_all_elite",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.618742
+    },
+    {
+      "protocol": "http",
+      "address": "130.110.103.245:3128",
+      "proxy_url": "http://130.110.103.245:3128",
+      "latency_ms": 1770.8,
+      "score": 2,
+      "source": "proxifly_all",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.798188
+    },
+    {
+      "protocol": "socks5",
+      "address": "144.124.227.88:3129",
+      "proxy_url": "socks5://144.124.227.88:3129",
+      "latency_ms": 1834.3,
+      "score": 2,
+      "source": "monosans_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.8009167
+    },
+    {
+      "protocol": "socks5",
+      "address": "171.25.158.95:1080",
+      "proxy_url": "socks5://171.25.158.95:1080",
+      "latency_ms": 1836.4,
+      "score": 2,
+      "source": "r00tee_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815091.8635833
     },
     {
       "protocol": "http",
       "address": "47.81.56.193:8888",
       "proxy_url": "http://47.81.56.193:8888",
-      "latency_ms": 2708.2,
+      "latency_ms": 1640.5,
       "score": 2,
       "source": "speedx_http",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805977.4561172
+      "last_verified": 1787815091.8847709
     },
     {
       "protocol": "socks5",
-      "address": "95.31.220.59:8080",
-      "proxy_url": "socks5://95.31.220.59:8080",
-      "latency_ms": 3512.1,
+      "address": "45.194.33.12:30001",
+      "proxy_url": "socks5://45.194.33.12:30001",
+      "latency_ms": 1887.8,
       "score": 2,
       "source": "proxyscrape_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805977.9142811
-    },
-    {
-      "protocol": "http",
-      "address": "202.28.194.139:31280",
-      "proxy_url": "http://202.28.194.139:31280",
-      "latency_ms": 3203.4,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805977.9613278
-    },
-    {
-      "protocol": "http",
-      "address": "47.89.184.18:3128",
-      "proxy_url": "http://47.89.184.18:3128",
-      "latency_ms": 3769.8,
-      "score": 2,
-      "source": "vpslab_all_elite",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805978.3497694
+      "last_verified": 1787815091.9059873
     },
     {
       "protocol": "socks5",
-      "address": "72.214.108.67:4145",
-      "proxy_url": "socks5://72.214.108.67:4145",
-      "latency_ms": 4442.1,
+      "address": "45.144.54.40:1080",
+      "proxy_url": "socks5://45.144.54.40:1080",
+      "latency_ms": 2288.9,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815092.0999606
+    },
+    {
+      "protocol": "socks5",
+      "address": "101.36.104.239:10808",
+      "proxy_url": "socks5://101.36.104.239:10808",
+      "latency_ms": 2310.0,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815092.2111926
+    },
+    {
+      "protocol": "socks5",
+      "address": "144.24.111.128:1088",
+      "proxy_url": "socks5://144.24.111.128:1088",
+      "latency_ms": 2507.2,
       "score": 2,
       "source": "proxyscrape_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805978.6905084
+      "last_verified": 1787815092.5207963
+    },
+    {
+      "protocol": "socks5",
+      "address": "101.36.104.46:10808",
+      "proxy_url": "socks5://101.36.104.46:10808",
+      "latency_ms": 2650.4,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815092.555229
+    },
+    {
+      "protocol": "socks5",
+      "address": "185.185.80.58:1088",
+      "proxy_url": "socks5://185.185.80.58:1088",
+      "latency_ms": 2696.1,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815092.7333655
+    },
+    {
+      "protocol": "socks5",
+      "address": "152.32.168.221:10808",
+      "proxy_url": "socks5://152.32.168.221:10808",
+      "latency_ms": 2655.1,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815092.7381268
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.182.240.211:4145",
+      "proxy_url": "socks5://184.182.240.211:4145",
+      "latency_ms": 2830.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815092.780325
     },
     {
       "protocol": "http",
       "address": "42.96.18.62:1311",
       "proxy_url": "http://42.96.18.62:1311",
-      "latency_ms": 4188.7,
+      "latency_ms": 2730.9,
       "score": 2,
       "source": "proxifly_all",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805978.6941411
+      "last_verified": 1787815092.785701
     },
     {
-      "protocol": "socks4",
-      "address": "8.212.168.170:35561",
-      "proxy_url": "socks4://8.212.168.170:35561",
-      "latency_ms": 4675.3,
+      "protocol": "http",
+      "address": "47.91.65.23:3128",
+      "proxy_url": "http://47.91.65.23:3128",
+      "latency_ms": 2996.8,
       "score": 2,
-      "source": "gfpcom_socks4",
+      "source": "vpslab_all_elite",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805978.9248173
+      "last_verified": 1787815093.1046267
     },
     {
-      "protocol": "socks4",
-      "address": "184.178.172.14:4145",
-      "proxy_url": "socks4://184.178.172.14:4145",
-      "latency_ms": 4690.0,
+      "protocol": "socks5",
+      "address": "109.123.251.109:1080",
+      "proxy_url": "socks5://109.123.251.109:1080",
+      "latency_ms": 3166.2,
       "score": 2,
-      "source": "proxyscrape_socks4",
+      "source": "speedx_socks5",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805978.9389162
+      "last_verified": 1787815093.1938546
+    },
+    {
+      "protocol": "socks5",
+      "address": "31.76.80.215:1080",
+      "proxy_url": "socks5://31.76.80.215:1080",
+      "latency_ms": 3201.7,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815093.2287774
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.185.2.12:4145",
+      "proxy_url": "socks5://184.185.2.12:4145",
+      "latency_ms": 3771.4,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815093.7220626
+    },
+    {
+      "protocol": "socks5",
+      "address": "147.45.66.116:1082",
+      "proxy_url": "socks5://147.45.66.116:1082",
+      "latency_ms": 3823.5,
+      "score": 2,
+      "source": "r00tee_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815093.8050191
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.164.136.189:1080",
+      "proxy_url": "socks5://43.164.136.189:1080",
+      "latency_ms": 4041.1,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815093.8516264
     },
     {
       "protocol": "socks4",
       "address": "47.237.113.119:1720",
       "proxy_url": "socks4://47.237.113.119:1720",
-      "latency_ms": 4631.1,
+      "latency_ms": 4513.8,
       "score": 2,
       "source": "gfpcom_socks4",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
+        "www.xxread.net",
+        "www.alicesw.com"
       ],
-      "last_verified": 1787805979.0850546
+      "last_verified": 1787815094.4818475
+    },
+    {
+      "protocol": "http",
+      "address": "202.28.194.139:31280",
+      "proxy_url": "http://202.28.194.139:31280",
+      "latency_ms": 4186.2,
+      "score": 2,
+      "source": "vpslab_all_elite",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815094.4946275
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.178.172.23:4145",
+      "proxy_url": "socks5://184.178.172.23:4145",
+      "latency_ms": 4684.2,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815094.4958253
     },
     {
       "protocol": "socks4",
-      "address": "184.182.240.211:4145",
-      "proxy_url": "socks4://184.182.240.211:4145",
-      "latency_ms": 4486.7,
+      "address": "8.212.168.170:35561",
+      "proxy_url": "socks4://8.212.168.170:35561",
+      "latency_ms": 4542.8,
       "score": 2,
-      "source": "proxyscrape_socks4",
+      "source": "gfpcom_socks4",
       "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787805979.8729417
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.215:9002",
-      "proxy_url": "https://138.199.35.215:9002",
-      "latency_ms": 505.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
+        "www.xxread.net",
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.1468756
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.214:9002",
-      "proxy_url": "https://138.199.35.214:9002",
-      "latency_ms": 508.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.1545582
+      "last_verified": 1787815094.5227003
     },
     {
       "protocol": "https",
       "address": "138.199.35.197:9002",
       "proxy_url": "https://138.199.35.197:9002",
-      "latency_ms": 490.2,
+      "latency_ms": 243.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.1613216
+      "last_verified": 1787815136.1788135
     },
     {
       "protocol": "https",
-      "address": "138.199.35.212:9002",
-      "proxy_url": "https://138.199.35.212:9002",
-      "latency_ms": 507.9,
+      "address": "138.199.35.214:9002",
+      "proxy_url": "https://138.199.35.214:9002",
+      "latency_ms": 324.8,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.1890368
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.217:9002",
-      "proxy_url": "https://138.199.35.217:9002",
-      "latency_ms": 487.5,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.1971395
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.195:9002",
-      "proxy_url": "https://138.199.35.195:9002",
-      "latency_ms": 499.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.2038088
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.218:9002",
-      "proxy_url": "https://138.199.35.218:9002",
-      "latency_ms": 505.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.2086418
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.216:9002",
-      "proxy_url": "https://138.199.35.216:9002",
-      "latency_ms": 491.5,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.2110991
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.203:9002",
-      "proxy_url": "https://138.199.35.203:9002",
-      "latency_ms": 529.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.2117655
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.219:9002",
-      "proxy_url": "https://138.199.35.219:9002",
-      "latency_ms": 465.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.2148783
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.209:9002",
-      "proxy_url": "https://138.199.35.209:9002",
-      "latency_ms": 491.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.2185488
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.204:9002",
-      "proxy_url": "https://138.199.35.204:9002",
-      "latency_ms": 501.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.224335
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.208:9002",
-      "proxy_url": "https://138.199.35.208:9002",
-      "latency_ms": 550.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.2400632
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.206:9002",
-      "proxy_url": "https://138.199.35.206:9002",
-      "latency_ms": 455.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.2713263
+      "last_verified": 1787815136.1930187
     },
     {
       "protocol": "https",
       "address": "138.199.35.213:9002",
       "proxy_url": "https://138.199.35.213:9002",
-      "latency_ms": 460.1,
+      "latency_ms": 289.0,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.2758193
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.201:9002",
-      "proxy_url": "https://138.199.35.201:9002",
-      "latency_ms": 462.5,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.2796667
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.205:9002",
-      "proxy_url": "https://138.199.35.205:9002",
-      "latency_ms": 463.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.283608
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.202:9002",
-      "proxy_url": "https://138.199.35.202:9002",
-      "latency_ms": 472.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.2884157
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.211:9002",
-      "proxy_url": "https://138.199.35.211:9002",
-      "latency_ms": 456.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.292234
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.220:9002",
-      "proxy_url": "https://138.199.35.220:9002",
-      "latency_ms": 457.5,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.296272
+      "last_verified": 1787815136.1989162
     },
     {
       "protocol": "https",
       "address": "138.199.35.199:9002",
       "proxy_url": "https://138.199.35.199:9002",
-      "latency_ms": 460.7,
+      "latency_ms": 304.2,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.3010178
+      "last_verified": 1787815136.2048714
     },
     {
       "protocol": "https",
-      "address": "138.199.35.207:9002",
-      "proxy_url": "https://138.199.35.207:9002",
-      "latency_ms": 506.6,
+      "address": "138.199.35.203:9002",
+      "proxy_url": "https://138.199.35.203:9002",
+      "latency_ms": 317.2,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.3064015
+      "last_verified": 1787815136.208662
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.208:9002",
+      "proxy_url": "https://138.199.35.208:9002",
+      "latency_ms": 247.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.222321
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.219:9002",
+      "proxy_url": "https://138.199.35.219:9002",
+      "latency_ms": 250.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.226291
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.202:9002",
+      "proxy_url": "https://138.199.35.202:9002",
+      "latency_ms": 285.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.2286181
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.205:9002",
+      "proxy_url": "https://138.199.35.205:9002",
+      "latency_ms": 327.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.2297487
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.212:9002",
+      "proxy_url": "https://138.199.35.212:9002",
+      "latency_ms": 253.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.2307348
     },
     {
       "protocol": "https",
       "address": "138.199.35.200:9002",
       "proxy_url": "https://138.199.35.200:9002",
-      "latency_ms": 461.3,
+      "latency_ms": 261.9,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.307312
+      "last_verified": 1787815136.2337153
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.216:9002",
+      "proxy_url": "https://138.199.35.216:9002",
+      "latency_ms": 318.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.2360735
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.201:9002",
+      "proxy_url": "https://138.199.35.201:9002",
+      "latency_ms": 275.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.2367973
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.206:9002",
+      "proxy_url": "https://138.199.35.206:9002",
+      "latency_ms": 255.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.240064
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.204:9002",
+      "proxy_url": "https://138.199.35.204:9002",
+      "latency_ms": 254.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.2416975
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.215:9002",
+      "proxy_url": "https://138.199.35.215:9002",
+      "latency_ms": 218.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.2622137
     },
     {
       "protocol": "https",
       "address": "138.199.35.198:9002",
       "proxy_url": "https://138.199.35.198:9002",
-      "latency_ms": 498.0,
+      "latency_ms": 224.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.33333
+      "last_verified": 1787815136.2678444
     },
     {
       "protocol": "https",
-      "address": "107.152.33.202:8888",
-      "proxy_url": "https://107.152.33.202:8888",
-      "latency_ms": 351.8,
+      "address": "138.199.35.220:9002",
+      "proxy_url": "https://138.199.35.220:9002",
+      "latency_ms": 250.2,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.3340435
+      "last_verified": 1787815136.2938917
     },
     {
       "protocol": "https",
-      "address": "74.103.66.15:443",
-      "proxy_url": "https://74.103.66.15:443",
-      "latency_ms": 609.7,
+      "address": "138.199.35.218:9002",
+      "proxy_url": "https://138.199.35.218:9002",
+      "latency_ms": 248.0,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.3588421
+      "last_verified": 1787815136.3109727
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.209:9002",
+      "proxy_url": "https://138.199.35.209:9002",
+      "latency_ms": 203.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.3116317
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.217:9002",
+      "proxy_url": "https://138.199.35.217:9002",
+      "latency_ms": 260.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.313909
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.207:9002",
+      "proxy_url": "https://138.199.35.207:9002",
+      "latency_ms": 270.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.3156068
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.195:9002",
+      "proxy_url": "https://138.199.35.195:9002",
+      "latency_ms": 273.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.317372
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.211:9002",
+      "proxy_url": "https://138.199.35.211:9002",
+      "latency_ms": 217.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815136.3194096
     },
     {
       "protocol": "https",
       "address": "108.181.18.175:4001",
       "proxy_url": "https://108.181.18.175:4001",
-      "latency_ms": 527.2,
+      "latency_ms": 298.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.423315
+      "last_verified": 1787815136.4262593
     },
     {
       "protocol": "https",
-      "address": "129.97.50.72:443",
-      "proxy_url": "https://129.97.50.72:443",
-      "latency_ms": 460.1,
+      "address": "74.103.66.15:443",
+      "proxy_url": "https://74.103.66.15:443",
+      "latency_ms": 945.4,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806020.841077
-    },
-    {
-      "protocol": "https",
-      "address": "84.17.47.125:9002",
-      "proxy_url": "https://84.17.47.125:9002",
-      "latency_ms": 1182.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.8513935
-    },
-    {
-      "protocol": "https",
-      "address": "84.17.47.147:9002",
-      "proxy_url": "https://84.17.47.147:9002",
-      "latency_ms": 1171.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.8845375
-    },
-    {
-      "protocol": "https",
-      "address": "84.17.47.124:9002",
-      "proxy_url": "https://84.17.47.124:9002",
-      "latency_ms": 1140.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.8907561
-    },
-    {
-      "protocol": "https",
-      "address": "84.17.47.149:9002",
-      "proxy_url": "https://84.17.47.149:9002",
-      "latency_ms": 1148.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.9006977
-    },
-    {
-      "protocol": "https",
-      "address": "84.17.47.148:9002",
-      "proxy_url": "https://84.17.47.148:9002",
-      "latency_ms": 1155.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.9100335
-    },
-    {
-      "protocol": "https",
-      "address": "84.17.47.126:9002",
-      "proxy_url": "https://84.17.47.126:9002",
-      "latency_ms": 1169.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.9101593
-    },
-    {
-      "protocol": "https",
-      "address": "84.17.47.146:9002",
-      "proxy_url": "https://84.17.47.146:9002",
-      "latency_ms": 1150.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.9142513
-    },
-    {
-      "protocol": "https",
-      "address": "45.79.220.116:443",
-      "proxy_url": "https://45.79.220.116:443",
-      "latency_ms": 571.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.9347699
-    },
-    {
-      "protocol": "https",
-      "address": "3.92.137.124:443",
-      "proxy_url": "https://3.92.137.124:443",
-      "latency_ms": 503.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.9425743
-    },
-    {
-      "protocol": "https",
-      "address": "84.17.47.150:9002",
-      "proxy_url": "https://84.17.47.150:9002",
-      "latency_ms": 1164.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.9428005
-    },
-    {
-      "protocol": "https",
-      "address": "138.197.69.103:443",
-      "proxy_url": "https://138.197.69.103:443",
-      "latency_ms": 529.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.9539516
-    },
-    {
-      "protocol": "https",
-      "address": "104.236.205.59:443",
-      "proxy_url": "https://104.236.205.59:443",
-      "latency_ms": 528.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806020.974505
+      "last_verified": 1787815136.8758469
     },
     {
       "protocol": "https",
       "address": "147.160.161.12:8081",
       "proxy_url": "https://147.160.161.12:8081",
-      "latency_ms": 616.4,
+      "latency_ms": 470.5,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.0031588
-    },
-    {
-      "protocol": "https",
-      "address": "188.226.195.20:8881",
-      "proxy_url": "https://188.226.195.20:8881",
-      "latency_ms": 1117.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.0130348
-    },
-    {
-      "protocol": "https",
-      "address": "74.103.66.18:443",
-      "proxy_url": "https://74.103.66.18:443",
-      "latency_ms": 660.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.0132442
-    },
-    {
-      "protocol": "https",
-      "address": "84.17.47.123:9002",
-      "proxy_url": "https://84.17.47.123:9002",
-      "latency_ms": 1166.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.063276
-    },
-    {
-      "protocol": "https",
-      "address": "66.70.143.16:443",
-      "proxy_url": "https://66.70.143.16:443",
-      "latency_ms": 591.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.0785887
-    },
-    {
-      "protocol": "https",
-      "address": "52.1.130.127:443",
-      "proxy_url": "https://52.1.130.127:443",
-      "latency_ms": 478.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.0878506
-    },
-    {
-      "protocol": "https",
-      "address": "146.189.216.138:443",
-      "proxy_url": "https://146.189.216.138:443",
-      "latency_ms": 645.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.1150792
-    },
-    {
-      "protocol": "https",
-      "address": "104.236.195.215:443",
-      "proxy_url": "https://104.236.195.215:443",
-      "latency_ms": 545.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.1705627
-    },
-    {
-      "protocol": "https",
-      "address": "134.209.15.92:443",
-      "proxy_url": "https://134.209.15.92:443",
-      "latency_ms": 558.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.2187338
-    },
-    {
-      "protocol": "https",
-      "address": "159.203.22.247:443",
-      "proxy_url": "https://159.203.22.247:443",
-      "latency_ms": 438.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.219174
-    },
-    {
-      "protocol": "https",
-      "address": "34.70.204.223:443",
-      "proxy_url": "https://34.70.204.223:443",
-      "latency_ms": 440.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.2699544
-    },
-    {
-      "protocol": "https",
-      "address": "151.115.78.51:443",
-      "proxy_url": "https://151.115.78.51:443",
-      "latency_ms": 1390.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.2766447
-    },
-    {
-      "protocol": "https",
-      "address": "89.105.200.65:443",
-      "proxy_url": "https://89.105.200.65:443",
-      "latency_ms": 1106.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.2969847
-    },
-    {
-      "protocol": "https",
-      "address": "74.208.228.10:443",
-      "proxy_url": "https://74.208.228.10:443",
-      "latency_ms": 556.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.297806
-    },
-    {
-      "protocol": "https",
-      "address": "192.154.227.9:3001",
-      "proxy_url": "https://192.154.227.9:3001",
-      "latency_ms": 769.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.3119102
-    },
-    {
-      "protocol": "https",
-      "address": "198.100.153.39:443",
-      "proxy_url": "https://198.100.153.39:443",
-      "latency_ms": 492.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.3147879
-    },
-    {
-      "protocol": "https",
-      "address": "15.235.104.62:443",
-      "proxy_url": "https://15.235.104.62:443",
-      "latency_ms": 507.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.3223674
+      "last_verified": 1787815137.0377438
     },
     {
       "protocol": "https",
       "address": "209.63.239.148:443",
       "proxy_url": "https://209.63.239.148:443",
-      "latency_ms": 795.8,
+      "latency_ms": 432.4,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.358475
+      "last_verified": 1787815137.1937523
     },
     {
       "protocol": "https",
-      "address": "192.95.37.111:443",
-      "proxy_url": "https://192.95.37.111:443",
-      "latency_ms": 652.4,
+      "address": "134.209.15.92:443",
+      "proxy_url": "https://134.209.15.92:443",
+      "latency_ms": 222.0,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.361659
+      "last_verified": 1787815137.228275
     },
     {
       "protocol": "https",
-      "address": "5.189.184.6:443",
-      "proxy_url": "https://5.189.184.6:443",
-      "latency_ms": 1472.6,
+      "address": "138.197.69.103:443",
+      "proxy_url": "https://138.197.69.103:443",
+      "latency_ms": 821.9,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.3731003
+      "last_verified": 1787815137.28188
     },
     {
       "protocol": "https",
-      "address": "15.235.104.61:443",
-      "proxy_url": "https://15.235.104.61:443",
-      "latency_ms": 523.2,
+      "address": "84.17.47.148:9002",
+      "proxy_url": "https://84.17.47.148:9002",
+      "latency_ms": 1389.0,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.3798826
+      "last_verified": 1787815137.3775918
     },
     {
       "protocol": "https",
-      "address": "148.243.232.51:443",
-      "proxy_url": "https://148.243.232.51:443",
-      "latency_ms": 864.1,
+      "address": "192.154.227.9:3001",
+      "proxy_url": "https://192.154.227.9:3001",
+      "latency_ms": 498.8,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.4124303
+      "last_verified": 1787815137.406979
+    },
+    {
+      "protocol": "https",
+      "address": "129.97.50.72:443",
+      "proxy_url": "https://129.97.50.72:443",
+      "latency_ms": 754.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.4111066
+    },
+    {
+      "protocol": "https",
+      "address": "3.92.137.124:443",
+      "proxy_url": "https://3.92.137.124:443",
+      "latency_ms": 775.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.4127088
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.149:9002",
+      "proxy_url": "https://84.17.47.149:9002",
+      "latency_ms": 1389.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.4388094
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.123:9002",
+      "proxy_url": "https://84.17.47.123:9002",
+      "latency_ms": 1388.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.4456291
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.146:9002",
+      "proxy_url": "https://84.17.47.146:9002",
+      "latency_ms": 1400.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.4457753
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.150:9002",
+      "proxy_url": "https://84.17.47.150:9002",
+      "latency_ms": 1417.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.4608486
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.124:9002",
+      "proxy_url": "https://84.17.47.124:9002",
+      "latency_ms": 1414.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.4731562
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.126:9002",
+      "proxy_url": "https://84.17.47.126:9002",
+      "latency_ms": 1451.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.5004187
+    },
+    {
+      "protocol": "https",
+      "address": "74.103.66.18:443",
+      "proxy_url": "https://74.103.66.18:443",
+      "latency_ms": 925.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.532015
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.147:9002",
+      "proxy_url": "https://84.17.47.147:9002",
+      "latency_ms": 1452.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.5492206
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.125:9002",
+      "proxy_url": "https://84.17.47.125:9002",
+      "latency_ms": 1422.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.5495872
+    },
+    {
+      "protocol": "https",
+      "address": "192.154.227.11:3001",
+      "proxy_url": "https://192.154.227.11:3001",
+      "latency_ms": 512.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.5812256
+    },
+    {
+      "protocol": "https",
+      "address": "146.189.216.138:443",
+      "proxy_url": "https://146.189.216.138:443",
+      "latency_ms": 927.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.5957093
+    },
+    {
+      "protocol": "https",
+      "address": "192.154.227.12:3001",
+      "proxy_url": "https://192.154.227.12:3001",
+      "latency_ms": 542.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.6000035
+    },
+    {
+      "protocol": "https",
+      "address": "151.115.78.51:443",
+      "proxy_url": "https://151.115.78.51:443",
+      "latency_ms": 1568.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.6201625
+    },
+    {
+      "protocol": "https",
+      "address": "107.152.33.202:8888",
+      "proxy_url": "https://107.152.33.202:8888",
+      "latency_ms": 1397.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815137.6244628
     },
     {
       "protocol": "https",
       "address": "192.154.227.10:3001",
       "proxy_url": "https://192.154.227.10:3001",
-      "latency_ms": 684.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.4198554
-    },
-    {
-      "protocol": "https",
-      "address": "20.7.147.69:443",
-      "proxy_url": "https://20.7.147.69:443",
       "latency_ms": 490.5,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.448274
+      "last_verified": 1787815137.6543105
     },
     {
       "protocol": "https",
-      "address": "12.180.8.59:443",
-      "proxy_url": "https://12.180.8.59:443",
-      "latency_ms": 648.2,
+      "address": "104.236.205.59:443",
+      "proxy_url": "https://104.236.205.59:443",
+      "latency_ms": 786.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.4694812
+      "last_verified": 1787815137.6697612
     },
     {
       "protocol": "https",
-      "address": "69.87.223.151:443",
-      "proxy_url": "https://69.87.223.151:443",
-      "latency_ms": 352.8,
+      "address": "208.169.72.50:443",
+      "proxy_url": "https://208.169.72.50:443",
+      "latency_ms": 1078.4,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.4900482
+      "last_verified": 1787815137.6796563
     },
     {
       "protocol": "https",
       "address": "35.89.254.112:443",
       "proxy_url": "https://35.89.254.112:443",
-      "latency_ms": 632.6,
+      "latency_ms": 407.1,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.4937296
+      "last_verified": 1787815137.7037215
     },
     {
       "protocol": "https",
-      "address": "66.153.187.90:8090",
-      "proxy_url": "https://66.153.187.90:8090",
-      "latency_ms": 557.8,
+      "address": "66.70.143.16:443",
+      "proxy_url": "https://66.70.143.16:443",
+      "latency_ms": 956.8,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.5031102
+      "last_verified": 1787815137.7539732
     },
     {
       "protocol": "https",
-      "address": "193.176.84.38:9002",
-      "proxy_url": "https://193.176.84.38:9002",
-      "latency_ms": 1463.4,
+      "address": "74.208.228.10:443",
+      "proxy_url": "https://74.208.228.10:443",
+      "latency_ms": 710.3,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.5067217
+      "last_verified": 1787815137.7571874
     },
     {
       "protocol": "https",
-      "address": "34.224.53.187:443",
-      "proxy_url": "https://34.224.53.187:443",
-      "latency_ms": 445.3,
+      "address": "52.1.130.127:443",
+      "proxy_url": "https://52.1.130.127:443",
+      "latency_ms": 739.3,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.5074472
-    },
-    {
-      "protocol": "https",
-      "address": "18.169.247.230:443",
-      "proxy_url": "https://18.169.247.230:443",
-      "latency_ms": 1165.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5078979
-    },
-    {
-      "protocol": "https",
-      "address": "167.172.17.233:443",
-      "proxy_url": "https://167.172.17.233:443",
-      "latency_ms": 442.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5085356
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.23:9002",
-      "proxy_url": "https://193.176.84.23:9002",
-      "latency_ms": 1480.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5239162
-    },
-    {
-      "protocol": "https",
-      "address": "148.243.232.49:443",
-      "proxy_url": "https://148.243.232.49:443",
-      "latency_ms": 873.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5241613
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.18:9002",
-      "proxy_url": "https://193.176.84.18:9002",
-      "latency_ms": 1378.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5311925
-    },
-    {
-      "protocol": "https",
-      "address": "38.247.142.174:8080",
-      "proxy_url": "https://38.247.142.174:8080",
-      "latency_ms": 656.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5313854
-    },
-    {
-      "protocol": "https",
-      "address": "66.70.170.84:443",
-      "proxy_url": "https://66.70.170.84:443",
-      "latency_ms": 437.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.537146
-    },
-    {
-      "protocol": "https",
-      "address": "173.42.49.102:8090",
-      "proxy_url": "https://173.42.49.102:8090",
-      "latency_ms": 697.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.542599
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.20:9002",
-      "proxy_url": "https://193.176.84.20:9002",
-      "latency_ms": 1419.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5490577
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.26:9002",
-      "proxy_url": "https://193.176.84.26:9002",
-      "latency_ms": 1415.5,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5497792
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.33:9002",
-      "proxy_url": "https://193.176.84.33:9002",
-      "latency_ms": 1503.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.55734
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.21:9002",
-      "proxy_url": "https://193.176.84.21:9002",
-      "latency_ms": 1402.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.560856
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.27:9002",
-      "proxy_url": "https://193.176.84.27:9002",
-      "latency_ms": 1451.5,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5611095
-    },
-    {
-      "protocol": "https",
-      "address": "24.142.229.178:8090",
-      "proxy_url": "https://24.142.229.178:8090",
-      "latency_ms": 732.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5612998
-    },
-    {
-      "protocol": "https",
-      "address": "50.76.211.251:8090",
-      "proxy_url": "https://50.76.211.251:8090",
-      "latency_ms": 623.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.563616
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.19:9002",
-      "proxy_url": "https://193.176.84.19:9002",
-      "latency_ms": 1526.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.564549
+      "last_verified": 1787815137.7992232
     },
     {
       "protocol": "https",
       "address": "20.94.247.224:443",
       "proxy_url": "https://20.94.247.224:443",
-      "latency_ms": 778.0,
+      "latency_ms": 677.1,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.5657337
+      "last_verified": 1787815137.8021305
     },
     {
       "protocol": "https",
-      "address": "193.176.84.29:9002",
-      "proxy_url": "https://193.176.84.29:9002",
-      "latency_ms": 1465.0,
+      "address": "104.236.195.215:443",
+      "proxy_url": "https://104.236.195.215:443",
+      "latency_ms": 818.5,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.5706506
+      "last_verified": 1787815137.8134098
     },
     {
       "protocol": "https",
-      "address": "193.176.84.16:9002",
-      "proxy_url": "https://193.176.84.16:9002",
-      "latency_ms": 1412.8,
+      "address": "159.203.22.247:443",
+      "proxy_url": "https://159.203.22.247:443",
+      "latency_ms": 811.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.5708869
+      "last_verified": 1787815137.8235316
     },
     {
       "protocol": "https",
-      "address": "149.210.158.107:5001",
-      "proxy_url": "https://149.210.158.107:5001",
-      "latency_ms": 1050.3,
+      "address": "38.247.142.174:8080",
+      "proxy_url": "https://38.247.142.174:8080",
+      "latency_ms": 475.8,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.573206
+      "last_verified": 1787815137.8428667
     },
     {
       "protocol": "https",
-      "address": "193.176.84.34:9002",
-      "proxy_url": "https://193.176.84.34:9002",
-      "latency_ms": 1573.3,
+      "address": "192.95.37.111:443",
+      "proxy_url": "https://192.95.37.111:443",
+      "latency_ms": 854.2,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.5739155
-    },
-    {
-      "protocol": "https",
-      "address": "134.65.238.25:3128",
-      "proxy_url": "https://134.65.238.25:3128",
-      "latency_ms": 1591.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.574594
-    },
-    {
-      "protocol": "https",
-      "address": "161.35.159.29:443",
-      "proxy_url": "https://161.35.159.29:443",
-      "latency_ms": 1092.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.579811
+      "last_verified": 1787815137.844585
     },
     {
       "protocol": "https",
       "address": "185.53.129.141:9090",
       "proxy_url": "https://185.53.129.141:9090",
-      "latency_ms": 1604.7,
+      "latency_ms": 1568.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.584365
+      "last_verified": 1787815137.8565333
     },
     {
       "protocol": "https",
-      "address": "193.176.84.39:9002",
-      "proxy_url": "https://193.176.84.39:9002",
-      "latency_ms": 1474.7,
+      "address": "133.242.152.27:443",
+      "proxy_url": "https://133.242.152.27:443",
+      "latency_ms": 1321.7,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.586532
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.32:9002",
-      "proxy_url": "https://193.176.84.32:9002",
-      "latency_ms": 1484.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5890374
-    },
-    {
-      "protocol": "https",
-      "address": "52.178.94.61:443",
-      "proxy_url": "https://52.178.94.61:443",
-      "latency_ms": 1075.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5966349
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.17:9002",
-      "proxy_url": "https://193.176.84.17:9002",
-      "latency_ms": 1416.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.5968046
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.25:9002",
-      "proxy_url": "https://193.176.84.25:9002",
-      "latency_ms": 1437.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6005957
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.40:9002",
-      "proxy_url": "https://193.176.84.40:9002",
-      "latency_ms": 1494.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.607349
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.22:9002",
-      "proxy_url": "https://193.176.84.22:9002",
-      "latency_ms": 1411.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6088932
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.37:9002",
-      "proxy_url": "https://193.176.84.37:9002",
-      "latency_ms": 1500.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6124992
-    },
-    {
-      "protocol": "https",
-      "address": "172.191.23.249:443",
-      "proxy_url": "https://172.191.23.249:443",
-      "latency_ms": 468.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6127024
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.36:9002",
-      "proxy_url": "https://193.176.84.36:9002",
-      "latency_ms": 1474.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6135192
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.24:9002",
-      "proxy_url": "https://193.176.84.24:9002",
-      "latency_ms": 1387.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6147046
-    },
-    {
-      "protocol": "https",
-      "address": "52.15.81.47:443",
-      "proxy_url": "https://52.15.81.47:443",
-      "latency_ms": 450.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.614897
-    },
-    {
-      "protocol": "https",
-      "address": "52.233.143.240:443",
-      "proxy_url": "https://52.233.143.240:443",
-      "latency_ms": 1087.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6201565
-    },
-    {
-      "protocol": "https",
-      "address": "45.56.228.8:443",
-      "proxy_url": "https://45.56.228.8:443",
-      "latency_ms": 1040.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.62658
-    },
-    {
-      "protocol": "https",
-      "address": "81.171.24.164:443",
-      "proxy_url": "https://81.171.24.164:443",
-      "latency_ms": 1161.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6307552
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.30:9002",
-      "proxy_url": "https://193.176.84.30:9002",
-      "latency_ms": 1430.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6359875
-    },
-    {
-      "protocol": "https",
-      "address": "203.25.108.77:443",
-      "proxy_url": "https://203.25.108.77:443",
-      "latency_ms": 1171.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.662613
-    },
-    {
-      "protocol": "https",
-      "address": "132.145.152.188:443",
-      "proxy_url": "https://132.145.152.188:443",
-      "latency_ms": 407.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6637886
-    },
-    {
-      "protocol": "https",
-      "address": "217.160.25.90:443",
-      "proxy_url": "https://217.160.25.90:443",
-      "latency_ms": 1328.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6658702
-    },
-    {
-      "protocol": "https",
-      "address": "84.72.72.153:443",
-      "proxy_url": "https://84.72.72.153:443",
-      "latency_ms": 1296.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6824863
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.31:9002",
-      "proxy_url": "https://193.176.84.31:9002",
-      "latency_ms": 1414.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6863518
-    },
-    {
-      "protocol": "https",
-      "address": "24.225.10.211:443",
-      "proxy_url": "https://24.225.10.211:443",
-      "latency_ms": 532.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6867712
-    },
-    {
-      "protocol": "https",
-      "address": "40.71.58.75:443",
-      "proxy_url": "https://40.71.58.75:443",
-      "latency_ms": 499.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6905763
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.35:9002",
-      "proxy_url": "https://193.176.84.35:9002",
-      "latency_ms": 1447.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.6995785
-    },
-    {
-      "protocol": "https",
-      "address": "208.169.72.58:443",
-      "proxy_url": "https://208.169.72.58:443",
-      "latency_ms": 918.5,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.700315
-    },
-    {
-      "protocol": "https",
-      "address": "13.65.27.74:443",
-      "proxy_url": "https://13.65.27.74:443",
-      "latency_ms": 573.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.707347
-    },
-    {
-      "protocol": "https",
-      "address": "146.177.5.114:8090",
-      "proxy_url": "https://146.177.5.114:8090",
-      "latency_ms": 1091.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.7229419
-    },
-    {
-      "protocol": "https",
-      "address": "20.103.207.25:443",
-      "proxy_url": "https://20.103.207.25:443",
-      "latency_ms": 1294.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.7307146
-    },
-    {
-      "protocol": "https",
-      "address": "194.195.87.167:8080",
-      "proxy_url": "https://194.195.87.167:8080",
-      "latency_ms": 1114.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.7382877
-    },
-    {
-      "protocol": "https",
-      "address": "52.146.66.15:443",
-      "proxy_url": "https://52.146.66.15:443",
-      "latency_ms": 427.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.7532628
-    },
-    {
-      "protocol": "https",
-      "address": "24.172.45.246:8090",
-      "proxy_url": "https://24.172.45.246:8090",
-      "latency_ms": 798.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.7613463
-    },
-    {
-      "protocol": "https",
-      "address": "78.47.151.233:443",
-      "proxy_url": "https://78.47.151.233:443",
-      "latency_ms": 1351.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.777817
-    },
-    {
-      "protocol": "https",
-      "address": "95.110.141.122:8888",
-      "proxy_url": "https://95.110.141.122:8888",
-      "latency_ms": 1215.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.7840612
-    },
-    {
-      "protocol": "https",
-      "address": "72.28.165.185:8090",
-      "proxy_url": "https://72.28.165.185:8090",
-      "latency_ms": 842.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.786923
-    },
-    {
-      "protocol": "https",
-      "address": "82.196.220.217:443",
-      "proxy_url": "https://82.196.220.217:443",
-      "latency_ms": 1180.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.787689
-    },
-    {
-      "protocol": "https",
-      "address": "66.249.146.210:443",
-      "proxy_url": "https://66.249.146.210:443",
-      "latency_ms": 917.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "www.alicesw.com"
-      ],
-      "last_verified": 1787806021.7907066
+      "last_verified": 1787815137.88395
     },
     {
       "protocol": "https",
       "address": "133.167.87.173:443",
       "proxy_url": "https://133.167.87.173:443",
-      "latency_ms": 1354.6,
+      "latency_ms": 1111.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.7917843
+      "last_verified": 1787815137.8898683
     },
     {
       "protocol": "https",
-      "address": "157.90.167.183:443",
-      "proxy_url": "https://157.90.167.183:443",
-      "latency_ms": 1264.6,
+      "address": "34.70.204.223:443",
+      "proxy_url": "https://34.70.204.223:443",
+      "latency_ms": 577.3,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.797594
+      "last_verified": 1787815137.9446177
     },
     {
       "protocol": "https",
-      "address": "193.136.192.57:443",
-      "proxy_url": "https://193.136.192.57:443",
-      "latency_ms": 1258.8,
+      "address": "128.199.207.200:443",
+      "proxy_url": "https://128.199.207.200:443",
+      "latency_ms": 1841.4,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.8012695
+      "last_verified": 1787815138.0006597
     },
     {
       "protocol": "https",
-      "address": "195.192.209.130:443",
-      "proxy_url": "https://195.192.209.130:443",
-      "latency_ms": 1380.4,
+      "address": "175.134.18.237:443",
+      "proxy_url": "https://175.134.18.237:443",
+      "latency_ms": 1274.7,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "www.alicesw.com"
       ],
-      "last_verified": 1787806021.8030508
+      "last_verified": 1787815138.006942
+    },
+    {
+      "protocol": "https",
+      "address": "34.224.53.187:443",
+      "proxy_url": "https://34.224.53.187:443",
+      "latency_ms": 657.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0130901
+    },
+    {
+      "protocol": "https",
+      "address": "198.100.153.39:443",
+      "proxy_url": "https://198.100.153.39:443",
+      "latency_ms": 756.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.028176
+    },
+    {
+      "protocol": "https",
+      "address": "173.249.37.45:5051",
+      "proxy_url": "https://173.249.37.45:5051",
+      "latency_ms": 1719.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0339413
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.19:9002",
+      "proxy_url": "https://193.176.84.19:9002",
+      "latency_ms": 1657.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0400348
+    },
+    {
+      "protocol": "https",
+      "address": "89.105.200.65:443",
+      "proxy_url": "https://89.105.200.65:443",
+      "latency_ms": 1503.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.040801
+    },
+    {
+      "protocol": "https",
+      "address": "18.169.247.230:443",
+      "proxy_url": "https://18.169.247.230:443",
+      "latency_ms": 1480.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0507927
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.33:9002",
+      "proxy_url": "https://193.176.84.33:9002",
+      "latency_ms": 1650.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.063898
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.23:9002",
+      "proxy_url": "https://193.176.84.23:9002",
+      "latency_ms": 1705.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0655556
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.32:9002",
+      "proxy_url": "https://193.176.84.32:9002",
+      "latency_ms": 1671.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0692935
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.34:9002",
+      "proxy_url": "https://193.176.84.34:9002",
+      "latency_ms": 1753.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.069468
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.20:9002",
+      "proxy_url": "https://193.176.84.20:9002",
+      "latency_ms": 1745.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0706341
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.40:9002",
+      "proxy_url": "https://193.176.84.40:9002",
+      "latency_ms": 1658.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0741847
+    },
+    {
+      "protocol": "https",
+      "address": "20.103.207.25:443",
+      "proxy_url": "https://20.103.207.25:443",
+      "latency_ms": 1407.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.076517
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.29:9002",
+      "proxy_url": "https://193.176.84.29:9002",
+      "latency_ms": 1638.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0826056
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.26:9002",
+      "proxy_url": "https://193.176.84.26:9002",
+      "latency_ms": 1664.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0861077
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.21:9002",
+      "proxy_url": "https://193.176.84.21:9002",
+      "latency_ms": 1669.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0900722
+    },
+    {
+      "protocol": "https",
+      "address": "149.210.158.107:5001",
+      "proxy_url": "https://149.210.158.107:5001",
+      "latency_ms": 1330.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0909142
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.38:9002",
+      "proxy_url": "https://193.176.84.38:9002",
+      "latency_ms": 1693.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.0935152
+    },
+    {
+      "protocol": "https",
+      "address": "95.110.141.122:8888",
+      "proxy_url": "https://95.110.141.122:8888",
+      "latency_ms": 1424.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1200786
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.25:9002",
+      "proxy_url": "https://193.176.84.25:9002",
+      "latency_ms": 1614.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1246808
+    },
+    {
+      "protocol": "https",
+      "address": "15.235.104.62:443",
+      "proxy_url": "https://15.235.104.62:443",
+      "latency_ms": 820.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1269958
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.36:9002",
+      "proxy_url": "https://193.176.84.36:9002",
+      "latency_ms": 1622.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.133994
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.30:9002",
+      "proxy_url": "https://193.176.84.30:9002",
+      "latency_ms": 1624.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1350698
+    },
+    {
+      "protocol": "https",
+      "address": "148.243.232.51:443",
+      "proxy_url": "https://148.243.232.51:443",
+      "latency_ms": 1220.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1352386
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.37:9002",
+      "proxy_url": "https://193.176.84.37:9002",
+      "latency_ms": 1652.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1372783
+    },
+    {
+      "protocol": "https",
+      "address": "193.137.38.135:443",
+      "proxy_url": "https://193.137.38.135:443",
+      "latency_ms": 1581.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1401052
+    },
+    {
+      "protocol": "https",
+      "address": "15.235.104.61:443",
+      "proxy_url": "https://15.235.104.61:443",
+      "latency_ms": 812.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1438556
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.35:9002",
+      "proxy_url": "https://193.176.84.35:9002",
+      "latency_ms": 1661.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1472185
+    },
+    {
+      "protocol": "https",
+      "address": "24.142.229.178:8090",
+      "proxy_url": "https://24.142.229.178:8090",
+      "latency_ms": 900.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1521175
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.16:9002",
+      "proxy_url": "https://193.176.84.16:9002",
+      "latency_ms": 1716.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1562395
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.39:9002",
+      "proxy_url": "https://193.176.84.39:9002",
+      "latency_ms": 1669.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.156401
+    },
+    {
+      "protocol": "https",
+      "address": "45.56.228.8:443",
+      "proxy_url": "https://45.56.228.8:443",
+      "latency_ms": 1365.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1626189
+    },
+    {
+      "protocol": "https",
+      "address": "52.178.94.61:443",
+      "proxy_url": "https://52.178.94.61:443",
+      "latency_ms": 1435.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1681147
+    },
+    {
+      "protocol": "https",
+      "address": "12.180.8.59:443",
+      "proxy_url": "https://12.180.8.59:443",
+      "latency_ms": 881.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.169502
+    },
+    {
+      "protocol": "https",
+      "address": "66.153.187.90:8090",
+      "proxy_url": "https://66.153.187.90:8090",
+      "latency_ms": 712.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1874585
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.27:9002",
+      "proxy_url": "https://193.176.84.27:9002",
+      "latency_ms": 1700.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.1922035
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.18:9002",
+      "proxy_url": "https://193.176.84.18:9002",
+      "latency_ms": 1636.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2104397
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.31:9002",
+      "proxy_url": "https://193.176.84.31:9002",
+      "latency_ms": 1648.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2137787
+    },
+    {
+      "protocol": "https",
+      "address": "81.171.24.164:443",
+      "proxy_url": "https://81.171.24.164:443",
+      "latency_ms": 1536.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2229378
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.22:9002",
+      "proxy_url": "https://193.176.84.22:9002",
+      "latency_ms": 1612.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2237422
+    },
+    {
+      "protocol": "https",
+      "address": "193.77.81.97:443",
+      "proxy_url": "https://193.77.81.97:443",
+      "latency_ms": 1531.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2453942
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.17:9002",
+      "proxy_url": "https://193.176.84.17:9002",
+      "latency_ms": 1718.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2455626
+    },
+    {
+      "protocol": "https",
+      "address": "209.148.53.153:8090",
+      "proxy_url": "https://209.148.53.153:8090",
+      "latency_ms": 900.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2458642
+    },
+    {
+      "protocol": "https",
+      "address": "84.72.72.153:443",
+      "proxy_url": "https://84.72.72.153:443",
+      "latency_ms": 1579.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2500184
+    },
+    {
+      "protocol": "https",
+      "address": "161.35.159.29:443",
+      "proxy_url": "https://161.35.159.29:443",
+      "latency_ms": 1431.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2533765
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.24:9002",
+      "proxy_url": "https://193.176.84.24:9002",
+      "latency_ms": 1686.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2640328
+    },
+    {
+      "protocol": "https",
+      "address": "78.47.151.233:443",
+      "proxy_url": "https://78.47.151.233:443",
+      "latency_ms": 1582.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2886944
+    },
+    {
+      "protocol": "https",
+      "address": "173.42.49.102:8090",
+      "proxy_url": "https://173.42.49.102:8090",
+      "latency_ms": 941.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.2900858
+    },
+    {
+      "protocol": "https",
+      "address": "173.13.157.60:443",
+      "proxy_url": "https://173.13.157.60:443",
+      "latency_ms": 568.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.304937
+    },
+    {
+      "protocol": "https",
+      "address": "79.133.217.237:443",
+      "proxy_url": "https://79.133.217.237:443",
+      "latency_ms": 1662.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3082378
+    },
+    {
+      "protocol": "https",
+      "address": "208.169.72.58:443",
+      "proxy_url": "https://208.169.72.58:443",
+      "latency_ms": 1118.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3102956
+    },
+    {
+      "protocol": "https",
+      "address": "66.249.146.210:443",
+      "proxy_url": "https://66.249.146.210:443",
+      "latency_ms": 1105.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3116846
+    },
+    {
+      "protocol": "https",
+      "address": "217.160.25.90:443",
+      "proxy_url": "https://217.160.25.90:443",
+      "latency_ms": 1630.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.320569
+    },
+    {
+      "protocol": "https",
+      "address": "190.112.224.179:443",
+      "proxy_url": "https://190.112.224.179:443",
+      "latency_ms": 1117.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.341195
+    },
+    {
+      "protocol": "https",
+      "address": "69.87.223.151:443",
+      "proxy_url": "https://69.87.223.151:443",
+      "latency_ms": 590.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3485954
+    },
+    {
+      "protocol": "https",
+      "address": "194.195.87.167:8080",
+      "proxy_url": "https://194.195.87.167:8080",
+      "latency_ms": 1438.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3534222
+    },
+    {
+      "protocol": "https",
+      "address": "52.233.143.240:443",
+      "proxy_url": "https://52.233.143.240:443",
+      "latency_ms": 1401.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3801398
+    },
+    {
+      "protocol": "https",
+      "address": "66.249.156.130:443",
+      "proxy_url": "https://66.249.156.130:443",
+      "latency_ms": 1228.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3830397
+    },
+    {
+      "protocol": "https",
+      "address": "20.7.147.69:443",
+      "proxy_url": "https://20.7.147.69:443",
+      "latency_ms": 724.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3831782
+    },
+    {
+      "protocol": "https",
+      "address": "148.243.232.49:443",
+      "proxy_url": "https://148.243.232.49:443",
+      "latency_ms": 1233.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3833082
+    },
+    {
+      "protocol": "https",
+      "address": "5.189.184.6:443",
+      "proxy_url": "https://5.189.184.6:443",
+      "latency_ms": 2000.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3893223
+    },
+    {
+      "protocol": "https",
+      "address": "178.237.108.214:443",
+      "proxy_url": "https://178.237.108.214:443",
+      "latency_ms": 1588.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3978984
+    },
+    {
+      "protocol": "https",
+      "address": "93.115.26.111:443",
+      "proxy_url": "https://93.115.26.111:443",
+      "latency_ms": 1658.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.3999307
+    },
+    {
+      "protocol": "https",
+      "address": "45.114.142.178:443",
+      "proxy_url": "https://45.114.142.178:443",
+      "latency_ms": 2348.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.4053833
+    },
+    {
+      "protocol": "https",
+      "address": "82.196.220.217:443",
+      "proxy_url": "https://82.196.220.217:443",
+      "latency_ms": 1459.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.4089284
+    },
+    {
+      "protocol": "https",
+      "address": "87.238.253.66:443",
+      "proxy_url": "https://87.238.253.66:443",
+      "latency_ms": 1548.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.410066
+    },
+    {
+      "protocol": "https",
+      "address": "167.172.17.233:443",
+      "proxy_url": "https://167.172.17.233:443",
+      "latency_ms": 809.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.4102113
+    },
+    {
+      "protocol": "https",
+      "address": "195.200.166.126:443",
+      "proxy_url": "https://195.200.166.126:443",
+      "latency_ms": 1545.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.alicesw.com"
+      ],
+      "last_verified": 1787815138.432661
     }
   ]
 }
