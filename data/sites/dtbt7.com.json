@@ -7647,46 +7647,44 @@
       "latency_ms": 3631.8,
       "score": 1,
       "source": "zloi_https",
+      "valid_tar3.51.196.44:2004",
+      "proxy_url": "socks5://13.51.196.44:2004",
+      "latency_ms": 650.5,
+      "score": 1,
+      "source": "gfpcom_socks5",
       "valid_targets": [
         "dtbt7.com"
       ],
-      "last_verified": 1786980559.649486
+      "last_verified": 1788027805.883644
     },
     {
-      "protocol": "https",
-      "address": "192.126.96.110:443",
-      "proxy_url": "https://192.126.96.110:443",
-      "latency_ms": 1906.2,
+      "protocol": "socks5",
+      "address": "13.51.196.44:22163",
+      "proxy_url": "socks5://13.51.196.44:22163",
+      "latency_ms": 658.5,
       "score": 1,
-      "source": "zloi_https",
+      "source": "gfpcom_socks5",
       "valid_targets": [
         "dtbt7.com"
       ],
-      "last_verified": 1786980559.6547272
+      "last_verified": 1788027805.8838317
     },
     {
-      "protocol": "https",
-      "address": "38.92.9.234:443",
-      "proxy_url": "https://38.92.9.234:443",
-      "latency_ms": 2389.0,
+      "protocol": "socks5",
+      "address": "13.53.139.178:30380",
+      "proxy_url": "socks5://13.53.139.178:30380",
+      "latency_ms": 632.0,
       "score": 1,
-      "source": "zloi_https",
+      "source": "gfpcom_socks5",
       "valid_targets": [
         "dtbt7.com"
       ],
-      "last_verified": 1786980559.6651998
+      "last_verified": 1788027806.0220487
     },
     {
-      "protocol": "https",
-      "address": "141.164.39.178:443",
-      "proxy_url": "https://141.164.39.178:443",
-      "latency_ms": 3255.5,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "dtbt7.com"
-      ],
-      "last_verified": 1786980559.7197149
+      "protocol": "socks5",
+      "address": "13.53.139.178:4572",
+      "proxy_url": "socks5://13.53.139.19
     },
     {
       "protocol": "https",
