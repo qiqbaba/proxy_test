@@ -12209,4 +12209,21 @@
       "last_verified": 1787241839.9265625
     }
   ]
+}m"
+      ],
+      "last_verified": 1788630072.717229
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.207.132.28:44717",
+      "proxy_url": "socks5://43.207.132.28:44717",
+      "latency_ms": 513.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "thbt8.com"
+      ],
+      "last_verified": 1788630072.7213
+    }
+  ]
 }

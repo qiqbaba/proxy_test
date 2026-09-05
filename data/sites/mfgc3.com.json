@@ -12095,4 +12095,52 @@
       "last_verified": 1788547089.185432
     }
   ]
+}ocol": "socks5",
+      "address": "43.199.133.173:8095",
+      "proxy_url": "socks5://43.199.133.173:8095",
+      "latency_ms": 927.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "mfgc3.com"
+      ],
+      "last_verified": 1788630066.5701604
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.200.179.23:7953",
+      "proxy_url": "socks5://43.200.179.23:7953",
+      "latency_ms": 811.6,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "mfgc3.com"
+      ],
+      "last_verified": 1788630066.6398835
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.198.78.37:7777",
+      "proxy_url": "socks5://43.198.78.37:7777",
+      "latency_ms": 1456.9,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "mfgc3.com"
+      ],
+      "last_verified": 1788630066.845633
+    },
+    {
+      "protocol": "socks5",
+      "address": "43.198.78.37:4982",
+      "proxy_url": "socks5://43.198.78.37:4982",
+      "latency_ms": 1498.2,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "mfgc3.com"
+      ],
+      "last_verified": 1788630066.919409
+    }
+  ]
 }

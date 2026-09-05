@@ -12115,4 +12115,26 @@
       "last_verified": 1788375291.5112514
     }
   ]
+}s5://40.176.84.249:8082",
+      "latency_ms": 294.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 1788630036.2104173
+    },
+    {
+      "protocol": "socks5",
+      "address": "40.176.84.249:11622",
+      "proxy_url": "socks5://40.176.84.249:11622",
+      "latency_ms": 296.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 1788630036.26632
+    }
+  ]
 }

@@ -12146,4 +12146,24 @@
       "last_verified": 1787242127.5791876
     }
   ]
+},
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "dtbt7.com"
+      ],
+      "last_verified": 1788630351.969701
+    },
+    {
+      "protocol": "socks5",
+      "address": "54.193.173.209:57938",
+      "proxy_url": "socks5://54.193.173.209:57938",
+      "latency_ms": 193.8,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "dtbt7.com"
+      ],
+      "last_verified": 1788630351.974037
+    }
+  ]
 }
