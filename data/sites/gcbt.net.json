@@ -9213,8 +9213,9 @@
       "source": "gfpcom_socks5",
       "valid_targets": [
         "gcbt.net"
-      ],
-      "last_verified": 1787673310.9960108
+   .8,
+      "score": 1,
+      "source": "gf960108
     },
     {
       "protocol": "socks5",

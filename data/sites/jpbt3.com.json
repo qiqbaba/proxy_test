@@ -3877,100 +3877,99 @@
       "proxy_url": "https://203.25.108.77:443",
       "latency_ms": 2640.3,
       "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "jpbt3.com"
-      ],
-      "last_verified": 1788807828.975472
-    },
-    {
-      "protocol": "https",
-      "address": "93.71.245.84:8090",
-      "proxy_url": "https://93.71.245.84:8090",
-      "latency_ms": 1965.6,
+      38.28.185.222:443",
+      "proxy_url": "https://38.28.185.222:443",
+      "latency_ms": 956.0,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "jpbt3.com"
       ],
-      "last_verified": 1788807828.9849448
+      "last_verified": 1789415230.8151326
     },
     {
       "protocol": "https",
-      "address": "38.28.193.1:443",
-      "proxy_url": "https://38.28.193.1:443",
-      "latency_ms": 722.9,
+      "address": "52.10.74.103:443",
+      "proxy_url": "https://52.10.74.103:443",
+      "latency_ms": 1051.3,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "jpbt3.com"
       ],
-      "last_verified": 1788807828.9851818
+      "last_verified": 1789415230.863972
     },
     {
       "protocol": "https",
-      "address": "190.113.112.147:4443",
-      "proxy_url": "https://190.113.112.147:4443",
-      "latency_ms": 1102.0,
+      "address": "137.175.77.35:443",
+      "proxy_url": "https://137.175.77.35:443",
+      "latency_ms": 274.2,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "jpbt3.com"
       ],
-      "last_verified": 1788807828.985254
+      "last_verified": 1789415230.900448
     },
     {
       "protocol": "https",
-      "address": "178.237.4.200:443",
-      "proxy_url": "https://178.237.4.200:443",
-      "latency_ms": 1570.4,
+      "address": "82.64.67.179:443",
+      "proxy_url": "https://82.64.67.179:443",
+      "latency_ms": 1913.8,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "jpbt3.com"
       ],
-      "last_verified": 1788807828.9889786
+      "last_verified": 1789415230.9805205
     },
     {
       "protocol": "https",
-      "address": "210.89.42.212:443",
-      "proxy_url": "https://210.89.42.212:443",
-      "latency_ms": 2376.5,
+      "address": "38.28.185.208:443",
+      "proxy_url": "https://38.28.185.208:443",
+      "latency_ms": 495.0,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "jpbt3.com"
       ],
-      "last_verified": 1788807828.9894695
+      "last_verified": 1789415231.0308597
     },
     {
       "protocol": "https",
-      "address": "80.124.109.22:8090",
-      "proxy_url": "https://80.124.109.22:8090",
-      "latency_ms": 1277.9,
+      "address": "170.199.233.89:443",
+      "proxy_url": "https://170.199.233.89:443",
+      "latency_ms": 2122.2,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "jpbt3.com"
       ],
-      "last_verified": 1788807828.989766
+      "last_verified": 1789415231.0390427
     },
     {
       "protocol": "https",
-      "address": "18.116.108.189:443",
-      "proxy_url": "https://18.116.108.189:443",
-      "latency_ms": 593.4,
+      "address": "159.13.44.228:443",
+      "proxy_url": "https://159.13.44.228:443",
+      "latency_ms": 3753.7,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "jpbt3.com"
       ],
-      "last_verified": 1788807828.9996257
+      "last_verified": 1789415231.0592563
     },
     {
       "protocol": "https",
-      "address": "34.93.13.41:443",
-      "proxy_url": "https://34.93.13.41:443",
+      "address": "38.247.141.135:443",
+      "proxy_url": "https://38.247.141.135:443",
+      "latency_ms": 2087.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 17894152314.93.13.41:443",
       "latency_ms": 2327.5,
       "score": 1,
       "source": "zloi_https",
