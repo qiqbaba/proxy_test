@@ -1,1566 +1,1564 @@
 {
   "target_url": "https://taosebt.com/",
   "domain": "taosebt.com",
-  "updated_at": "2026-09-15 19:05:55",
+  "updated_at": "2026-09-18 19:02:23",
   "count": 1000,
   "proxies": [
     {
       "protocol": "socks5",
-      "address": "142.54.239.1:4145",
-      "proxy_url": "socks5://142.54.239.1:4145",
-      "latency_ms": 540.8,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.1317148
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.226.214:4145",
-      "proxy_url": "socks5://142.54.226.214:4145",
-      "latency_ms": 533.2,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.1332135
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.231.38:4145",
-      "proxy_url": "socks5://142.54.231.38:4145",
-      "latency_ms": 547.8,
+      "address": "67.201.39.14:4145",
+      "proxy_url": "socks5://67.201.39.14:4145",
+      "latency_ms": 526.1,
       "score": 2,
       "source": "proxyscrape_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.1377494
-    },
-    {
-      "protocol": "socks4",
-      "address": "142.54.231.38:4145",
-      "proxy_url": "socks4://142.54.231.38:4145",
-      "latency_ms": 467.8,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.138732
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.229.249:4145",
-      "proxy_url": "socks5://142.54.229.249:4145",
-      "latency_ms": 542.4,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.1410112
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.237.34:4145",
-      "proxy_url": "socks5://142.54.237.34:4145",
-      "latency_ms": 543.9,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.1429517
-    },
-    {
-      "protocol": "socks5",
-      "address": "199.116.114.11:4145",
-      "proxy_url": "socks5://199.116.114.11:4145",
-      "latency_ms": 539.5,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.154054
-    },
-    {
-      "protocol": "socks4",
-      "address": "142.54.237.38:4145",
-      "proxy_url": "socks4://142.54.237.38:4145",
-      "latency_ms": 469.4,
-      "score": 2,
-      "source": "proxyscraper_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.1741884
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.232.6:4145",
-      "proxy_url": "socks5://142.54.232.6:4145",
-      "latency_ms": 562.9,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.227924
+      "last_verified": 1789755026.6608212
     },
     {
       "protocol": "socks5",
       "address": "142.54.237.38:4145",
       "proxy_url": "socks5://142.54.237.38:4145",
-      "latency_ms": 495.4,
-      "score": 2,
-      "source": "proxyscraper_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.2325604
-    },
-    {
-      "protocol": "socks5",
-      "address": "142.54.235.9:4145",
-      "proxy_url": "socks5://142.54.235.9:4145",
-      "latency_ms": 498.7,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.2502503
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.37.216.68:4145",
-      "proxy_url": "socks5://72.37.216.68:4145",
-      "latency_ms": 542.1,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.278442
-    },
-    {
-      "protocol": "socks5",
-      "address": "198.8.84.3:4145",
-      "proxy_url": "socks5://198.8.84.3:4145",
-      "latency_ms": 553.5,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.2951074
-    },
-    {
-      "protocol": "socks5",
-      "address": "67.201.39.14:4145",
-      "proxy_url": "socks5://67.201.39.14:4145",
-      "latency_ms": 553.4,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3017128
-    },
-    {
-      "protocol": "socks4",
-      "address": "198.8.94.174:39078",
-      "proxy_url": "socks4://198.8.94.174:39078",
-      "latency_ms": 671.1,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3170137
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.139.162:4145",
-      "proxy_url": "socks5://192.111.139.162:4145",
-      "latency_ms": 732.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.321656
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.137.35:4145",
-      "proxy_url": "socks5://192.111.137.35:4145",
-      "latency_ms": 729.6,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3237023
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.170.249.65:4145",
-      "proxy_url": "socks5://184.170.249.65:4145",
-      "latency_ms": 740.1,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3299193
-    },
-    {
-      "protocol": "http",
-      "address": "15.235.21.254:8080",
-      "proxy_url": "http://15.235.21.254:8080",
-      "latency_ms": 650.4,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3323646
-    },
-    {
-      "protocol": "socks5",
-      "address": "198.8.94.174:39078",
-      "proxy_url": "socks5://198.8.94.174:39078",
-      "latency_ms": 729.6,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.338219
-    },
-    {
-      "protocol": "socks5",
-      "address": "74.119.147.209:4145",
-      "proxy_url": "socks5://74.119.147.209:4145",
-      "latency_ms": 678.8,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3467014
-    },
-    {
-      "protocol": "socks5",
-      "address": "74.119.144.60:4145",
-      "proxy_url": "socks5://74.119.144.60:4145",
-      "latency_ms": 708.9,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.353692
-    },
-    {
-      "protocol": "socks5",
-      "address": "198.8.94.170:4145",
-      "proxy_url": "socks5://198.8.94.170:4145",
-      "latency_ms": 710.4,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.355813
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.139.165:4145",
-      "proxy_url": "socks5://192.111.139.165:4145",
-      "latency_ms": 722.2,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.371027
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.111.138.29:4145",
-      "proxy_url": "socks5://192.111.138.29:4145",
-      "latency_ms": 694.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3712077
-    },
-    {
-      "protocol": "socks4",
-      "address": "199.66.182.243:4145",
-      "proxy_url": "socks4://199.66.182.243:4145",
-      "latency_ms": 662.0,
-      "score": 2,
-      "source": "r00tee_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3777049
-    },
-    {
-      "protocol": "socks4",
-      "address": "199.66.183.251:4145",
-      "proxy_url": "socks4://199.66.183.251:4145",
-      "latency_ms": 735.1,
-      "score": 2,
-      "source": "anonym0uswork_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3779793
-    },
-    {
-      "protocol": "socks4",
-      "address": "192.111.138.29:4145",
-      "proxy_url": "socks4://192.111.138.29:4145",
-      "latency_ms": 694.3,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3789928
-    },
-    {
-      "protocol": "socks5",
-      "address": "199.229.254.129:4145",
-      "proxy_url": "socks5://199.229.254.129:4145",
-      "latency_ms": 714.2,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3801658
-    },
-    {
-      "protocol": "socks5",
-      "address": "199.66.183.251:4145",
-      "proxy_url": "socks5://199.66.183.251:4145",
-      "latency_ms": 779.1,
+      "latency_ms": 524.8,
       "score": 2,
       "source": "r00tee_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.3838892
+      "last_verified": 1789755026.6650681
     },
     {
       "protocol": "socks5",
-      "address": "199.66.182.243:4145",
-      "proxy_url": "socks5://199.66.182.243:4145",
-      "latency_ms": 746.1,
-      "score": 2,
-      "source": "thordata_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.3899224
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.170.245.148:4145",
-      "proxy_url": "socks5://184.170.245.148:4145",
-      "latency_ms": 713.3,
+      "address": "142.54.235.9:4145",
+      "proxy_url": "socks5://142.54.235.9:4145",
+      "latency_ms": 538.0,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.4047165
-    },
-    {
-      "protocol": "socks5",
-      "address": "192.252.208.70:14282",
-      "proxy_url": "socks5://192.252.208.70:14282",
-      "latency_ms": 708.8,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.4118989
+      "last_verified": 1789755026.6684082
     },
     {
       "protocol": "socks4",
-      "address": "199.66.183.226:4145",
-      "proxy_url": "socks4://199.66.183.226:4145",
-      "latency_ms": 677.7,
+      "address": "142.54.237.38:4145",
+      "proxy_url": "socks4://142.54.237.38:4145",
+      "latency_ms": 516.6,
       "score": 2,
       "source": "anonym0uswork_socks4",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.4198382
+      "last_verified": 1789755026.668514
     },
     {
       "protocol": "socks5",
-      "address": "199.66.183.226:4145",
-      "proxy_url": "socks5://199.66.183.226:4145",
-      "latency_ms": 783.5,
+      "address": "142.54.239.1:4145",
+      "proxy_url": "socks5://142.54.239.1:4145",
+      "latency_ms": 504.0,
       "score": 2,
       "source": "proxyscrape_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.427461
+      "last_verified": 1789755026.6692653
     },
     {
       "protocol": "socks5",
-      "address": "192.111.129.145:16894",
-      "proxy_url": "socks5://192.111.129.145:16894",
-      "latency_ms": 711.1,
+      "address": "142.54.232.6:4145",
+      "proxy_url": "socks5://142.54.232.6:4145",
+      "latency_ms": 517.5,
       "score": 2,
       "source": "proxyscrape_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.4293907
+      "last_verified": 1789755026.6700928
     },
     {
-      "protocol": "socks4",
-      "address": "184.181.217.201:4145",
-      "proxy_url": "socks4://184.181.217.201:4145",
-      "latency_ms": 894.0,
+      "protocol": "socks5",
+      "address": "142.54.231.38:4145",
+      "proxy_url": "socks5://142.54.231.38:4145",
+      "latency_ms": 495.2,
       "score": 2,
-      "source": "proxyscrape_socks4",
+      "source": "proxyscrape_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.4884048
+      "last_verified": 1789755026.6741178
     },
     {
       "protocol": "socks4",
-      "address": "184.178.172.25:15291",
-      "proxy_url": "socks4://184.178.172.25:15291",
-      "latency_ms": 889.4,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.4982004
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.178.172.11:4145",
-      "proxy_url": "socks4://184.178.172.11:4145",
-      "latency_ms": 913.1,
+      "address": "142.54.231.38:4145",
+      "proxy_url": "socks4://142.54.231.38:4145",
+      "latency_ms": 434.4,
       "score": 2,
       "source": "speedx_socks4",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.5140655
-    },
-    {
-      "protocol": "socks4",
-      "address": "98.170.57.231:4145",
-      "proxy_url": "socks4://98.170.57.231:4145",
-      "latency_ms": 901.9,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.5144305
-    },
-    {
-      "protocol": "socks4",
-      "address": "98.170.57.249:4145",
-      "proxy_url": "socks4://98.170.57.249:4145",
-      "latency_ms": 934.1,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.5329216
-    },
-    {
-      "protocol": "socks4",
-      "address": "174.77.111.197:4145",
-      "proxy_url": "socks4://174.77.111.197:4145",
-      "latency_ms": 917.8,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.5371044
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.178.172.5:15303",
-      "proxy_url": "socks4://184.178.172.5:15303",
-      "latency_ms": 920.4,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.542429
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.178.172.17:4145",
-      "proxy_url": "socks4://184.178.172.17:4145",
-      "latency_ms": 931.9,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.5433087
+      "last_verified": 1789755026.674984
     },
     {
       "protocol": "socks5",
-      "address": "98.182.147.97:4145",
-      "proxy_url": "socks5://98.182.147.97:4145",
-      "latency_ms": 958.5,
+      "address": "142.54.226.214:4145",
+      "proxy_url": "socks5://142.54.226.214:4145",
+      "latency_ms": 450.5,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.5492558
+      "last_verified": 1789755026.7560964
     },
     {
       "protocol": "socks5",
-      "address": "174.77.111.197:4145",
-      "proxy_url": "socks5://174.77.111.197:4145",
-      "latency_ms": 948.4,
+      "address": "142.54.237.34:4145",
+      "proxy_url": "socks5://142.54.237.34:4145",
+      "latency_ms": 518.7,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755026.760627
+    },
+    {
+      "protocol": "socks5",
+      "address": "72.37.216.68:4145",
+      "proxy_url": "socks5://72.37.216.68:4145",
+      "latency_ms": 498.9,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755026.7927465
+    },
+    {
+      "protocol": "socks5",
+      "address": "142.54.229.249:4145",
+      "proxy_url": "socks5://142.54.229.249:4145",
+      "latency_ms": 497.5,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.5539505
-    },
-    {
-      "protocol": "socks4",
-      "address": "24.249.199.4:4145",
-      "proxy_url": "socks4://24.249.199.4:4145",
-      "latency_ms": 917.6,
-      "score": 2,
-      "source": "speedx_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.5545933
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.13:15311",
-      "proxy_url": "socks5://184.178.172.13:15311",
-      "latency_ms": 949.1,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.5640233
-    },
-    {
-      "protocol": "socks5",
-      "address": "174.77.111.198:49547",
-      "proxy_url": "socks5://174.77.111.198:49547",
-      "latency_ms": 972.6,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.574622
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.175.31.195:4145",
-      "proxy_url": "socks5://98.175.31.195:4145",
-      "latency_ms": 948.1,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.581322
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.195.34.42:4145",
-      "proxy_url": "socks5://72.195.34.42:4145",
-      "latency_ms": 998.0,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.5986447
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.191.0.37:4145",
-      "proxy_url": "socks5://98.191.0.37:4145",
-      "latency_ms": 988.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.6011944
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.205.0.67:4145",
-      "proxy_url": "socks5://72.205.0.67:4145",
-      "latency_ms": 1011.9,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.6058245
-    },
-    {
-      "protocol": "socks5",
-      "address": "174.75.211.193:4145",
-      "proxy_url": "socks5://174.75.211.193:4145",
-      "latency_ms": 971.9,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.6068704
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.195.34.35:27360",
-      "proxy_url": "socks5://72.195.34.35:27360",
-      "latency_ms": 1006.7,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.6087847
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.28:15294",
-      "proxy_url": "socks5://184.178.172.28:15294",
-      "latency_ms": 984.4,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.6107616
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.223.188.67:4145",
-      "proxy_url": "socks5://72.223.188.67:4145",
-      "latency_ms": 983.3,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.6113005
-    },
-    {
-      "protocol": "socks5",
-      "address": "68.1.210.189:4145",
-      "proxy_url": "socks5://68.1.210.189:4145",
-      "latency_ms": 983.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.6193871
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.181.137.80:4145",
-      "proxy_url": "socks5://98.181.137.80:4145",
-      "latency_ms": 1001.6,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.619575
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.206.74.126:4145",
-      "proxy_url": "socks5://72.206.74.126:4145",
-      "latency_ms": 1002.9,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.6233141
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.207.33.64:4145",
-      "proxy_url": "socks5://72.207.33.64:4145",
-      "latency_ms": 1003.6,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.6285288
+      "last_verified": 1789755026.795909
     },
     {
       "protocol": "http",
       "address": "47.89.184.18:3128",
       "proxy_url": "http://47.89.184.18:3128",
-      "latency_ms": 801.4,
+      "latency_ms": 322.6,
       "score": 2,
       "source": "proxifly_all",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498017.6576655
-    },
-    {
-      "protocol": "http",
-      "address": "176.111.37.216:39811",
-      "proxy_url": "http://176.111.37.216:39811",
-      "latency_ms": 1050.7,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.6665432
-    },
-    {
-      "protocol": "http",
-      "address": "176.111.37.5:39811",
-      "proxy_url": "http://176.111.37.5:39811",
-      "latency_ms": 1053.8,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498017.7471955
+      "last_verified": 1789755026.796005
     },
     {
       "protocol": "socks5",
-      "address": "101.36.104.46:10808",
-      "proxy_url": "socks5://101.36.104.46:10808",
-      "latency_ms": 1338.7,
+      "address": "199.116.114.11:4145",
+      "proxy_url": "socks5://199.116.114.11:4145",
+      "latency_ms": 503.7,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498018.024286
+      "last_verified": 1789755026.7987916
     },
     {
       "protocol": "socks5",
-      "address": "101.36.104.239:10808",
-      "proxy_url": "socks5://101.36.104.239:10808",
-      "latency_ms": 1352.8,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498018.0476425
-    },
-    {
-      "protocol": "http",
-      "address": "130.110.103.245:3128",
-      "proxy_url": "http://130.110.103.245:3128",
-      "latency_ms": 1482.5,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498018.3127954
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.194.33.12:30001",
-      "proxy_url": "socks5://45.194.33.12:30001",
-      "latency_ms": 1649.0,
+      "address": "198.8.84.3:4145",
+      "proxy_url": "socks5://198.8.84.3:4145",
+      "latency_ms": 488.3,
       "score": 2,
       "source": "proxyscrape_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498018.444929
+      "last_verified": 1789755026.8000412
     },
     {
-      "protocol": "http",
-      "address": "47.91.65.23:3128",
-      "proxy_url": "http://47.91.65.23:3128",
-      "latency_ms": 1612.3,
+      "protocol": "socks5",
+      "address": "198.8.94.174:39078",
+      "proxy_url": "socks5://198.8.94.174:39078",
+      "latency_ms": 753.9,
       "score": 2,
-      "source": "proxifly_all",
+      "source": "proxyscrape_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498018.4784007
+      "last_verified": 1789755026.8947704
     },
     {
       "protocol": "socks5",
-      "address": "144.91.111.48:1088",
-      "proxy_url": "socks5://144.91.111.48:1088",
-      "latency_ms": 1704.3,
+      "address": "199.66.182.243:4145",
+      "proxy_url": "socks5://199.66.182.243:4145",
+      "latency_ms": 755.4,
       "score": 2,
       "source": "thordata_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498018.486227
-    },
-    {
-      "protocol": "socks5",
-      "address": "160.22.17.4:9988",
-      "proxy_url": "socks5://160.22.17.4:9988",
-      "latency_ms": 1918.0,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498018.722048
-    },
-    {
-      "protocol": "http",
-      "address": "47.81.56.193:8888",
-      "proxy_url": "http://47.81.56.193:8888",
-      "latency_ms": 1649.3,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498018.7276444
-    },
-    {
-      "protocol": "socks5",
-      "address": "144.24.111.128:1088",
-      "proxy_url": "socks5://144.24.111.128:1088",
-      "latency_ms": 2044.9,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498018.8684587
+      "last_verified": 1789755026.9029734
     },
     {
       "protocol": "socks4",
-      "address": "184.185.2.12:4145",
-      "proxy_url": "socks4://184.185.2.12:4145",
-      "latency_ms": 2328.4,
-      "score": 2,
-      "source": "anonym0uswork_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498018.9681716
-    },
-    {
-      "protocol": "http",
-      "address": "8.213.151.128:3128",
-      "proxy_url": "http://8.213.151.128:3128",
-      "latency_ms": 2291.1,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498019.130391
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.182.240.12:4145",
-      "proxy_url": "socks4://184.182.240.12:4145",
-      "latency_ms": 2548.1,
-      "score": 2,
-      "source": "proxyscrape_socks4",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498019.2017727
-    },
-    {
-      "protocol": "https",
-      "address": "107.167.18.122:443",
-      "proxy_url": "https://107.167.18.122:443",
-      "latency_ms": 329.8,
-      "score": 1,
-      "source": "proxyscrape_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498019.2542834
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.182.240.211:4145",
-      "proxy_url": "socks5://184.182.240.211:4145",
-      "latency_ms": 1543.4,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498019.3112965
-    },
-    {
-      "protocol": "socks5",
-      "address": "109.123.251.109:1080",
-      "proxy_url": "socks5://109.123.251.109:1080",
-      "latency_ms": 2668.9,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498019.4770176
-    },
-    {
-      "protocol": "http",
-      "address": "202.28.194.139:31280",
-      "proxy_url": "http://202.28.194.139:31280",
-      "latency_ms": 2531.9,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498019.6089468
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.61.129.165:9050",
-      "proxy_url": "socks5://45.61.129.165:9050",
-      "latency_ms": 3046.6,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498019.7189903
-    },
-    {
-      "protocol": "http",
-      "address": "8.209.255.13:3128",
-      "proxy_url": "http://8.209.255.13:3128",
-      "latency_ms": 3021.9,
-      "score": 2,
-      "source": "proxifly_all",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498019.8690891
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.14:4145",
-      "proxy_url": "socks5://184.178.172.14:4145",
-      "latency_ms": 4077.1,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498020.7057729
-    },
-    {
-      "protocol": "socks5",
-      "address": "174.64.199.79:4145",
-      "proxy_url": "socks5://174.64.199.79:4145",
-      "latency_ms": 4010.3,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498020.7354126
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.188.47.150:4145",
-      "proxy_url": "socks5://98.188.47.150:4145",
-      "latency_ms": 4066.4,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498020.7684145
-    },
-    {
-      "protocol": "socks5",
-      "address": "65.21.252.66:10811",
-      "proxy_url": "socks5://65.21.252.66:10811",
-      "latency_ms": 4279.4,
-      "score": 2,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "www.xxread.net",
-        "taosebt.com"
-      ],
-      "last_verified": 1789498021.0457046
-    },
-    {
-      "protocol": "socks4",
-      "address": "152.70.237.238:3128",
-      "proxy_url": "socks4://152.70.237.238:3128",
-      "latency_ms": 4313.9,
+      "address": "198.8.94.174:39078",
+      "proxy_url": "socks4://198.8.94.174:39078",
+      "latency_ms": 668.1,
       "score": 2,
       "source": "speedx_socks4",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498021.1746142
+      "last_verified": 1789755026.9186504
+    },
+    {
+      "protocol": "socks4",
+      "address": "192.111.138.29:4145",
+      "proxy_url": "socks4://192.111.138.29:4145",
+      "latency_ms": 700.9,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755026.9478397
     },
     {
       "protocol": "socks5",
-      "address": "103.75.118.84:1080",
-      "proxy_url": "socks5://103.75.118.84:1080",
-      "latency_ms": 3640.0,
+      "address": "192.111.139.162:4145",
+      "proxy_url": "socks5://192.111.139.162:4145",
+      "latency_ms": 765.9,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498021.4025595
+      "last_verified": 1789755026.9501476
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.252.208.70:14282",
+      "proxy_url": "socks5://192.252.208.70:14282",
+      "latency_ms": 719.9,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755026.9508002
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.129.145:16894",
+      "proxy_url": "socks5://192.111.129.145:16894",
+      "latency_ms": 753.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755026.9579802
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.138.29:4145",
+      "proxy_url": "socks5://192.111.138.29:4145",
+      "latency_ms": 737.8,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.001633
+    },
+    {
+      "protocol": "socks4",
+      "address": "174.77.111.196:4145",
+      "proxy_url": "socks4://174.77.111.196:4145",
+      "latency_ms": 855.9,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.0214474
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.137.35:4145",
+      "proxy_url": "socks5://192.111.137.35:4145",
+      "latency_ms": 779.9,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.022511
+    },
+    {
+      "protocol": "socks5",
+      "address": "74.119.147.209:4145",
+      "proxy_url": "socks5://74.119.147.209:4145",
+      "latency_ms": 719.9,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.0317397
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.178.172.18:15280",
+      "proxy_url": "socks4://184.178.172.18:15280",
+      "latency_ms": 864.9,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.041951
+    },
+    {
+      "protocol": "socks4",
+      "address": "72.205.0.67:4145",
+      "proxy_url": "socks4://72.205.0.67:4145",
+      "latency_ms": 886.3,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.0477338
+    },
+    {
+      "protocol": "socks5",
+      "address": "192.111.139.165:4145",
+      "proxy_url": "socks5://192.111.139.165:4145",
+      "latency_ms": 791.2,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.0577295
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.170.245.148:4145",
+      "proxy_url": "socks5://184.170.245.148:4145",
+      "latency_ms": 810.1,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.0623398
+    },
+    {
+      "protocol": "socks5",
+      "address": "199.229.254.129:4145",
+      "proxy_url": "socks5://199.229.254.129:4145",
+      "latency_ms": 753.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.066125
+    },
+    {
+      "protocol": "socks5",
+      "address": "198.8.94.170:4145",
+      "proxy_url": "socks5://198.8.94.170:4145",
+      "latency_ms": 782.3,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.068425
+    },
+    {
+      "protocol": "socks5",
+      "address": "74.119.144.60:4145",
+      "proxy_url": "socks5://74.119.144.60:4145",
+      "latency_ms": 806.7,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.0823967
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.178.172.14:4145",
+      "proxy_url": "socks4://184.178.172.14:4145",
+      "latency_ms": 878.8,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.0833902
+    },
+    {
+      "protocol": "socks4",
+      "address": "24.249.199.4:4145",
+      "proxy_url": "socks4://24.249.199.4:4145",
+      "latency_ms": 930.2,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.0915453
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.170.249.65:4145",
+      "proxy_url": "socks5://184.170.249.65:4145",
+      "latency_ms": 842.7,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.092584
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.181.217.206:4145",
+      "proxy_url": "socks4://184.181.217.206:4145",
+      "latency_ms": 906.0,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.0937274
+    },
+    {
+      "protocol": "socks5",
+      "address": "24.249.199.4:4145",
+      "proxy_url": "socks5://24.249.199.4:4145",
+      "latency_ms": 947.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1265388
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.181.217.201:4145",
+      "proxy_url": "socks5://184.181.217.201:4145",
+      "latency_ms": 959.8,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1405146
+    },
+    {
+      "protocol": "socks5",
+      "address": "72.195.34.35:27360",
+      "proxy_url": "socks5://72.195.34.35:27360",
+      "latency_ms": 980.0,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1497846
+    },
+    {
+      "protocol": "socks5",
+      "address": "70.166.167.55:57745",
+      "proxy_url": "socks5://70.166.167.55:57745",
+      "latency_ms": 979.4,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1501052
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.181.178.33:4145",
+      "proxy_url": "socks5://184.181.178.33:4145",
+      "latency_ms": 962.7,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.155405
+    },
+    {
+      "protocol": "socks5",
+      "address": "72.207.113.97:4145",
+      "proxy_url": "socks5://72.207.113.97:4145",
+      "latency_ms": 976.3,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1603837
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.190.239.3:4145",
+      "proxy_url": "socks5://98.190.239.3:4145",
+      "latency_ms": 966.8,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1680915
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.181.217.210:4145",
+      "proxy_url": "socks5://184.181.217.210:4145",
+      "latency_ms": 972.7,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1747682
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.170.57.241:4145",
+      "proxy_url": "socks5://98.170.57.241:4145",
+      "latency_ms": 965.9,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1773682
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.188.47.150:4145",
+      "proxy_url": "socks5://98.188.47.150:4145",
+      "latency_ms": 980.4,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1806026
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.170.57.249:4145",
+      "proxy_url": "socks5://98.170.57.249:4145",
+      "latency_ms": 974.9,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1811047
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.178.172.11:4145",
+      "proxy_url": "socks5://184.178.172.11:4145",
+      "latency_ms": 1004.4,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.1844313
+    },
+    {
+      "protocol": "socks4",
+      "address": "199.66.183.226:4145",
+      "proxy_url": "socks4://199.66.183.226:4145",
+      "latency_ms": 1046.6,
+      "score": 2,
+      "source": "anonym0uswork_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.231408
+    },
+    {
+      "protocol": "socks5",
+      "address": "67.207.92.87:1088",
+      "proxy_url": "socks5://67.207.92.87:1088",
+      "latency_ms": 998.2,
+      "score": 2,
+      "source": "vpslab_socks5_all",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.265607
     },
     {
       "protocol": "http",
-      "address": "37.59.125.131:8888",
-      "proxy_url": "http://37.59.125.131:8888",
-      "latency_ms": 4810.9,
+      "address": "8.209.255.13:3128",
+      "proxy_url": "http://8.209.255.13:3128",
+      "latency_ms": 1047.2,
       "score": 2,
       "source": "proxifly_all",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498021.6104743
+      "last_verified": 1789755027.326107
+    },
+    {
+      "protocol": "socks4",
+      "address": "98.175.31.222:4145",
+      "proxy_url": "socks4://98.175.31.222:4145",
+      "latency_ms": 1190.7,
+      "score": 2,
+      "source": "anonym0uswork_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.3659077
     },
     {
       "protocol": "http",
-      "address": "34.134.231.117:3129",
-      "proxy_url": "http://34.134.231.117:3129",
-      "latency_ms": 5294.3,
+      "address": "176.111.37.5:39811",
+      "proxy_url": "http://176.111.37.5:39811",
+      "latency_ms": 1169.1,
       "score": 2,
       "source": "proxifly_all",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498021.8400226
+      "last_verified": 1789755027.4349258
+    },
+    {
+      "protocol": "http",
+      "address": "176.111.37.216:39811",
+      "proxy_url": "http://176.111.37.216:39811",
+      "latency_ms": 1078.2,
+      "score": 2,
+      "source": "proxifly_all",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.452406
+    },
+    {
+      "protocol": "socks5",
+      "address": "199.66.183.251:4145",
+      "proxy_url": "socks5://199.66.183.251:4145",
+      "latency_ms": 1127.9,
+      "score": 2,
+      "source": "r00tee_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.4551604
+    },
+    {
+      "protocol": "http",
+      "address": "8.213.151.128:3128",
+      "proxy_url": "http://8.213.151.128:3128",
+      "latency_ms": 1195.7,
+      "score": 2,
+      "source": "proxifly_all",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.5777216
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.185.2.12:4145",
+      "proxy_url": "socks5://184.185.2.12:4145",
+      "latency_ms": 1760.6,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755027.982978
+    },
+    {
+      "protocol": "socks4",
+      "address": "199.66.183.251:4145",
+      "proxy_url": "socks4://199.66.183.251:4145",
+      "latency_ms": 1713.2,
+      "score": 2,
+      "source": "anonym0uswork_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755028.0232134
+    },
+    {
+      "protocol": "socks4",
+      "address": "72.214.108.67:4145",
+      "proxy_url": "socks4://72.214.108.67:4145",
+      "latency_ms": 1869.3,
+      "score": 2,
+      "source": "anonym0uswork_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755028.0430663
+    },
+    {
+      "protocol": "socks4",
+      "address": "98.181.137.80:4145",
+      "proxy_url": "socks4://98.181.137.80:4145",
+      "latency_ms": 1876.9,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755028.05112
+    },
+    {
+      "protocol": "http",
+      "address": "130.110.103.245:3128",
+      "proxy_url": "http://130.110.103.245:3128",
+      "latency_ms": 1825.2,
+      "score": 2,
+      "source": "proxifly_all",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755028.0962496
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.194.33.12:30001",
+      "proxy_url": "socks5://45.194.33.12:30001",
+      "latency_ms": 1691.5,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755028.1555712
+    },
+    {
+      "protocol": "http",
+      "address": "43.109.48.180:9999",
+      "proxy_url": "http://43.109.48.180:9999",
+      "latency_ms": 1796.5,
+      "score": 2,
+      "source": "proxypool_scrape_cn",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755028.3242445
+    },
+    {
+      "protocol": "socks5",
+      "address": "101.36.104.239:10808",
+      "proxy_url": "socks5://101.36.104.239:10808",
+      "latency_ms": 2005.8,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755028.3536468
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.182.240.211:4145",
+      "proxy_url": "socks4://184.182.240.211:4145",
+      "latency_ms": 2390.7,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755028.6237328
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.185.2.12:4145",
+      "proxy_url": "socks4://184.185.2.12:4145",
+      "latency_ms": 2467.0,
+      "score": 2,
+      "source": "anonym0uswork_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755028.794183
+    },
+    {
+      "protocol": "http",
+      "address": "15.235.21.254:8080",
+      "proxy_url": "http://15.235.21.254:8080",
+      "latency_ms": 1596.0,
+      "score": 2,
+      "source": "speedx_http",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755028.8038485
+    },
+    {
+      "protocol": "socks5",
+      "address": "101.36.104.46:10808",
+      "proxy_url": "socks5://101.36.104.46:10808",
+      "latency_ms": 2869.0,
+      "score": 2,
+      "source": "thordata_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755029.2084413
+    },
+    {
+      "protocol": "socks5",
+      "address": "184.182.240.211:4145",
+      "proxy_url": "socks5://184.182.240.211:4145",
+      "latency_ms": 3037.7,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755029.268202
+    },
+    {
+      "protocol": "socks5",
+      "address": "109.123.251.109:1080",
+      "proxy_url": "socks5://109.123.251.109:1080",
+      "latency_ms": 3042.8,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755029.4089627
+    },
+    {
+      "protocol": "socks5",
+      "address": "174.77.111.197:4145",
+      "proxy_url": "socks5://174.77.111.197:4145",
+      "latency_ms": 3467.7,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755029.6482563
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.182.240.12:4145",
+      "proxy_url": "socks4://184.182.240.12:4145",
+      "latency_ms": 2398.8,
+      "score": 2,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755029.7026496
+    },
+    {
+      "protocol": "socks5",
+      "address": "144.91.111.48:1088",
+      "proxy_url": "socks5://144.91.111.48:1088",
+      "latency_ms": 3534.4,
+      "score": 2,
+      "source": "thordata_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755029.8573835
+    },
+    {
+      "protocol": "socks4",
+      "address": "72.223.188.92:4145",
+      "proxy_url": "socks4://72.223.188.92:4145",
+      "latency_ms": 3932.0,
+      "score": 2,
+      "source": "anonym0uswork_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755030.1585271
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.175.31.195:4145",
+      "proxy_url": "socks5://98.175.31.195:4145",
+      "latency_ms": 4010.1,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755030.2154915
+    },
+    {
+      "protocol": "http",
+      "address": "47.91.65.23:3128",
+      "proxy_url": "http://47.91.65.23:3128",
+      "latency_ms": 3766.3,
+      "score": 2,
+      "source": "proxifly_all",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755030.2740576
+    },
+    {
+      "protocol": "socks5",
+      "address": "109.172.55.227:1082",
+      "proxy_url": "socks5://109.172.55.227:1082",
+      "latency_ms": 4046.4,
+      "score": 2,
+      "source": "proxyscrape_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755030.3115814
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.181.217.213:4145",
+      "proxy_url": "socks4://184.181.217.213:4145",
+      "latency_ms": 4231.7,
+      "score": 2,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755030.4577801
+    },
+    {
+      "protocol": "socks5",
+      "address": "141.148.158.143:1080",
+      "proxy_url": "socks5://141.148.158.143:1080",
+      "latency_ms": 4560.6,
+      "score": 2,
+      "source": "r00tee_socks5",
+      "valid_targets": [
+        "www.xxread.net",
+        "taosebt.com"
+      ],
+      "last_verified": 1789755030.7035103
     },
     {
       "protocol": "socks4",
       "address": "47.237.113.119:1720",
       "proxy_url": "socks4://47.237.113.119:1720",
-      "latency_ms": 5292.4,
+      "latency_ms": 4621.2,
       "score": 2,
       "source": "gfpcom_socks4",
       "valid_targets": [
         "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498022.295275
+      "last_verified": 1789755030.9447944
     },
     {
-      "protocol": "https",
-      "address": "138.199.35.200:9002",
-      "proxy_url": "https://138.199.35.200:9002",
-      "latency_ms": 348.5,
-      "score": 1,
-      "source": "zloi_https",
+      "protocol": "socks4",
+      "address": "8.212.168.170:35561",
+      "proxy_url": "socks4://8.212.168.170:35561",
+      "latency_ms": 4945.9,
+      "score": 2,
+      "source": "gfpcom_socks4",
       "valid_targets": [
+        "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498063.5140717
+      "last_verified": 1789755031.312981
     },
     {
-      "protocol": "https",
-      "address": "138.199.35.215:9002",
-      "proxy_url": "https://138.199.35.215:9002",
-      "latency_ms": 376.3,
-      "score": 1,
-      "source": "zloi_https",
+      "protocol": "socks5",
+      "address": "199.66.183.226:4145",
+      "proxy_url": "socks5://199.66.183.226:4145",
+      "latency_ms": 5297.7,
+      "score": 2,
+      "source": "proxyscrape_socks5",
       "valid_targets": [
+        "www.xxread.net",
         "taosebt.com"
       ],
-      "last_verified": 1789498063.5224724
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.207:9002",
-      "proxy_url": "https://138.199.35.207:9002",
-      "latency_ms": 355.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.5491612
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.202:9002",
-      "proxy_url": "https://138.199.35.202:9002",
-      "latency_ms": 354.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.5492532
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.208:9002",
-      "proxy_url": "https://138.199.35.208:9002",
-      "latency_ms": 370.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.5495777
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.212:9002",
-      "proxy_url": "https://138.199.35.212:9002",
-      "latency_ms": 356.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.578377
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.214:9002",
-      "proxy_url": "https://138.199.35.214:9002",
-      "latency_ms": 376.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.5864651
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.195:9002",
-      "proxy_url": "https://138.199.35.195:9002",
-      "latency_ms": 378.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.5876453
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.219:9002",
-      "proxy_url": "https://138.199.35.219:9002",
-      "latency_ms": 379.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.5886638
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.198:9002",
-      "proxy_url": "https://138.199.35.198:9002",
-      "latency_ms": 363.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.590257
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.204:9002",
-      "proxy_url": "https://138.199.35.204:9002",
-      "latency_ms": 383.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.592395
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.205:9002",
-      "proxy_url": "https://138.199.35.205:9002",
-      "latency_ms": 375.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.6001406
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.199:9002",
-      "proxy_url": "https://138.199.35.199:9002",
-      "latency_ms": 363.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.6132834
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.206:9002",
-      "proxy_url": "https://138.199.35.206:9002",
-      "latency_ms": 366.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.6162565
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.220:9002",
-      "proxy_url": "https://138.199.35.220:9002",
-      "latency_ms": 361.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.6313984
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.216:9002",
-      "proxy_url": "https://138.199.35.216:9002",
-      "latency_ms": 380.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.6325128
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.218:9002",
-      "proxy_url": "https://138.199.35.218:9002",
-      "latency_ms": 384.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.633815
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.209:9002",
-      "proxy_url": "https://138.199.35.209:9002",
-      "latency_ms": 381.5,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.648317
+      "last_verified": 1789755031.5651546
     },
     {
       "protocol": "https",
       "address": "138.199.35.213:9002",
       "proxy_url": "https://138.199.35.213:9002",
-      "latency_ms": 346.6,
+      "latency_ms": 357.0,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498063.653378
+      "last_verified": 1789755074.5299523
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.199:9002",
+      "proxy_url": "https://138.199.35.199:9002",
+      "latency_ms": 355.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.5521197
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.198:9002",
+      "proxy_url": "https://138.199.35.198:9002",
+      "latency_ms": 335.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.5575676
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.212:9002",
+      "proxy_url": "https://138.199.35.212:9002",
+      "latency_ms": 372.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.5608344
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.218:9002",
+      "proxy_url": "https://138.199.35.218:9002",
+      "latency_ms": 340.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.5698285
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.207:9002",
+      "proxy_url": "https://138.199.35.207:9002",
+      "latency_ms": 363.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.5932555
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.216:9002",
+      "proxy_url": "https://138.199.35.216:9002",
+      "latency_ms": 369.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.6159022
     },
     {
       "protocol": "https",
       "address": "138.199.35.197:9002",
       "proxy_url": "https://138.199.35.197:9002",
-      "latency_ms": 352.8,
+      "latency_ms": 365.7,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498063.6599581
+      "last_verified": 1789755074.6244755
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.195:9002",
+      "proxy_url": "https://138.199.35.195:9002",
+      "latency_ms": 348.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.631015
     },
     {
       "protocol": "https",
       "address": "138.199.35.203:9002",
       "proxy_url": "https://138.199.35.203:9002",
-      "latency_ms": 325.3,
+      "latency_ms": 376.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498063.6659365
+      "last_verified": 1789755074.6330621
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.219:9002",
+      "proxy_url": "https://138.199.35.219:9002",
+      "latency_ms": 376.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.6382852
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.214:9002",
+      "proxy_url": "https://138.199.35.214:9002",
+      "latency_ms": 356.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.6500185
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.204:9002",
+      "proxy_url": "https://138.199.35.204:9002",
+      "latency_ms": 352.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.6534185
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.208:9002",
+      "proxy_url": "https://138.199.35.208:9002",
+      "latency_ms": 355.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.6593235
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.209:9002",
+      "proxy_url": "https://138.199.35.209:9002",
+      "latency_ms": 368.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.6692073
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.202:9002",
+      "proxy_url": "https://138.199.35.202:9002",
+      "latency_ms": 374.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.686186
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.200:9002",
+      "proxy_url": "https://138.199.35.200:9002",
+      "latency_ms": 368.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.7076836
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.215:9002",
+      "proxy_url": "https://138.199.35.215:9002",
+      "latency_ms": 368.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755074.7078512
     },
     {
       "protocol": "https",
       "address": "138.199.35.217:9002",
       "proxy_url": "https://138.199.35.217:9002",
-      "latency_ms": 340.3,
+      "latency_ms": 353.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498063.67552
+      "last_verified": 1789755074.7084107
     },
     {
       "protocol": "https",
-      "address": "138.199.35.201:9002",
-      "proxy_url": "https://138.199.35.201:9002",
-      "latency_ms": 368.9,
+      "address": "138.199.35.206:9002",
+      "proxy_url": "https://138.199.35.206:9002",
+      "latency_ms": 340.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498063.6774113
+      "last_verified": 1789755074.7173362
     },
     {
       "protocol": "https",
-      "address": "107.152.33.202:8888",
-      "proxy_url": "https://107.152.33.202:8888",
-      "latency_ms": 417.0,
+      "address": "138.199.35.220:9002",
+      "proxy_url": "https://138.199.35.220:9002",
+      "latency_ms": 346.7,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498063.6930966
-    },
-    {
-      "protocol": "https",
-      "address": "138.199.35.211:9002",
-      "proxy_url": "https://138.199.35.211:9002",
-      "latency_ms": 358.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 1789498063.6999116
+      "last_verified": 1789755074.718915
     },
     {
       "protocol": "https",
       "address": "108.181.18.175:4001",
       "proxy_url": "https://108.181.18.175:4001",
-      "latency_ms": 367.9,
+      "latency_ms": 360.9,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498063.7655342
+      "last_verified": 1789755074.8092718
     },
     {
       "protocol": "https",
-      "address": "181.215.52.122:9443",
-      "proxy_url": "https://181.215.52.122:9443",
-      "latency_ms": 431.9,
+      "address": "138.199.35.211:9002",
+      "proxy_url": "https://138.199.35.211:9002",
+      "latency_ms": 397.3,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498063.7857804
+      "last_verified": 1789755074.8454137
     },
     {
       "protocol": "https",
-      "address": "3.92.137.124:443",
-      "proxy_url": "https://3.92.137.124:443",
-      "latency_ms": 268.3,
+      "address": "138.199.35.205:9002",
+      "proxy_url": "https://138.199.35.205:9002",
+      "latency_ms": 720.9,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498064.085049
+      "last_verified": 1789755075.003514
+    },
+    {
+      "protocol": "https",
+      "address": "138.199.35.201:9002",
+      "proxy_url": "https://138.199.35.201:9002",
+      "latency_ms": 730.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.0111175
     },
     {
       "protocol": "https",
       "address": "138.197.69.103:443",
       "proxy_url": "https://138.197.69.103:443",
-      "latency_ms": 321.8,
+      "latency_ms": 435.1,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498064.1240864
+      "last_verified": 1789755075.1698785
     },
     {
       "protocol": "https",
-      "address": "84.17.47.149:9002",
-      "proxy_url": "https://84.17.47.149:9002",
-      "latency_ms": 945.3,
+      "address": "84.17.47.147:9002",
+      "proxy_url": "https://84.17.47.147:9002",
+      "latency_ms": 1041.3,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498064.1241844
+      "last_verified": 1789755075.199466
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.124:9002",
+      "proxy_url": "https://84.17.47.124:9002",
+      "latency_ms": 1056.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.21952
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.148:9002",
+      "proxy_url": "https://84.17.47.148:9002",
+      "latency_ms": 1059.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.2303176
     },
     {
       "protocol": "https",
       "address": "84.17.47.125:9002",
       "proxy_url": "https://84.17.47.125:9002",
-      "latency_ms": 962.3,
+      "latency_ms": 1049.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1789498064.133109
+      "last_verified": 1789755075.2445867
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.149:9002",
+      "proxy_url": "https://84.17.47.149:9002",
+      "latency_ms": 1048.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.2508495
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.150:9002",
+      "proxy_url": "https://84.17.47.150:9002",
+      "latency_ms": 1019.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.2574196
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.126:9002",
+      "proxy_url": "https://84.17.47.126:9002",
+      "latency_ms": 1011.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.2615123
     },
     {
       "protocol": "https",
       "address": "45.79.220.116:443",
+      "proxy_url": "https://45.79.220.116:443",
+      "latency_ms": 358.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.2722795
+    },
+    {
+      "protocol": "https",
+      "address": "107.152.33.202:8888",
+      "proxy_url": "https://107.152.33.202:8888",
+      "latency_ms": 954.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.2909694
+    },
+    {
+      "protocol": "https",
+      "address": "3.92.137.124:443",
+      "proxy_url": "https://3.92.137.124:443",
+      "latency_ms": 365.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.291739
+    },
+    {
+      "protocol": "https",
+      "address": "84.17.47.146:9002",
+      "proxy_url": "https://84.17.47.146:9002",
+      "latency_ms": 1050.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.3131936
+    },
+    {
+      "protocol": "https",
+      "address": "129.97.50.72:443",
+      "proxy_url": "https://129.97.50.72:443",
+      "latency_ms": 479.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.3532834
+    },
+    {
+      "protocol": "https",
+      "address": "192.154.227.9:3001",
+      "proxy_url": "https://192.154.227.9:3001",
+      "latency_ms": 372.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789755075.3983283
+    },
+    {
+      "protocol": "https",
+      "address": "66.70.143.16:443",
+      "proxy_url": "https://66.70.143.16:443",
+      "latency_ms": 445.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_target9.220.116:443",
       "proxy_url": "https://45.79.220.116:443",
       "latency_ms": 383.4,
       "score": 1,
@@ -12097,6 +12095,49 @@
   ]
 }   ],
       "last_verified": 1789586044.4268544
+    }
+  ]
+}",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789758078.2605135
+    },
+    {
+      "protocol": "socks4",
+      "address": "54.238.38.227:8080",
+      "proxy_url": "socks4://54.238.38.227:8080",
+      "latency_ms": 653.4,
+      "score": 1,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789758078.2712536
+    },
+    {
+      "protocol": "socks4",
+      "address": "111.119.162.248:10925",
+      "proxy_url": "socks4://111.119.162.248:10925",
+      "latency_ms": 5350.7,
+      "score": 1,
+      "source": "proxyscrape_socks4",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789758079.5076332
+    },
+    {
+      "protocol": "socks4",
+      "address": "149.129.255.179:51",
+      "proxy_url": "socks4://149.129.255.179:51",
+      "latency_ms": 4673.5,
+      "score": 1,
+      "source": "speedx_socks4",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1789758080.075441
     }
   ]
 }
