@@ -12050,4 +12050,43 @@
       "last_verified": 1790021278.1350863
     }
   ]
+} "last_verified": 1790189833.7040546
+    },
+    {
+      "protocol": "socks5",
+      "address": "185.87.255.54:1080",
+      "proxy_url": "socks5://185.87.255.54:1080",
+      "latency_ms": 610.8,
+      "score": 1,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "u3c3.com"
+      ],
+      "last_verified": 1790189833.8223946
+    },
+    {
+      "protocol": "socks5",
+      "address": "213.32.70.99:3128",
+      "proxy_url": "socks5://213.32.70.99:3128",
+      "latency_ms": 696.4,
+      "score": 1,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "u3c3.com"
+      ],
+      "last_verified": 1790189834.0982184
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.74.31.42:6328",
+      "proxy_url": "socks5://45.74.31.42:6328",
+      "latency_ms": 3283.5,
+      "score": 1,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "u3c3.com"
+      ],
+      "last_verified": 1790189834.1282187
+    }
+  ]
 }
