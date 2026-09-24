@@ -12089,4 +12089,22 @@
       "last_verified": 1790189834.1282187
     }
   ]
+}gets": [
+        "u3c3.com"
+      ],
+      "last_verified": 1790276132.5463524
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.74.31.25:8388",
+      "proxy_url": "socks5://45.74.31.25:8388",
+      "latency_ms": 5131.4,
+      "score": 1,
+      "source": "proxyscraper_socks5",
+      "valid_targets": [
+        "u3c3.com"
+      ],
+      "last_verified": 1790276132.86147
+    }
+  ]
 }
