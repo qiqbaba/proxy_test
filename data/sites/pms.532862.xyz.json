@@ -5915,118 +5915,120 @@
       "latency_ms": 897.7,
       "score": 1,
       "source": "proxyscrape_socks5",
+      "valid_targets": [85.144:443",
+      "proxy_url": "https://79.137.85.144:443",
+      "latency_ms": 4467.4,
+      "score": 1,
+      "source": "zloi_https",
       "valid_targets": [
         "pms.532862.xyz"
       ],
-      "last_verified": 1789927702.8141987
+      "last_verified": 1790711655.3861275
     },
     {
-      "protocol": "socks5",
-      "address": "45.74.31.30:30662",
-      "proxy_url": "socks5://45.74.31.30:30662",
-      "latency_ms": 2965.1,
+      "protocol": "https",
+      "address": "46.41.19.67:443",
+      "proxy_url": "https://46.41.19.67:443",
+      "latency_ms": 2026.5,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "zloi_https",
       "valid_targets": [
         "pms.532862.xyz"
       ],
-      "last_verified": 1789927702.9582632
+      "last_verified": 1790711655.386754
     },
     {
-      "protocol": "socks5",
-      "address": "213.111.146.36:18080",
-      "proxy_url": "socks5://213.111.146.36:18080",
-      "latency_ms": 4629.0,
+      "protocol": "https",
+      "address": "193.226.205.54:443",
+      "proxy_url": "https://193.226.205.54:443",
+      "latency_ms": 1670.4,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "zloi_https",
       "valid_targets": [
         "pms.532862.xyz"
       ],
-      "last_verified": 1789927703.157252
+      "last_verified": 1790711655.3908162
     },
     {
-      "protocol": "socks5",
-      "address": "45.74.31.30:35718",
-      "proxy_url": "socks5://45.74.31.30:35718",
-      "latency_ms": 3033.9,
+      "protocol": "https",
+      "address": "178.115.238.253:443",
+      "proxy_url": "https://178.115.238.253:443",
+      "latency_ms": 1858.8,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "zloi_https",
       "valid_targets": [
         "pms.532862.xyz"
       ],
-      "last_verified": 1789927703.2537823
+      "last_verified": 1790711655.3912024
     },
     {
-      "protocol": "socks5",
-      "address": "45.74.31.30:7125",
-      "proxy_url": "socks5://45.74.31.30:7125",
-      "latency_ms": 3306.2,
+      "protocol": "https",
+      "address": "149.88.99.210:9443",
+      "proxy_url": "https://149.88.99.210:9443",
+      "latency_ms": 3436.7,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "zloi_https",
       "valid_targets": [
         "pms.532862.xyz"
       ],
-      "last_verified": 1789927703.4051821
+      "last_verified": 1790711655.3916416
     },
     {
-      "protocol": "socks5",
-      "address": "45.74.31.23:16543",
-      "proxy_url": "socks5://45.74.31.23:16543",
-      "latency_ms": 4723.8,
+      "protocol": "https",
+      "address": "141.105.83.68:443",
+      "proxy_url": "https://141.105.83.68:443",
+      "latency_ms": 4652.6,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "zloi_https",
       "valid_targets": [
         "pms.532862.xyz"
       ],
-      "last_verified": 1789927703.5781455
+      "last_verified": 1790711655.403518
     },
     {
-      "protocol": "socks5",
-      "address": "45.74.31.25:7580",
-      "proxy_url": "socks5://45.74.31.25:7580",
-      "latency_ms": 2451.9,
+      "protocol": "https",
+      "address": "54.190.176.228:8443",
+      "proxy_url": "https://54.190.176.228:8443",
+      "latency_ms": 2241.0,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "zloi_https",
       "valid_targets": [
         "pms.532862.xyz"
       ],
-      "last_verified": 1789927703.6203744
+      "last_verified": 1790711655.4121604
     },
     {
-      "protocol": "socks5",
-      "address": "45.74.31.40:12479",
-      "proxy_url": "socks5://45.74.31.40:12479",
-      "latency_ms": 4193.1,
+      "protocol": "https",
+      "address": "34.249.214.108:443",
+      "proxy_url": "https://34.249.214.108:443",
+      "latency_ms": 3279.8,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "zloi_https",
       "valid_targets": [
         "pms.532862.xyz"
       ],
-      "last_verified": 1789927703.7722704
+      "last_verified": 1790711655.414849
     },
     {
-      "protocol": "socks5",
-      "address": "45.74.31.42:7140",
-      "proxy_url": "socks5://45.74.31.42:7140",
-      "latency_ms": 2866.3,
+      "protocol": "https",
+      "address": "15.206.173.208:443",
+      "proxy_url": "https://15.206.173.208:443",
+      "latency_ms": 2249.9,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "zloi_https",
       "valid_targets": [
         "pms.532862.xyz"
       ],
-      "last_verified": 1789927703.8239994
+      "last_verified": 1790711655.4207451
     },
     {
-      "protocol": "socks5",
-      "address": "45.74.31.42:8182",
-      "proxy_url": "socks5://45.74.31.42:8182",
-      "latency_ms": 3984.6,
+      "protocol": "https",
+      "address": "14.225.19.28:8443",
+      "proxy_url": "https://14.225.19.28:8443",
+      "latency_ms": 3191.9,
       "score": 1,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
-        "pms.532862.xyz"
-      ],
-      "last_verified": 1789927704.0245628
+      "source": "zloi_https",
+      "valid45628
     },
     {
       "protocol": "socks5",

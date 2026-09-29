@@ -12081,4 +12081,35 @@
       "last_verified": 1790537442.425555
     }
   ]
+},
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 1790712544.719106
+    },
+    {
+      "protocol": "socks5",
+      "address": "16.174.124.173:19085",
+      "proxy_url": "socks5://16.174.124.173:19085",
+      "latency_ms": 315.9,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 1790712544.7193105
+    },
+    {
+      "protocol": "socks5",
+      "address": "16.174.124.173:4499",
+      "proxy_url": "socks5://16.174.124.173:4499",
+      "latency_ms": 255.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 1790712544.729389
+    }
+  ]
 }

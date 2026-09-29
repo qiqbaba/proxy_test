@@ -12108,3 +12108,15 @@
     }
   ]
 }
+      "address": "188.215.44.164:1080",
+      "proxy_url": "socks5://188.215.44.164:1080",
+      "latency_ms": 836.1,
+      "score": 1,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "u3c3.com"
+      ],
+      "last_verified": 1790711678.4523318
+    }
+  ]
+}
