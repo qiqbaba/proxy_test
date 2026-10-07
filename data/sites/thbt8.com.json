@@ -2013,108 +2013,108 @@
         "thbt8.com"
       ],
       "last_verified": 1791052598.4908931
+    93
     },
     {
       "protocol": "https",
-      "address": "193.176.84.29:9002",
-      "proxy_url": "https://193.176.84.29:9002",
-      "latency_ms": 1470.8,
+      "address": "77.81.71.62:443",
+      "proxy_url": "https://77.81.71.62:443",
+      "latency_ms": 2570.0,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791052598.5045185
+      "last_verified": 1791405110.0184371
     },
     {
       "protocol": "https",
-      "address": "193.176.84.36:9002",
-      "proxy_url": "https://193.176.84.36:9002",
-      "latency_ms": 1397.7,
+      "address": "133.242.152.27:443",
+      "proxy_url": "https://133.242.152.27:443",
+      "latency_ms": 3050.7,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791052598.5105777
+      "last_verified": 1791405110.0570745
     },
     {
       "protocol": "https",
-      "address": "20.42.108.114:443",
-      "proxy_url": "https://20.42.108.114:443",
-      "latency_ms": 512.0,
+      "address": "83.206.1.225:8090",
+      "proxy_url": "https://83.206.1.225:8090",
+      "latency_ms": 2096.7,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791052598.510886
+      "last_verified": 1791405110.1147192
     },
     {
       "protocol": "https",
-      "address": "149.210.158.107:5001",
-      "proxy_url": "https://149.210.158.107:5001",
-      "latency_ms": 1115.4,
+      "address": "79.133.217.236:443",
+      "proxy_url": "https://79.133.217.236:443",
+      "latency_ms": 2931.9,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791052598.5115771
+      "last_verified": 1791405110.1878188
     },
     {
       "protocol": "https",
-      "address": "40.71.58.75:443",
-      "proxy_url": "https://40.71.58.75:443",
-      "latency_ms": 484.2,
+      "address": "206.253.147.105:8090",
+      "proxy_url": "https://206.253.147.105:8090",
+      "latency_ms": 1928.3,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791052598.5173607
+      "last_verified": 1791405110.291104
     },
     {
       "protocol": "https",
-      "address": "172.183.221.168:443",
-      "proxy_url": "https://172.183.221.168:443",
-      "latency_ms": 284.6,
+      "address": "54.144.96.169:443",
+      "proxy_url": "https://54.144.96.169:443",
+      "latency_ms": 1705.5,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791052598.5278776
+      "last_verified": 1791405110.2980576
     },
     {
       "protocol": "https",
-      "address": "66.153.187.90:8090",
-      "proxy_url": "https://66.153.187.90:8090",
-      "latency_ms": 551.3,
+      "address": "132.145.152.188:443",
+      "proxy_url": "https://132.145.152.188:443",
+      "latency_ms": 2079.3,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791052598.5357983
+      "last_verified": 1791405110.3038485
     },
     {
       "protocol": "https",
-      "address": "209.148.53.153:8090",
-      "proxy_url": "https://209.148.53.153:8090",
-      "latency_ms": 623.3,
+      "address": "157.245.96.148:443",
+      "proxy_url": "https://157.245.96.148:443",
+      "latency_ms": 2955.7,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791052598.542809
+      "last_verified": 1791405110.316964
     },
     {
       "protocol": "https",
-      "address": "24.225.10.211:443",
-      "proxy_url": "https://24.225.10.211:443",
-      "latency_ms": 551.2,
+      "address": "50.184.176.222:8090",
+      "proxy_url": "https://50.184.176.222:80latency_ms": 551.2,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
