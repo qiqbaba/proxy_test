@@ -3160,30 +3160,30 @@
     {
       "protocol": "https",
       "address": "77.221.136.60:8443",
-      "proxy_url": "https://77.221.136.60:8443",
-      "latency_ms": 1091.3,
+      "proxy_u9.212.181.253:8443",
+      "proxy_url": "https://129.212.181.253:8443",
+      "latency_ms": 299.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "u3c3.com"
       ],
-      "last_verified": 1790020564.10606
+      "last_verified": 1791491737.157182
     },
     {
       "protocol": "https",
-      "address": "65.108.208.20:443",
-      "proxy_url": "https://65.108.208.20:443",
-      "latency_ms": 998.6,
+      "address": "51.15.135.81:443",
+      "proxy_url": "https://51.15.135.81:443",
+      "latency_ms": 825.4,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "u3c3.com"
       ],
-      "last_verified": 1790020564.1062286
+      "last_verified": 1791491737.1577642
     },
     {
-      "protocol": "https",
-      "address": "3.109.65.43:443",
+      "protocol": "h3:443",
       "proxy_url": "https://3.109.65.43:443",
       "latency_ms": 1550.3,
       "score": 1,

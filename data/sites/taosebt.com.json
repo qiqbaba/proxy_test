@@ -582,11 +582,12 @@
       "proxy_url": "https://107.167.18.122:443",
       "latency_ms": 337.7,
       "score": 1,
-      "source": "proxyscrape_https",
+      "source": "proxyscrape_4",
       "valid_targets": [
-        "taosebt.com"
+        "taosebt.com",
+        "www.xxread.net"
       ],
-      "last_verified": 1791405069.2215242
+     405069.2215242
     },
     {
       "protocol": "socks4",
@@ -9293,78 +9294,77 @@
     {
       "protocol": "https",
       "address": "15.236.218.18:443",
-      "proxy_url": "https://15.236.218.18:443",
-      "latency_ms": 4552.2,
+      "proxy_url": "52",
+      "proxy_url": "socks5://45.74.31.42:16652",
+      "latency_ms": 4335.4,
       "score": 1,
-      "source": "zloi_https",
+      "source": "proxyscrape_socks5",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1791317196.864464
+      "last_verified": 1791491759.8722715
     },
     {
-      "protocol": "https",
-      "address": "47.243.181.85:42528",
-      "proxy_url": "https://47.243.181.85:42528",
-      "latency_ms": 2615.5,
+      "protocol": "socks5",
+      "address": "45.74.31.41:7082",
+      "proxy_url": "socks5://45.74.31.41:7082",
+      "latency_ms": 1021.8,
       "score": 1,
-      "source": "zloi_https",
+      "source": "speedx_socks5",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1791317196.9425523
+      "last_verified": 1791491760.0306299
     },
     {
-      "protocol": "https",
-      "address": "13.39.233.142:443",
-      "proxy_url": "https://13.39.233.142:443",
-      "latency_ms": 3812.0,
+      "protocol": "socks5",
+      "address": "45.74.31.41:10943",
+      "proxy_url": "socks5://45.74.31.41:10943",
+      "latency_ms": 4596.6,
       "score": 1,
-      "source": "zloi_https",
+      "source": "proxyscrape_socks5",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1791317197.0116994
+      "last_verified": 1791491760.317618
     },
     {
-      "protocol": "https",
-      "address": "122.165.229.173:443",
-      "proxy_url": "https://122.165.229.173:443",
-      "latency_ms": 4927.1,
+      "protocol": "socks5",
+      "address": "195.9.192.50:1080",
+      "proxy_url": "socks5://195.9.192.50:1080",
+      "latency_ms": 2479.1,
       "score": 1,
-      "source": "zloi_https",
+      "source": "speedx_socks5",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1791317197.1065433
+      "last_verified": 1791491760.3394837
     },
     {
-      "protocol": "https",
-      "address": "3.77.53.69:443",
-      "proxy_url": "https://3.77.53.69:443",
-      "latency_ms": 2024.3,
+      "protocol": "socks5",
+      "address": "164.215.66.136:1080",
+      "proxy_url": "socks5://164.215.66.136:1080",
+      "latency_ms": 2517.4,
       "score": 1,
-      "source": "zloi_https",
+      "source": "speedx_socks5",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1791317197.1543977
+      "last_verified": 1791491760.594375
     },
     {
-      "protocol": "https",
-      "address": "172.191.23.249:443",
-      "proxy_url": "https://172.191.23.249:443",
-      "latency_ms": 2806.9,
+      "protocol": "socks5",
+      "address": "129.153.11.56:1080",
+      "proxy_url": "socks5://129.153.11.56:1080",
+      "latency_ms": 333.9,
       "score": 1,
-      "source": "zloi_https",
+      "source": "speedx_socks5",
       "valid_targets": [
         "taosebt.com"
       ],
-      "last_verified": 1791317197.2166567
+      "last_verified": 1791491760.8588634
     },
-    {
-      "protocol": "https",
-      "address": "15.236.131.237:443",
+237:443",
       "proxy_url": "https://15.236.131.237:443",
       "latency_ms": 4844.6,
       "score": 1,
@@ -12085,6 +12085,69 @@
         "taosebt.com"
       ],
       "last_verified": 1791318125.875478
+    }
+  ]
+} "last_verified": 1791492818.1519458
+    },
+    {
+      "protocol": "socks5",
+      "address": "18.188.168.99:45481",
+      "proxy_url": "socks5://18.188.168.99:45481",
+      "latency_ms": 125.7,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1791492818.160268
+    },
+    {
+      "protocol": "socks5",
+      "address": "18.188.168.99:1012",
+      "proxy_url": "socks5://18.188.168.99:1012",
+      "latency_ms": 126.4,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1791492818.1648788
+    },
+    {
+      "protocol": "socks5",
+      "address": "18.188.168.99:42157",
+      "proxy_url": "socks5://18.188.168.99:42157",
+      "latency_ms": 126.0,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1791492818.17096
+    },
+    {
+      "protocol": "socks5",
+      "address": "18.188.168.99:52767",
+      "proxy_url": "socks5://18.188.168.99:52767",
+      "latency_ms": 122.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1791492818.1823072
+    },
+    {
+      "protocol": "socks5",
+      "address": "18.188.168.99:47416",
+      "proxy_url": "socks5://18.188.168.99:47416",
+      "latency_ms": 132.7,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1791492818.188316
     }
   ]
 }

@@ -2056,54 +2056,55 @@
       "address": "79.133.217.236:443",
       "proxy_url": "https://79.133.217.236:443",
       "latency_ms": 2931.9,
+      "score": 1,.210.158.107:5001",
+      "proxy_url": "https://149.210.158.107:5001",
+      "latency_ms": 1421.9,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791405110.1878188
+      "last_verified": 1791491728.6023374
     },
     {
       "protocol": "https",
-      "address": "206.253.147.105:8090",
-      "proxy_url": "https://206.253.147.105:8090",
-      "latency_ms": 1928.3,
+      "address": "203.25.108.77:443",
+      "proxy_url": "https://203.25.108.77:443",
+      "latency_ms": 1474.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791405110.291104
+      "last_verified": 1791491728.618096
     },
     {
       "protocol": "https",
-      "address": "54.144.96.169:443",
-      "proxy_url": "https://54.144.96.169:443",
-      "latency_ms": 1705.5,
+      "address": "193.176.84.17:9002",
+      "proxy_url": "https://193.176.84.17:9002",
+      "latency_ms": 1815.4,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791405110.2980576
+      "last_verified": 1791491728.6192915
     },
     {
       "protocol": "https",
-      "address": "132.145.152.188:443",
-      "proxy_url": "https://132.145.152.188:443",
-      "latency_ms": 2079.3,
+      "address": "193.176.84.40:9002",
+      "proxy_url": "https://193.176.84.40:9002",
+      "latency_ms": 1720.5,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "thbt8.com"
       ],
-      "last_verified": 1791405110.3038485
+      "last_verified": 1791491728.6254127
     },
     {
       "protocol": "https",
-      "address": "157.245.96.148:443",
-      "proxy_url": "https://157.245.96.148:443",
-      "latency_ms": 2955.7,
+  .7,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
