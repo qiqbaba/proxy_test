@@ -4373,543 +4373,546 @@
       "latency_ms": 1967.7,
       "score": 1,
       "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.203176
-    },
-    {
-      "protocol": "https",
-      "address": "217.145.69.109:443",
-      "proxy_url": "https://217.145.69.109:443",
-      "latency_ms": 3460.7,
+      "valid_t3.1,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "ypb.295282.xyz"
       ],
-      "last_verified": 1791405107.2037146
+      "last_verified": 1791844066.011565
     },
     {
       "protocol": "https",
-      "address": "3.133.140.176:8443",
-      "proxy_url": "https://3.133.140.176:8443",
-      "latency_ms": 871.3,
+      "address": "98.70.81.29:443",
+      "proxy_url": "https://98.70.81.29:443",
+      "latency_ms": 3893.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "ypb.295282.xyz"
       ],
-      "last_verified": 1791405107.2412617
-    },
-    {
-      "protocol": "https",
-      "address": "192.126.96.110:443",
-      "proxy_url": "https://192.126.96.110:443",
-      "latency_ms": 1459.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.311672
-    },
-    {
-      "protocol": "https",
-      "address": "195.201.251.185:443",
-      "proxy_url": "https://195.201.251.185:443",
-      "latency_ms": 2266.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.3374195
-    },
-    {
-      "protocol": "https",
-      "address": "38.28.185.224:443",
-      "proxy_url": "https://38.28.185.224:443",
-      "latency_ms": 3564.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.3618422
-    },
-    {
-      "protocol": "https",
-      "address": "45.91.210.78:443",
-      "proxy_url": "https://45.91.210.78:443",
-      "latency_ms": 2284.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.3872101
-    },
-    {
-      "protocol": "https",
-      "address": "137.175.22.40:443",
-      "proxy_url": "https://137.175.22.40:443",
-      "latency_ms": 443.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.402303
-    },
-    {
-      "protocol": "https",
-      "address": "15.206.173.208:443",
-      "proxy_url": "https://15.206.173.208:443",
-      "latency_ms": 2659.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.4044144
-    },
-    {
-      "protocol": "https",
-      "address": "3.91.112.102:443",
-      "proxy_url": "https://3.91.112.102:443",
-      "latency_ms": 2506.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.4310808
-    },
-    {
-      "protocol": "https",
-      "address": "35.198.241.84:443",
-      "proxy_url": "https://35.198.241.84:443",
-      "latency_ms": 3756.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.491749
-    },
-    {
-      "protocol": "https",
-      "address": "103.149.200.42:443",
-      "proxy_url": "https://103.149.200.42:443",
-      "latency_ms": 3539.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.513832
-    },
-    {
-      "protocol": "https",
-      "address": "46.246.39.246:443",
-      "proxy_url": "https://46.246.39.246:443",
-      "latency_ms": 3567.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.540851
-    },
-    {
-      "protocol": "https",
-      "address": "107.91.88.6:8443",
-      "proxy_url": "https://107.91.88.6:8443",
-      "latency_ms": 3574.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.5553498
-    },
-    {
-      "protocol": "https",
-      "address": "103.40.138.14:443",
-      "proxy_url": "https://103.40.138.14:443",
-      "latency_ms": 4220.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.5622065
-    },
-    {
-      "protocol": "https",
-      "address": "198.200.57.156:443",
-      "proxy_url": "https://198.200.57.156:443",
-      "latency_ms": 3772.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.5869436
-    },
-    {
-      "protocol": "https",
-      "address": "137.175.22.3:443",
-      "proxy_url": "https://137.175.22.3:443",
-      "latency_ms": 666.8,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.6042583
-    },
-    {
-      "protocol": "https",
-      "address": "116.202.172.99:443",
-      "proxy_url": "https://116.202.172.99:443",
-      "latency_ms": 2878.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.6162727
-    },
-    {
-      "protocol": "https",
-      "address": "91.107.148.250:8880",
-      "proxy_url": "https://91.107.148.250:8880",
-      "latency_ms": 2754.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.6276875
-    },
-    {
-      "protocol": "https",
-      "address": "82.64.46.151:8007",
-      "proxy_url": "https://82.64.46.151:8007",
-      "latency_ms": 2698.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.6728413
-    },
-    {
-      "protocol": "https",
-      "address": "193.201.185.63:443",
-      "proxy_url": "https://193.201.185.63:443",
-      "latency_ms": 2997.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.7368646
-    },
-    {
-      "protocol": "https",
-      "address": "154.26.138.75:443",
-      "proxy_url": "https://154.26.138.75:443",
-      "latency_ms": 2995.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.7375896
-    },
-    {
-      "protocol": "https",
-      "address": "66.42.49.247:8443",
-      "proxy_url": "https://66.42.49.247:8443",
-      "latency_ms": 2814.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.8368855
-    },
-    {
-      "protocol": "https",
-      "address": "221.126.247.53:22",
-      "proxy_url": "https://221.126.247.53:22",
-      "latency_ms": 4114.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.8372755
-    },
-    {
-      "protocol": "https",
-      "address": "205.185.125.136:8888",
-      "proxy_url": "https://205.185.125.136:8888",
-      "latency_ms": 142.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.8416257
-    },
-    {
-      "protocol": "https",
-      "address": "47.84.230.119:6443",
-      "proxy_url": "https://47.84.230.119:6443",
-      "latency_ms": 4223.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405107.9759932
-    },
-    {
-      "protocol": "https",
-      "address": "157.66.81.25:8443",
-      "proxy_url": "https://157.66.81.25:8443",
-      "latency_ms": 3036.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.0648525
-    },
-    {
-      "protocol": "https",
-      "address": "34.249.214.108:443",
-      "proxy_url": "https://34.249.214.108:443",
-      "latency_ms": 4486.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.094506
-    },
-    {
-      "protocol": "https",
-      "address": "137.175.22.16:443",
-      "proxy_url": "https://137.175.22.16:443",
-      "latency_ms": 1086.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.1062448
-    },
-    {
-      "protocol": "https",
-      "address": "159.69.94.125:443",
-      "proxy_url": "https://159.69.94.125:443",
-      "latency_ms": 2863.3,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.1316648
-    },
-    {
-      "protocol": "https",
-      "address": "208.66.248.70:443",
-      "proxy_url": "https://208.66.248.70:443",
-      "latency_ms": 875.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.1951344
-    },
-    {
-      "protocol": "https",
-      "address": "104.233.178.179:443",
-      "proxy_url": "https://104.233.178.179:443",
-      "latency_ms": 379.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.1997602
-    },
-    {
-      "protocol": "https",
-      "address": "123.108.164.102:443",
-      "proxy_url": "https://123.108.164.102:443",
-      "latency_ms": 3499.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.2414026
-    },
-    {
-      "protocol": "https",
-      "address": "137.175.22.85:443",
-      "proxy_url": "https://137.175.22.85:443",
-      "latency_ms": 1388.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.241791
-    },
-    {
-      "protocol": "https",
-      "address": "200.133.218.122:443",
-      "proxy_url": "https://200.133.218.122:443",
-      "latency_ms": 2256.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.2579198
-    },
-    {
-      "protocol": "https",
-      "address": "87.106.223.158:443",
-      "proxy_url": "https://87.106.223.158:443",
-      "latency_ms": 3604.7,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.3445063
-    },
-    {
-      "protocol": "https",
-      "address": "107.149.232.90:443",
-      "proxy_url": "https://107.149.232.90:443",
-      "latency_ms": 433.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.3659508
-    },
-    {
-      "protocol": "https",
-      "address": "103.79.76.91:1234",
-      "proxy_url": "https://103.79.76.91:1234",
-      "latency_ms": 1906.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.4225829
-    },
-    {
-      "protocol": "https",
-      "address": "137.175.22.98:443",
-      "proxy_url": "https://137.175.22.98:443",
-      "latency_ms": 1512.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.4316792
+      "last_verified": 1791844066.073778
     },
     {
       "protocol": "https",
       "address": "141.164.39.178:443",
       "proxy_url": "https://141.164.39.178:443",
-      "latency_ms": 3460.4,
+      "latency_ms": 2385.3,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "ypb.295282.xyz"
       ],
-      "last_verified": 1791405108.4409444
+      "last_verified": 1791844066.0814824
     },
     {
       "protocol": "https",
-      "address": "62.210.27.111:443",
-      "proxy_url": "https://62.210.27.111:443",
-      "latency_ms": 4712.9,
+      "address": "137.175.22.116:443",
+      "proxy_url": "https://137.175.22.116:443",
+      "latency_ms": 402.6,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
         "ypb.295282.xyz"
       ],
-      "last_verified": 1791405108.4419935
+      "last_verified": 1791844066.1404665
+    },
+    {
+      "protocol": "https",
+      "address": "154.26.137.244:443",
+      "proxy_url": "https://154.26.137.244:443",
+      "latency_ms": 4251.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.1478262
+    },
+    {
+      "protocol": "https",
+      "address": "104.168.83.114:9443",
+      "proxy_url": "https://104.168.83.114:9443",
+      "latency_ms": 884.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.2186084
+    },
+    {
+      "protocol": "https",
+      "address": "137.175.22.98:443",
+      "proxy_url": "https://137.175.22.98:443",
+      "latency_ms": 414.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.260112
+    },
+    {
+      "protocol": "https",
+      "address": "65.0.68.234:443",
+      "proxy_url": "https://65.0.68.234:443",
+      "latency_ms": 3926.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.2646656
+    },
+    {
+      "protocol": "https",
+      "address": "146.70.123.98:9443",
+      "proxy_url": "https://146.70.123.98:9443",
+      "latency_ms": 2611.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.30557
+    },
+    {
+      "protocol": "https",
+      "address": "185.104.184.130:9443",
+      "proxy_url": "https://185.104.184.130:9443",
+      "latency_ms": 1816.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.3093722
+    },
+    {
+      "protocol": "https",
+      "address": "198.2.214.3:443",
+      "proxy_url": "https://198.2.214.3:443",
+      "latency_ms": 1842.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.31599
+    },
+    {
+      "protocol": "https",
+      "address": "137.175.22.41:443",
+      "proxy_url": "https://137.175.22.41:443",
+      "latency_ms": 408.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.3335106
+    },
+    {
+      "protocol": "https",
+      "address": "137.175.22.89:443",
+      "proxy_url": "https://137.175.22.89:443",
+      "latency_ms": 458.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.3898864
+    },
+    {
+      "protocol": "https",
+      "address": "104.168.83.114:443",
+      "proxy_url": "https://104.168.83.114:443",
+      "latency_ms": 1264.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.4448266
+    },
+    {
+      "protocol": "https",
+      "address": "44.248.167.117:8443",
+      "proxy_url": "https://44.248.167.117:8443",
+      "latency_ms": 2319.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.4484088
+    },
+    {
+      "protocol": "https",
+      "address": "103.70.115.234:8443",
+      "proxy_url": "https://103.70.115.234:8443",
+      "latency_ms": 4771.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.4599025
+    },
+    {
+      "protocol": "https",
+      "address": "137.175.22.85:443",
+      "proxy_url": "https://137.175.22.85:443",
+      "latency_ms": 655.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.4602234
+    },
+    {
+      "protocol": "https",
+      "address": "207.5.30.9:443",
+      "proxy_url": "https://207.5.30.9:443",
+      "latency_ms": 1260.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.4742603
+    },
+    {
+      "protocol": "https",
+      "address": "137.175.22.16:443",
+      "proxy_url": "https://137.175.22.16:443",
+      "latency_ms": 670.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.5008423
+    },
+    {
+      "protocol": "https",
+      "address": "137.175.22.87:443",
+      "proxy_url": "https://137.175.22.87:443",
+      "latency_ms": 611.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.5151594
+    },
+    {
+      "protocol": "https",
+      "address": "123.108.164.102:443",
+      "proxy_url": "https://123.108.164.102:443",
+      "latency_ms": 3649.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.520646
+    },
+    {
+      "protocol": "https",
+      "address": "80.86.231.109:443",
+      "proxy_url": "https://80.86.231.109:443",
+      "latency_ms": 5189.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.6006615
+    },
+    {
+      "protocol": "https",
+      "address": "14.225.71.128:8443",
+      "proxy_url": "https://14.225.71.128:8443",
+      "latency_ms": 4390.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.6429467
+    },
+    {
+      "protocol": "https",
+      "address": "200.133.218.122:443",
+      "proxy_url": "https://200.133.218.122:443",
+      "latency_ms": 2030.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.6581192
+    },
+    {
+      "protocol": "https",
+      "address": "52.66.121.218:443",
+      "proxy_url": "https://52.66.121.218:443",
+      "latency_ms": 2910.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.658975
+    },
+    {
+      "protocol": "https",
+      "address": "80.66.87.95:8443",
+      "proxy_url": "https://80.66.87.95:8443",
+      "latency_ms": 1389.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.6884716
+    },
+    {
+      "protocol": "https",
+      "address": "152.233.50.129:9443",
+      "proxy_url": "https://152.233.50.129:9443",
+      "latency_ms": 1314.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.8427517
+    },
+    {
+      "protocol": "https",
+      "address": "3.104.149.52:443",
+      "proxy_url": "https://3.104.149.52:443",
+      "latency_ms": 2321.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.8624196
+    },
+    {
+      "protocol": "https",
+      "address": "77.238.226.173:5995",
+      "proxy_url": "https://77.238.226.173:5995",
+      "latency_ms": 1261.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.8663085
+    },
+    {
+      "protocol": "https",
+      "address": "217.210.129.243:443",
+      "proxy_url": "https://217.210.129.243:443",
+      "latency_ms": 584.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844066.909549
+    },
+    {
+      "protocol": "https",
+      "address": "38.28.185.197:443",
+      "proxy_url": "https://38.28.185.197:443",
+      "latency_ms": 4278.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.0302522
+    },
+    {
+      "protocol": "https",
+      "address": "203.31.65.32:443",
+      "proxy_url": "https://203.31.65.32:443",
+      "latency_ms": 1904.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.1057088
+    },
+    {
+      "protocol": "https",
+      "address": "79.127.182.225:9443",
+      "proxy_url": "https://79.127.182.225:9443",
+      "latency_ms": 1419.5,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.2353022
+    },
+    {
+      "protocol": "https",
+      "address": "3.133.140.176:8443",
+      "proxy_url": "https://3.133.140.176:8443",
+      "latency_ms": 2084.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.2647605
+    },
+    {
+      "protocol": "https",
+      "address": "103.79.76.91:1234",
+      "proxy_url": "https://103.79.76.91:1234",
+      "latency_ms": 1947.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.296119
+    },
+    {
+      "protocol": "https",
+      "address": "3.72.183.91:443",
+      "proxy_url": "https://3.72.183.91:443",
+      "latency_ms": 1472.6,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.3060083
+    },
+    {
+      "protocol": "https",
+      "address": "89.117.94.201:80",
+      "proxy_url": "https://89.117.94.201:80",
+      "latency_ms": 1794.3,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.3112574
+    },
+    {
+      "protocol": "https",
+      "address": "45.91.210.78:443",
+      "proxy_url": "https://45.91.210.78:443",
+      "latency_ms": 3651.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.3494828
+    },
+    {
+      "protocol": "https",
+      "address": "138.108.28.48:443",
+      "proxy_url": "https://138.108.28.48:443",
+      "latency_ms": 577.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.4429808
+    },
+    {
+      "protocol": "https",
+      "address": "46.17.91.18:3000",
+      "proxy_url": "https://46.17.91.18:3000",
+      "latency_ms": 1615.7,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.5668402
+    },
+    {
+      "protocol": "https",
+      "address": "82.65.162.76:443",
+      "proxy_url": "https://82.65.162.76:443",
+      "latency_ms": 1088.1,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.611952
+    },
+    {
+      "protocol": "https",
+      "address": "147.45.173.104:9443",
+      "proxy_url": "https://147.45.173.104:9443",
+      "latency_ms": 1951.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.6485717
+    },
+    {
+      "protocol": "https",
+      "address": "193.233.75.115:443",
+      "proxy_url": "https://193.233.75.115:443",
+      "latency_ms": 1821.2,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.6557393
+    },
+    {
+      "protocol": "https",
+      "address": "66.42.49.247:8443",
+      "proxy_url": "https://66.42.49.247:8443",
+      "latency_ms": 4454.8,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.8553333
+    },
+    {
+      "protocol": "https",
+      "address": "209.38.82.52:443",
+      "proxy_url": "https://209.38.82.52:443",
+      "latency_ms": 1933.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1791844067.8844047
     },
     {
       "protocol": "https",
       "address": "45.128.27.169:1443",
-      "proxy_url": "https://45.128.27.169:1443",
-      "latency_ms": 1378.2,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.4652438
-    },
-    {
-      "protocol": "https",
-      "address": "14.225.71.128:443",
-      "proxy_url": "https://14.225.71.128:443",
-      "latency_ms": 3741.9,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.4844933
-    },
-    {
-      "protocol": "https",
-      "address": "188.120.225.125:8443",
-      "proxy_url": "https://188.120.225.125:8443",
-      "latency_ms": 4981.1,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.4922276
-    },
-    {
-      "protocol": "https",
-      "address": "193.49.168.100:443",
-      "proxy_url": "https://193.49.168.100:443",
-      "latency_ms": 3473.4,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1791405108.5692196
-    },
-    {
-      "protocol": "https",
-      "address": "138.16.163.249:8443",
-      "proxy_url": "https://138.16.163.249:8443",
+38.16.163.249:8443",
       "latency_ms": 1971.3,
       "score": 1,
       "source": "zloi_https",

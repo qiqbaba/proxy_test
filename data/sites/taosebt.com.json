@@ -12150,4 +12150,22 @@
       "last_verified": 1791492818.188316
     }
   ]
+}_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1791844172.2096374
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.74.31.40:9725",
+      "proxy_url": "socks5://45.74.31.40:9725",
+      "latency_ms": 5737.6,
+      "score": 1,
+      "source": "monosans_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1791844172.3441253
+    }
+  ]
 }

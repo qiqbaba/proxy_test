@@ -12082,4 +12082,19 @@
       "last_verified": 1791578046.036101
     }
   ]
+}last_verified": 1791844168.4428906
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.74.31.41:5028",
+      "proxy_url": "socks5://45.74.31.41:5028",
+      "latency_ms": 3639.8,
+      "score": 1,
+      "source": "vpslab_socks5_all",
+      "valid_targets": [
+        "mfgc3.com"
+      ],
+      "last_verified": 1791844168.973984
+    }
+  ]
 }
