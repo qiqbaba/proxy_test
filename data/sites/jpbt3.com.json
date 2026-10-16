@@ -12089,4 +12089,15 @@
       "last_verified": 1792092842.724501
     }
   ]
+}45.74.31.42:14663",
+      "proxy_url": "socks5://45.74.31.42:14663",
+      "latency_ms": 5126.5,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 1792178280.9325626
+    }
+  ]
 }
