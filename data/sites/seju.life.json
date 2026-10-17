@@ -7163,656 +7163,662 @@
     {
       "protocol": "socks5",
       "address": "45.74.31.30:7046",
-      "proxy_url": "socks5://45.74.31.30:7046",
-      "latency_ms": 4423.7,
-      "score": 1,
-      "source": "proxyscrape_socks5",
-      "valid_targets": [
+      "[
         "seju.life"
       ],
-      "last_verified": 1791138957.9209962
+      "last_verified": 1792259535.5930862
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.40:8262",
-      "proxy_url": "socks5://45.74.31.40:8262",
-      "latency_ms": 4912.6,
+      "address": "45.74.31.42:5934",
+      "proxy_url": "socks5://45.74.31.42:5934",
+      "latency_ms": 3945.9,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138958.0586576
+      "last_verified": 1792259536.2872226
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:12436",
-      "proxy_url": "socks5://45.74.31.46:12436",
-      "latency_ms": 4304.0,
+      "address": "45.74.31.42:13334",
+      "proxy_url": "socks5://45.74.31.42:13334",
+      "latency_ms": 4289.7,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138958.1474717
+      "last_verified": 1792259536.9819102
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.40:6758",
-      "proxy_url": "socks5://45.74.31.40:6758",
-      "latency_ms": 3509.4,
+      "address": "5.75.133.113:10803",
+      "proxy_url": "socks5://5.75.133.113:10803",
+      "latency_ms": 1605.7,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138958.2462587
+      "last_verified": 1792259537.4145565
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.50:4368",
-      "proxy_url": "socks5://45.74.31.50:4368",
-      "latency_ms": 4356.4,
+      "address": "65.21.252.66:10803",
+      "proxy_url": "socks5://65.21.252.66:10803",
+      "latency_ms": 3372.9,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138958.682012
+      "last_verified": 1792259537.7808163
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:5571",
-      "proxy_url": "socks5://45.74.31.46:5571",
-      "latency_ms": 2000.8,
+      "address": "45.74.31.46:6639",
+      "proxy_url": "socks5://45.74.31.46:6639",
+      "latency_ms": 3064.7,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138958.8284981
+      "last_verified": 1792259537.9760678
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.25:4478",
-      "proxy_url": "socks5://45.74.31.25:4478",
-      "latency_ms": 2501.3,
+      "address": "65.21.252.66:10807",
+      "proxy_url": "socks5://65.21.252.66:10807",
+      "latency_ms": 4777.6,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138958.9058566
+      "last_verified": 1792259539.9058192
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.41:25083",
-      "proxy_url": "socks5://45.74.31.41:25083",
-      "latency_ms": 2341.8,
+      "address": "45.74.31.40:10958",
+      "proxy_url": "socks5://45.74.31.40:10958",
+      "latency_ms": 3635.1,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138958.9764426
+      "last_verified": 1792259539.9807773
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.41:5471",
-      "proxy_url": "socks5://45.74.31.41:5471",
-      "latency_ms": 4570.6,
+      "address": "45.74.31.42:6139",
+      "proxy_url": "socks5://45.74.31.42:6139",
+      "latency_ms": 5046.5,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138959.1231272
+      "last_verified": 1792259542.1770947
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:4747",
-      "proxy_url": "socks5://45.74.31.46:4747",
-      "latency_ms": 3721.0,
+      "address": "45.74.31.41:8650",
+      "proxy_url": "socks5://45.74.31.41:8650",
+      "latency_ms": 4540.8,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138959.2657838
+      "last_verified": 1792259542.5885093
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.42:5426",
-      "proxy_url": "socks5://45.74.31.42:5426",
-      "latency_ms": 3818.9,
+      "address": "35.178.51.34:3128",
+      "proxy_url": "socks5://35.178.51.34:3128",
+      "latency_ms": 527.8,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138959.27986
+      "last_verified": 1792259543.5193748
     },
     {
       "protocol": "socks5",
-      "address": "185.191.229.11:6080",
-      "proxy_url": "socks5://185.191.229.11:6080",
-      "latency_ms": 3662.0,
+      "address": "45.74.31.42:14026",
+      "proxy_url": "socks5://45.74.31.42:14026",
+      "latency_ms": 4610.5,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138959.425609
+      "last_verified": 1792259543.6431527
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:5177",
-      "proxy_url": "socks5://45.74.31.46:5177",
-      "latency_ms": 4902.4,
+      "address": "116.104.251.199:1111",
+      "proxy_url": "socks5://116.104.251.199:1111",
+      "latency_ms": 4452.0,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138959.4476538
+      "last_verified": 1792259544.1514292
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:4107",
-      "proxy_url": "socks5://45.74.31.46:4107",
-      "latency_ms": 2621.1,
+      "address": "103.88.234.239:40002",
+      "proxy_url": "socks5://103.88.234.239:40002",
+      "latency_ms": 766.0,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138959.5524547
+      "last_verified": 1792259544.3084428
     },
     {
       "protocol": "socks5",
-      "address": "47.82.73.135:1011",
-      "proxy_url": "socks5://47.82.73.135:1011",
-      "latency_ms": 3888.3,
+      "address": "154.17.8.19:11080",
+      "proxy_url": "socks5://154.17.8.19:11080",
+      "latency_ms": 2526.2,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138960.1635518
+      "last_verified": 1792259544.3386083
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:8012",
-      "proxy_url": "socks5://45.74.31.46:8012",
-      "latency_ms": 3131.8,
+      "address": "194.9.233.171:1080",
+      "proxy_url": "socks5://194.9.233.171:1080",
+      "latency_ms": 1300.4,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138960.4394348
+      "last_verified": 1792259544.7372408
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.40:9456",
-      "proxy_url": "socks5://45.74.31.40:9456",
-      "latency_ms": 2390.2,
+      "address": "62.83.34.101:1080",
+      "proxy_url": "socks5://62.83.34.101:1080",
+      "latency_ms": 928.7,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138960.6039443
+      "last_verified": 1792259545.0390923
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.47:9597",
-      "proxy_url": "socks5://45.74.31.47:9597",
-      "latency_ms": 4721.8,
+      "address": "5.75.133.113:10801",
+      "proxy_url": "socks5://5.75.133.113:10801",
+      "latency_ms": 1332.0,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138960.685062
+      "last_verified": 1792259545.399963
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:7832",
-      "proxy_url": "socks5://45.74.31.46:7832",
-      "latency_ms": 4973.0,
+      "address": "45.74.31.47:17849",
+      "proxy_url": "socks5://45.74.31.47:17849",
+      "latency_ms": 4368.8,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138960.8672721
+      "last_verified": 1792259545.5058749
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.25:4170",
-      "proxy_url": "socks5://45.74.31.25:4170",
-      "latency_ms": 4272.0,
+      "address": "101.32.213.44:1080",
+      "proxy_url": "socks5://101.32.213.44:1080",
+      "latency_ms": 2860.3,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.0180674
+      "last_verified": 1792259545.9382584
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.23:5699",
-      "proxy_url": "socks5://45.74.31.23:5699",
-      "latency_ms": 3864.6,
+      "address": "65.21.252.66:10806",
+      "proxy_url": "socks5://65.21.252.66:10806",
+      "latency_ms": 2826.7,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.046129
+      "last_verified": 1792259545.972597
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.41:9573",
-      "proxy_url": "socks5://45.74.31.41:9573",
-      "latency_ms": 4276.0,
+      "address": "52.128.241.109:1080",
+      "proxy_url": "socks5://52.128.241.109:1080",
+      "latency_ms": 727.2,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.1691048
+      "last_verified": 1792259547.2613344
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.47:8406",
-      "proxy_url": "socks5://45.74.31.47:8406",
-      "latency_ms": 4654.4,
+      "address": "45.74.31.42:8333",
+      "proxy_url": "socks5://45.74.31.42:8333",
+      "latency_ms": 4460.2,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.3240213
+      "last_verified": 1792259548.155334
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.50:4538",
-      "proxy_url": "socks5://45.74.31.50:4538",
-      "latency_ms": 2486.9,
+      "address": "45.74.31.46:4436",
+      "proxy_url": "socks5://45.74.31.46:4436",
+      "latency_ms": 4068.2,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.3949897
+      "last_verified": 1792259549.0908263
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.30:40589",
-      "proxy_url": "socks5://45.74.31.30:40589",
-      "latency_ms": 4613.1,
+      "address": "65.21.252.66:10805",
+      "proxy_url": "socks5://65.21.252.66:10805",
+      "latency_ms": 2270.9,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.4399827
+      "last_verified": 1792259549.1590383
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:5022",
-      "proxy_url": "socks5://45.74.31.46:5022",
-      "latency_ms": 4682.1,
+      "address": "45.74.31.42:13663",
+      "proxy_url": "socks5://45.74.31.42:13663",
+      "latency_ms": 3990.0,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.4742672
+      "last_verified": 1792259550.4486089
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.40:7494",
-      "proxy_url": "socks5://45.74.31.40:7494",
-      "latency_ms": 4938.0,
+      "address": "45.74.31.46:11452",
+      "proxy_url": "socks5://45.74.31.46:11452",
+      "latency_ms": 4868.5,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.6486082
+      "last_verified": 1792259550.8879492
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.40:4322",
-      "proxy_url": "socks5://45.74.31.40:4322",
-      "latency_ms": 5255.2,
+      "address": "43.134.34.219:10808",
+      "proxy_url": "socks5://43.134.34.219:10808",
+      "latency_ms": 3373.1,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.7200372
+      "last_verified": 1792259551.2490196
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.40:5704",
-      "proxy_url": "socks5://45.74.31.40:5704",
-      "latency_ms": 3105.5,
+      "address": "185.108.76.197:9050",
+      "proxy_url": "socks5://185.108.76.197:9050",
+      "latency_ms": 5254.1,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.8970587
+      "last_verified": 1792259551.3453608
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.41:9668",
-      "proxy_url": "socks5://45.74.31.41:9668",
-      "latency_ms": 2696.2,
+      "address": "37.16.2.124:1080",
+      "proxy_url": "socks5://37.16.2.124:1080",
+      "latency_ms": 1074.4,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138961.9827397
+      "last_verified": 1792259551.5497978
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.40:6452",
-      "proxy_url": "socks5://45.74.31.40:6452",
-      "latency_ms": 4640.9,
+      "address": "5.75.133.113:10807",
+      "proxy_url": "socks5://5.75.133.113:10807",
+      "latency_ms": 1469.0,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138962.0333028
+      "last_verified": 1792259552.500407
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.25:15652",
-      "proxy_url": "socks5://45.74.31.25:15652",
-      "latency_ms": 3123.5,
+      "address": "45.74.31.42:13246",
+      "proxy_url": "socks5://45.74.31.42:13246",
+      "latency_ms": 5355.5,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138962.1621134
+      "last_verified": 1792259556.3947074
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.50:7435",
-      "proxy_url": "socks5://45.74.31.50:7435",
-      "latency_ms": 2153.0,
+      "address": "49.13.22.249:10806",
+      "proxy_url": "socks5://49.13.22.249:10806",
+      "latency_ms": 3117.5,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138962.4137716
+      "last_verified": 1792259556.8861918
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.47:8718",
-      "proxy_url": "socks5://45.74.31.47:8718",
-      "latency_ms": 1516.1,
+      "address": "113.249.111.67:1080",
+      "proxy_url": "socks5://113.249.111.67:1080",
+      "latency_ms": 2352.1,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138962.9430735
+      "last_verified": 1792259556.9014828
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.22:12405",
-      "proxy_url": "socks5://45.74.31.22:12405",
-      "latency_ms": 2022.8,
+      "address": "45.74.31.42:6333",
+      "proxy_url": "socks5://45.74.31.42:6333",
+      "latency_ms": 4313.7,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138963.38672
+      "last_verified": 1792259558.4087424
     },
     {
       "protocol": "socks5",
-      "address": "194.44.255.112:8090",
-      "proxy_url": "socks5://194.44.255.112:8090",
-      "latency_ms": 4277.4,
+      "address": "49.13.22.249:10802",
+      "proxy_url": "socks5://49.13.22.249:10802",
+      "latency_ms": 3721.9,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "proxyscraper_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138963.9045541
+      "last_verified": 1792259559.1113179
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.23:21711",
-      "proxy_url": "socks5://45.74.31.23:21711",
-      "latency_ms": 4593.2,
+      "address": "45.74.31.42:15105",
+      "proxy_url": "socks5://45.74.31.42:15105",
+      "latency_ms": 5408.3,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138963.9152722
+      "last_verified": 1792259559.4948938
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.40:5829",
-      "proxy_url": "socks5://45.74.31.40:5829",
-      "latency_ms": 2675.7,
+      "address": "45.74.31.46:7678",
+      "proxy_url": "socks5://45.74.31.46:7678",
+      "latency_ms": 4728.6,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "speedx_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138963.961668
+      "last_verified": 1792259559.5686755
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.50:7094",
-      "proxy_url": "socks5://45.74.31.50:7094",
-      "latency_ms": 2287.3,
+      "address": "45.74.31.47:14211",
+      "proxy_url": "socks5://45.74.31.47:14211",
+      "latency_ms": 3472.1,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "proxyscraper_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138963.9760406
+      "last_verified": 1792259561.1944916
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:5254",
-      "proxy_url": "socks5://45.74.31.46:5254",
-      "latency_ms": 4126.5,
+      "address": "109.199.107.68:1080",
+      "proxy_url": "socks5://109.199.107.68:1080",
+      "latency_ms": 813.1,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "proxyscraper_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138963.9989536
+      "last_verified": 1792259562.37168
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.25:6051",
-      "proxy_url": "socks5://45.74.31.25:6051",
-      "latency_ms": 5511.1,
+      "address": "5.175.192.43:1080",
+      "proxy_url": "socks5://5.175.192.43:1080",
+      "latency_ms": 2636.9,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "proxyscraper_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138964.108847
+      "last_verified": 1792259567.7001972
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.50:14192",
-      "proxy_url": "socks5://45.74.31.50:14192",
-      "latency_ms": 5181.5,
+      "address": "88.84.204.217:1080",
+      "proxy_url": "socks5://88.84.204.217:1080",
+      "latency_ms": 5283.8,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "proxyscraper_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138964.5244615
+      "last_verified": 1792259570.422193
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.25:9067",
-      "proxy_url": "socks5://45.74.31.25:9067",
-      "latency_ms": 2100.4,
+      "address": "5.75.133.113:10808",
+      "proxy_url": "socks5://5.75.133.113:10808",
+      "latency_ms": 2335.4,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "proxyscraper_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138964.5749547
+      "last_verified": 1792259571.1837776
     },
     {
       "protocol": "socks5",
-      "address": "180.141.88.241:9009",
-      "proxy_url": "socks5://180.141.88.241:9009",
-      "latency_ms": 2006.5,
+      "address": "116.104.251.199:1051",
+      "proxy_url": "socks5://116.104.251.199:1051",
+      "latency_ms": 3757.9,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "proxyscraper_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138964.779645
+      "last_verified": 1792259574.2935996
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.47:12187",
-      "proxy_url": "socks5://45.74.31.47:12187",
-      "latency_ms": 3109.8,
+      "address": "116.104.251.199:1117",
+      "proxy_url": "socks5://116.104.251.199:1117",
+      "latency_ms": 2296.1,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "proxyscraper_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138964.785466
+      "last_verified": 1792259574.856088
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.41:13476",
-      "proxy_url": "socks5://45.74.31.41:13476",
-      "latency_ms": 4916.4,
+      "address": "82.142.130.102:1080",
+      "proxy_url": "socks5://82.142.130.102:1080",
+      "latency_ms": 1195.5,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "monosans_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138964.7964196
+      "last_verified": 1792259575.2633634
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.23:4934",
-      "proxy_url": "socks5://45.74.31.23:4934",
-      "latency_ms": 2466.2,
+      "address": "178.252.74.29:1081",
+      "proxy_url": "socks5://178.252.74.29:1081",
+      "latency_ms": 1385.5,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "monosans_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138964.9837384
+      "last_verified": 1792259575.4228191
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.41:5301",
-      "proxy_url": "socks5://45.74.31.41:5301",
-      "latency_ms": 4187.9,
+      "address": "45.149.92.160:1080",
+      "proxy_url": "socks5://45.149.92.160:1080",
+      "latency_ms": 1789.8,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "monosans_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138965.0636172
+      "last_verified": 1792259575.951352
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.23:4584",
-      "proxy_url": "socks5://45.74.31.23:4584",
-      "latency_ms": 4785.5,
+      "address": "93.100.82.163:1080",
+      "proxy_url": "socks5://93.100.82.163:1080",
+      "latency_ms": 1349.3,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "monosans_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138965.3550541
+      "last_verified": 1792259576.3892329
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:5940",
-      "proxy_url": "socks5://45.74.31.46:5940",
-      "latency_ms": 1355.0,
+      "address": "64.176.221.15:1080",
+      "proxy_url": "socks5://64.176.221.15:1080",
+      "latency_ms": 2860.4,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "proxyscraper_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138966.0067441
+      "last_verified": 1792259576.7977464
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.42:4736",
-      "proxy_url": "socks5://45.74.31.42:4736",
-      "latency_ms": 3435.6,
+      "address": "82.21.153.14:1080",
+      "proxy_url": "socks5://82.21.153.14:1080",
+      "latency_ms": 949.5,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "monosans_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138966.306117
+      "last_verified": 1792259577.934108
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.46:5113",
-      "proxy_url": "socks5://45.74.31.46:5113",
-      "latency_ms": 1678.6,
+      "address": "45.74.31.42:13163",
+      "proxy_url": "socks5://45.74.31.42:13163",
+      "latency_ms": 4035.1,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "monosans_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138966.5457199
+      "last_verified": 1792259580.3701584
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.47:7182",
-      "proxy_url": "socks5://45.74.31.47:7182",
-      "latency_ms": 2294.0,
+      "address": "45.74.31.42:11666",
+      "proxy_url": "socks5://45.74.31.42:11666",
+      "latency_ms": 3415.4,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "monosans_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138966.7940776
+      "last_verified": 1792259580.4665594
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.25:4179",
-      "proxy_url": "socks5://45.74.31.25:4179",
-      "latency_ms": 4995.6,
+      "address": "45.74.31.40:10992",
+      "proxy_url": "socks5://45.74.31.40:10992",
+      "latency_ms": 5391.8,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "monosans_socks5",
       "valid_targets": [
         "seju.life"
       ],
-      "last_verified": 1791138966.935544
+      "last_verified": 1792259580.7517457
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.50:14746",
-      "proxy_url": "socks5://45.74.31.50:14746",
-      "latency_ms": 5365.0,
+      "address": "45.74.31.42:7670",
+      "proxy_url": "socks5://45.74.31.42:7670",
+      "latency_ms": 5043.5,
+      "score": 1,
+      "source": "monosans_socks5",
+      "valid_targets": [
+        "seju.life"
+      ],
+      "last_verified": 1792259581.320939
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.5.0,
       "score": 1,
       "source": "proxyscrape_socks5",
       "valid_targets": [

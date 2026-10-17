@@ -12098,3 +12098,16 @@
     }
   ]
 }
+      "protocol": "socks4",
+      "address": "47.91.115.179:1080",
+      "proxy_url": "socks4://47.91.115.179:1080",
+      "latency_ms": 4581.1,
+      "score": 1,
+      "source": "proxyscraper_socks4",
+      "valid_targets": [
+        "mfgc3.com"
+      ],
+      "last_verified": 1792262790.2897024
+    }
+  ]
+}
