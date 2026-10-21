@@ -12115,4 +12115,15 @@
       "last_verified": 1792442961.8114545
     }
   ]
+}1.42:35317",
+      "proxy_url": "socks5://45.74.31.42:35317",
+      "latency_ms": 3733.7,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "mfgc3.com"
+      ],
+      "last_verified": 1792612110.1687987
+    }
+  ]
 }
