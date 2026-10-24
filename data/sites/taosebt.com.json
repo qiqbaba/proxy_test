@@ -12187,4 +12187,23 @@
       "last_verified": 1792350359.6623034
     }
   ]
+}om_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1792866969.5082521
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.74.31.41:8694",
+      "proxy_url": "socks5://45.74.31.41:8694",
+      "latency_ms": 3109.2,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 1792866969.908055
+    }
+  ]
 }
