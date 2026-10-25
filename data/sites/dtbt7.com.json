@@ -12093,4 +12093,40 @@
       "last_verified": 1792783526.8171115
     }
   ]
+}col": "socks5",
+      "address": "47.129.130.0:4443",
+      "proxy_url": "socks5://47.129.130.0:4443",
+      "latency_ms": 1202.7,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "dtbt7.com"
+      ],
+      "last_verified": 1792954644.9945443
+    },
+    {
+      "protocol": "socks5",
+      "address": "47.129.130.0:46104",
+      "proxy_url": "socks5://47.129.130.0:46104",
+      "latency_ms": 1176.0,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "dtbt7.com"
+      ],
+      "last_verified": 1792954645.009203
+    },
+    {
+      "protocol": "socks5",
+      "address": "49.13.22.249:10803",
+      "proxy_url": "socks5://49.13.22.249:10803",
+      "latency_ms": 3367.2,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "dtbt7.com"
+      ],
+      "last_verified": 1792954910.4285276
+    }
+  ]
 }
