@@ -12083,4 +12083,18 @@
       "last_verified": 1793306309.9847398
     }
   ]
+},
+    {
+      "protocol": "socks5",
+      "address": "40.177.104.199:40298",
+      "proxy_url": "socks5://40.177.104.199:40298",
+      "latency_ms": 275.0,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "mfgc3.com"
+      ],
+      "last_verified": 1793828317.3264353
+    }
+  ]
 }

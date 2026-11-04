@@ -12097,4 +12097,38 @@
 }
     }
   ]
+}": "socks4://47.237.107.41:82",
+      "latency_ms": 4664.6,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1793832137.6676943
+    },
+    {
+      "protocol": "socks4",
+      "address": "47.237.113.119:16010",
+      "proxy_url": "socks4://47.237.113.119:16010",
+      "latency_ms": 4665.9,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1793832137.6692886
+    },
+    {
+      "protocol": "socks4",
+      "address": "47.237.113.119:8888",
+      "proxy_url": "socks4://47.237.113.119:8888",
+      "latency_ms": 4664.6,
+      "score": 1,
+      "source": "gfpcom_socks4",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1793832137.6775978
+    }
+  ]
 }

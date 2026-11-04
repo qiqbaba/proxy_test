@@ -12148,4 +12148,15 @@
       "last_verified": 1793477253.557283
     }
   ]
+}     "address": "45.74.31.42:15289",
+      "proxy_url": "socks5://45.74.31.42:15289",
+      "latency_ms": 3836.7,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "thbt8.com"
+      ],
+      "last_verified": 1793828552.3352625
+    }
+  ]
 }
