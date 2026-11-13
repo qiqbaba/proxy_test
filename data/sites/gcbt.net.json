@@ -9482,40 +9482,43 @@
       "last_verified": 1794345925.2597182
     },
     {
-      "protocol": "socks5",
-      "address": "13.239.253.213:8216",
-      "proxy_url": "socks5://13.239.253.213:8216",
-      "latency_ms": 870.8,
-      "score": 1,
-      "source": "gfpcom_socks5",
-      "valid_targets": [
-        "gcbt.net"
-      ],
-      "last_verified": 1794345925.2768216
+      "protocol92
     },
     {
       "protocol": "socks5",
-      "address": "13.239.253.213:50626",
-      "proxy_url": "socks5://13.239.253.213:50626",
-      "latency_ms": 869.4,
+      "address": "13.239.253.213:13631",
+      "proxy_url": "socks5://13.239.253.213:13631",
+      "latency_ms": 965.2,
       "score": 1,
       "source": "gfpcom_socks5",
       "valid_targets": [
         "gcbt.net"
       ],
-      "last_verified": 1794345925.2915056
+      "last_verified": 1794605262.8790462
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.239.253.213:3128",
+      "proxy_url": "socks5://13.239.253.213:3128",
+      "latency_ms": 963.7,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 1794605262.8808355
     },
     {
       "protocol": "socks5",
       "address": "13.239.253.213:69",
       "proxy_url": "socks5://13.239.253.213:69",
-      "latency_ms": 872.8,
+      "latency_ms": 959.8,
       "score": 1,
       "source": "gfpcom_socks5",
       "valid_targets": [
         "gcbt.net"
       ],
-      "last_verified": 1794345925.308585
+      "85
     },
     {
       "protocol": "socks5",
