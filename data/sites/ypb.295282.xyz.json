@@ -12024,4 +12024,40 @@
       "last_verified": 1794434864.7565992
     }
   ]
+}": "socks5",
+      "address": "98.94.14.234:42803",
+      "proxy_url": "socks5://98.94.14.234:42803",
+      "latency_ms": 50.1,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1794688790.7414165
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.94.14.234:44722",
+      "proxy_url": "socks5://98.94.14.234:44722",
+      "latency_ms": 49.5,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1794688790.7415352
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.94.14.234:10946",
+      "proxy_url": "socks5://98.94.14.234:10946",
+      "latency_ms": 49.8,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1794688790.7419677
+    }
+  ]
 }
