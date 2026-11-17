@@ -1,15 +1,15 @@
 {
   "meta": {
-    "updated_at": "2026-11-17 01:23:50",
-    "timestamp": 1794878630.4260812,
-    "total_unique_valid": 5169,
+    "updated_at": "2026-11-17 23:53:07",
+    "timestamp": 1794959587.8423512,
+    "total_unique_valid": 5141,
     "sites_tested": 14,
     "site_summary": {
       "ypb.295282.xyz": 1000,
       "www.xxread.net": 1000,
       "www.alicesw.com": 200,
       "thbt8.com": 999,
-      "j4f4.com": 1012,
+      "j4f4.com": 1023,
       "seju.life": 1000,
       "taosebt.com": 1000,
       "gcbt.net": 1000,
@@ -33,7 +33,6 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
-        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -134,6 +133,7 @@
       "score": 2,
       "source": "proxifly_all",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "seju.life",
         "taosebt.com",
@@ -201,7 +201,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "jpbt3.com",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -287,7 +287,7 @@
       "source": "proxifly_all",
       "valid_targets": [
         "dtbt7.com",
-        "jpbt3.com",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -308,7 +308,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "mfgc3.com",
         "seju.life",
         "taosebt.com",
@@ -328,7 +327,7 @@
       "source": "proxifly_all",
       "valid_targets": [
         "gcbt.net",
-        "jpbt3.com",
+        "j4f4.com",
         "mfgc3.com",
         "seju.life",
         "taosebt.com",
@@ -348,7 +347,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -661,7 +659,6 @@
       "valid_targets": [
         "dtbt7.com",
         "j4f4.com",
-        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -905,6 +902,7 @@
       "score": 2,
       "source": "proxyscrape_socks4",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "u3c3.com",
@@ -1142,6 +1140,7 @@
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
+        "j4f4.com",
         "seju.life",
         "www.xxread.net"
       ],
@@ -1170,7 +1169,6 @@
       "source": "speedx_socks5",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "www.xxread.net"
       ],
@@ -1253,12 +1251,26 @@
     },
     {
       "protocol": "socks5",
+      "address": "72.207.113.97:4145",
+      "proxy_url": "socks5://72.207.113.97:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "j4f4.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1787404233.271823
+    },
+    {
+      "protocol": "socks5",
       "address": "174.77.111.197:4145",
       "proxy_url": "socks5://174.77.111.197:4145",
       "latency_ms": 500.0,
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
+        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "u3c3.com",
@@ -1275,7 +1287,6 @@
       "source": "proxyscrape_socks5",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "www.xxread.net"
       ],
       "last_verified": 1787404233.290204
@@ -1333,6 +1344,7 @@
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
+        "j4f4.com",
         "thbt8.com",
         "www.alicesw.com",
         "www.xxread.net"
@@ -1348,7 +1360,6 @@
       "source": "proxifly_all",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -1412,7 +1423,6 @@
       "valid_targets": [
         "dtbt7.com",
         "j4f4.com",
-        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -1456,7 +1466,6 @@
       "valid_targets": [
         "dtbt7.com",
         "j4f4.com",
-        "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
         "taosebt.com",
@@ -1579,8 +1588,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
-        "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
         "taosebt.com",
@@ -1601,7 +1608,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
         "taosebt.com",
@@ -1634,6 +1640,7 @@
       "score": 2,
       "source": "proxyscrape_socks4",
       "valid_targets": [
+        "j4f4.com",
         "pms.532862.xyz",
         "www.alicesw.com",
         "www.xxread.net"
@@ -1690,7 +1697,6 @@
       "score": 2,
       "source": "speedx_socks5",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "u3c3.com",
@@ -1723,7 +1729,6 @@
       "source": "proxyscrape_socks5",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -1731,6 +1736,20 @@
         "www.xxread.net"
       ],
       "last_verified": 1788135630.572065
+    },
+    {
+      "protocol": "socks5",
+      "address": "174.75.211.193:4145",
+      "proxy_url": "socks5://174.75.211.193:4145",
+      "latency_ms": 500.0,
+      "score": 2,
+      "source": "vpslab_socks5_all",
+      "valid_targets": [
+        "j4f4.com",
+        "www.alicesw.com",
+        "www.xxread.net"
+      ],
+      "last_verified": 1788135630.5732908
     },
     {
       "protocol": "socks5",
@@ -1770,6 +1789,7 @@
       "source": "speedx_socks5",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "www.alicesw.com",
         "www.xxread.net"
       ],
@@ -1906,31 +1926,6 @@
         "www.xxread.net"
       ],
       "last_verified": 1787404233.312631
-    },
-    {
-      "protocol": "socks5",
-      "address": "174.75.211.193:4145",
-      "proxy_url": "socks5://174.75.211.193:4145",
-      "latency_ms": 1189.8,
-      "score": 2,
-      "source": "vpslab_socks5_all",
-      "valid_targets": [
-        "www.alicesw.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1788135630.5732908
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.207.113.97:4145",
-      "proxy_url": "socks5://72.207.113.97:4145",
-      "latency_ms": 1203.9,
-      "score": 2,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "www.xxread.net"
-      ],
-      "last_verified": 1787404233.271823
     },
     {
       "protocol": "socks5",
@@ -2463,6 +2458,7 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -2631,6 +2627,7 @@
       "valid_targets": [
         "dtbt7.com",
         "j4f4.com",
+        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -2801,7 +2798,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "pms.532862.xyz",
         "seju.life",
         "taosebt.com",
@@ -2935,6 +2931,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "seju.life",
         "thbt8.com",
@@ -3047,7 +3044,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -3090,6 +3086,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "seju.life",
@@ -3204,6 +3201,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -3230,6 +3228,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -3247,6 +3246,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "seju.life",
         "u3c3.com",
@@ -3263,6 +3263,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "seju.life",
@@ -3307,7 +3308,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -3350,6 +3350,7 @@
       "valid_targets": [
         "dtbt7.com",
         "j4f4.com",
+        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -3381,7 +3382,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "u3c3.com",
@@ -3483,6 +3483,7 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
         "taosebt.com",
@@ -3591,7 +3592,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "taosebt.com",
         "u3c3.com",
         "www.alicesw.com",
@@ -3608,7 +3608,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "thbt8.com",
@@ -3737,6 +3736,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "seju.life",
         "thbt8.com",
@@ -3879,6 +3879,7 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
         "thbt8.com",
@@ -4124,6 +4125,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "www.xxread.net",
         "ypb.295282.xyz"
@@ -4176,7 +4178,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "u3c3.com",
@@ -4283,6 +4284,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "jpbt3.com",
         "mfgc3.com",
         "thbt8.com",
         "www.alicesw.com",
@@ -4410,7 +4412,6 @@
       "score": 1,
       "source": "gfpcom_socks5",
       "valid_targets": [
-        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -4425,7 +4426,6 @@
       "score": 1,
       "source": "gfpcom_socks5",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "seju.life",
@@ -4494,7 +4494,6 @@
       "source": "gfpcom_socks5",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "seju.life",
@@ -4586,7 +4585,6 @@
       "valid_targets": [
         "dtbt7.com",
         "j4f4.com",
-        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -4656,7 +4654,6 @@
       "valid_targets": [
         "dtbt7.com",
         "j4f4.com",
-        "jpbt3.com",
         "pms.532862.xyz",
         "taosebt.com",
         "thbt8.com",
@@ -4896,6 +4893,7 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -4918,6 +4916,7 @@
       "valid_targets": [
         "dtbt7.com",
         "j4f4.com",
+        "jpbt3.com",
         "mfgc3.com",
         "taosebt.com",
         "thbt8.com",
@@ -4950,7 +4949,6 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
-        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -5105,6 +5103,7 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
         "taosebt.com",
@@ -5360,6 +5359,7 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -5412,7 +5412,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -5583,6 +5582,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -5635,7 +5635,6 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
-        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -5657,6 +5656,7 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
         "taosebt.com",
@@ -5676,6 +5676,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -5822,6 +5823,7 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
         "mfgc3.com",
         "seju.life",
         "taosebt.com",
@@ -5911,7 +5913,6 @@
       "source": "gfpcom_socks5",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "ypb.295282.xyz"
       ],
@@ -5927,6 +5928,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -5944,7 +5946,6 @@
       "score": 1,
       "source": "gfpcom_socks5",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "seju.life",
         "ypb.295282.xyz"
@@ -6003,8 +6004,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
         "taosebt.com",
         "u3c3.com",
         "www.alicesw.com",
@@ -6062,7 +6061,6 @@
       "source": "gfpcom_socks5",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -6101,7 +6099,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "u3c3.com",
@@ -6185,6 +6182,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -6202,6 +6200,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -6229,6 +6228,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -6273,6 +6273,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "seju.life",
@@ -6545,6 +6546,7 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
         "mfgc3.com",
         "seju.life",
         "taosebt.com",
@@ -6759,6 +6761,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -7208,7 +7211,6 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
-        "jpbt3.com",
         "mfgc3.com",
         "seju.life",
         "taosebt.com",
@@ -7538,7 +7540,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -8179,7 +8180,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "seju.life",
         "thbt8.com",
         "www.xxread.net",
@@ -9168,7 +9168,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -9297,7 +9296,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -9532,7 +9530,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "mfgc3.com",
         "u3c3.com",
         "www.xxread.net",
@@ -9580,26 +9577,12 @@
     },
     {
       "protocol": "https",
-      "address": "103.108.92.82:9443",
-      "proxy_url": "https://103.108.92.82:9443",
-      "latency_ms": 500.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "j4f4.com",
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1794872526.3230994
-    },
-    {
-      "protocol": "https",
       "address": "149.88.99.210:9443",
       "proxy_url": "https://149.88.99.210:9443",
       "latency_ms": 500.0,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -9650,6 +9633,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -9771,7 +9755,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -9871,7 +9854,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -10000,6 +9982,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "seju.life",
         "taosebt.com",
@@ -10136,6 +10119,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -10200,6 +10184,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -10220,7 +10205,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "pms.532862.xyz",
         "seju.life",
         "u3c3.com",
@@ -10547,6 +10531,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "pms.532862.xyz",
         "ypb.295282.xyz"
       ],
@@ -10573,7 +10558,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -10636,6 +10620,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "pms.532862.xyz",
         "seju.life",
         "thbt8.com",
@@ -10860,7 +10845,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -10993,6 +10977,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "taosebt.com",
         "ypb.295282.xyz"
       ],
@@ -11007,7 +10992,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -11065,6 +11049,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -11432,6 +11417,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -11698,6 +11684,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "u3c3.com",
@@ -12114,6 +12101,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -12397,6 +12385,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -12474,6 +12463,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -12586,6 +12576,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -12659,7 +12650,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -12738,6 +12728,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -12865,6 +12856,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -12980,6 +12972,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "seju.life",
         "ypb.295282.xyz"
@@ -13015,6 +13008,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "u3c3.com",
@@ -13071,6 +13065,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -13119,6 +13114,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13209,6 +13205,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -13270,6 +13267,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13299,6 +13297,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
@@ -13334,6 +13333,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "seju.life",
@@ -13394,6 +13394,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -13412,6 +13413,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13428,6 +13430,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13481,6 +13484,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "u3c3.com",
@@ -13498,6 +13502,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13562,6 +13567,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -13598,6 +13604,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13645,6 +13652,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13660,6 +13668,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -13698,6 +13707,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13727,6 +13737,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13756,6 +13767,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "ypb.295282.xyz"
@@ -13843,6 +13855,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -13857,6 +13870,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -13875,6 +13889,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13889,6 +13904,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -13903,6 +13919,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -13919,6 +13936,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13935,6 +13953,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -13953,6 +13972,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -13984,6 +14004,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -13999,6 +14020,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -14035,6 +14057,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14051,6 +14074,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14066,6 +14090,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14093,6 +14118,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14151,6 +14177,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "u3c3.com",
@@ -14167,6 +14194,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -14185,6 +14213,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14227,6 +14256,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "u3c3.com",
@@ -14242,6 +14272,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14256,6 +14287,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14271,6 +14303,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14285,6 +14318,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -14302,6 +14336,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14348,6 +14383,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14363,6 +14399,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "u3c3.com",
@@ -14430,6 +14467,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14474,6 +14512,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "ypb.295282.xyz"
       ],
       "last_verified": 1794872532.6318197
@@ -14500,6 +14539,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14515,6 +14555,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14530,6 +14571,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14543,6 +14585,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14558,6 +14601,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14571,6 +14615,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14585,6 +14630,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14599,6 +14645,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14612,6 +14659,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14627,6 +14675,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14641,6 +14690,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14655,6 +14705,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14670,6 +14721,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14685,6 +14737,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14699,6 +14752,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14713,6 +14767,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14727,6 +14782,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14742,6 +14798,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -14760,6 +14817,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14787,10 +14845,24 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
       "last_verified": 1794872533.1522322
+    },
+    {
+      "protocol": "https",
+      "address": "3.71.187.28:443",
+      "proxy_url": "https://3.71.187.28:443",
+      "latency_ms": 500.0,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "j4f4.com",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1794872533.1585355
     },
     {
       "protocol": "https",
@@ -14801,6 +14873,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14815,6 +14888,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14829,6 +14903,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -14858,6 +14933,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14892,6 +14968,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14908,6 +14985,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14923,6 +15001,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -14938,6 +15017,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14951,6 +15031,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -14964,6 +15045,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -14993,6 +15075,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "ypb.295282.xyz"
       ],
       "last_verified": 1794872533.4197452
@@ -15005,6 +15088,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15036,6 +15120,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15068,6 +15153,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15083,6 +15169,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15096,6 +15183,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15109,6 +15197,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -15123,6 +15212,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15136,6 +15226,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15150,6 +15241,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -15165,6 +15257,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15179,6 +15272,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15207,6 +15301,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15234,6 +15329,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15291,6 +15387,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15305,6 +15402,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15318,6 +15416,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15332,6 +15431,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15347,6 +15447,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -15361,6 +15462,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15375,6 +15477,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15388,6 +15491,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15401,6 +15505,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15415,6 +15520,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15455,6 +15561,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15469,6 +15576,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15483,6 +15591,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15498,6 +15607,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15524,6 +15634,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15537,6 +15648,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15550,6 +15662,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15564,6 +15677,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15590,6 +15704,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15604,6 +15719,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -15633,6 +15749,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -15663,6 +15780,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15676,6 +15794,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15691,6 +15810,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -15705,6 +15825,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15731,6 +15852,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15745,6 +15867,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15785,6 +15908,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15798,6 +15922,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "pms.532862.xyz",
         "ypb.295282.xyz"
       ],
@@ -15812,6 +15937,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
@@ -15864,6 +15990,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -15879,6 +16006,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15894,6 +16022,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15908,6 +16037,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15922,6 +16052,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -15949,6 +16080,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "ypb.295282.xyz"
       ],
       "last_verified": 1794872535.785729
@@ -15962,6 +16094,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com",
         "ypb.295282.xyz"
@@ -16063,10 +16196,24 @@
       "score": 1,
       "source": "speedx_socks5",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
       "last_verified": 1794872555.4590225
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.81.204.137:9459",
+      "proxy_url": "socks5://98.81.204.137:9459",
+      "latency_ms": 500.0,
+      "score": 1,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "j4f4.com",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1794872556.700699
     },
     {
       "protocol": "socks5",
@@ -16106,6 +16253,7 @@
       "score": 1,
       "source": "speedx_socks5",
       "valid_targets": [
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -16113,6 +16261,19 @@
         "ypb.295282.xyz"
       ],
       "last_verified": 1794872560.7297165
+    },
+    {
+      "protocol": "socks5",
+      "address": "34.229.190.39:4091",
+      "proxy_url": "socks5://34.229.190.39:4091",
+      "latency_ms": 500.0,
+      "score": 1,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "j4f4.com",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1794872560.9228954
     },
     {
       "protocol": "socks5",
@@ -16130,6 +16291,19 @@
         "ypb.295282.xyz"
       ],
       "last_verified": 1794872561.3607745
+    },
+    {
+      "protocol": "socks5",
+      "address": "16.28.32.67:9123",
+      "proxy_url": "socks5://16.28.32.67:9123",
+      "latency_ms": 500.0,
+      "score": 1,
+      "source": "speedx_socks5",
+      "valid_targets": [
+        "j4f4.com",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1794872561.580158
     },
     {
       "protocol": "socks5",
@@ -16180,6 +16354,7 @@
       "score": 1,
       "source": "speedx_socks5",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -16248,6 +16423,7 @@
       "score": 1,
       "source": "speedx_socks5",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
@@ -16334,11 +16510,25 @@
       "source": "komutan_socks5",
       "valid_targets": [
         "dtbt7.com",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "ypb.295282.xyz"
       ],
       "last_verified": 1794872584.5829678
+    },
+    {
+      "protocol": "socks5",
+      "address": "35.183.29.62:48156",
+      "proxy_url": "socks5://35.183.29.62:48156",
+      "latency_ms": 500.0,
+      "score": 1,
+      "source": "komutan_socks5",
+      "valid_targets": [
+        "j4f4.com",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1794872585.7374434
     },
     {
       "protocol": "socks5",
@@ -16752,7 +16942,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -16847,7 +17036,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "ypb.295282.xyz"
@@ -16864,7 +17052,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -17201,7 +17388,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -17409,6 +17595,19 @@
         "ypb.295282.xyz"
       ],
       "last_verified": 1794873595.6922836
+    },
+    {
+      "protocol": "socks5",
+      "address": "18.163.182.106:55345",
+      "proxy_url": "socks5://18.163.182.106:55345",
+      "latency_ms": 500.0,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "j4f4.com",
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1794873595.7322662
     },
     {
       "protocol": "socks5",
@@ -17972,7 +18171,6 @@
       "score": 1,
       "source": "gfpcom_socks5",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "thbt8.com",
@@ -17989,7 +18187,6 @@
       "source": "gfpcom_socks5",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "taosebt.com",
@@ -18007,7 +18204,6 @@
       "source": "gfpcom_socks5",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "taosebt.com",
@@ -18052,7 +18248,6 @@
       "score": 1,
       "source": "gfpcom_socks5",
       "valid_targets": [
-        "j4f4.com",
         "mfgc3.com",
         "taosebt.com",
         "thbt8.com",
@@ -18070,7 +18265,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "mfgc3.com",
         "seju.life",
         "thbt8.com",
@@ -18088,7 +18282,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "thbt8.com",
@@ -19182,7 +19375,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "taosebt.com",
         "u3c3.com",
         "www.xxread.net"
@@ -19303,7 +19495,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "www.alicesw.com",
@@ -19313,26 +19504,12 @@
     },
     {
       "protocol": "https",
-      "address": "173.249.37.45:5006",
-      "proxy_url": "https://173.249.37.45:5006",
-      "latency_ms": 500.0,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "j4f4.com",
-        "www.xxread.net"
-      ],
-      "last_verified": 1787404278.3943288
-    },
-    {
-      "protocol": "https",
       "address": "134.209.15.92:443",
       "proxy_url": "https://134.209.15.92:443",
       "latency_ms": 500.0,
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "u3c3.com",
@@ -19370,7 +19547,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "u3c3.com",
@@ -19587,8 +19763,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
-        "jpbt3.com",
         "pms.532862.xyz",
         "taosebt.com",
         "thbt8.com",
@@ -19640,7 +19814,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -19710,7 +19883,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "seju.life",
         "u3c3.com",
@@ -19826,7 +19998,6 @@
       "valid_targets": [
         "dtbt7.com",
         "j4f4.com",
-        "jpbt3.com",
         "pms.532862.xyz",
         "taosebt.com",
         "thbt8.com",
@@ -19930,7 +20101,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "taosebt.com",
         "u3c3.com",
         "www.xxread.net"
@@ -20044,7 +20214,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "u3c3.com",
@@ -20075,7 +20244,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "mfgc3.com",
         "taosebt.com",
         "u3c3.com",
@@ -20092,7 +20260,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
@@ -20129,7 +20296,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "taosebt.com",
         "u3c3.com",
         "www.xxread.net"
@@ -20210,7 +20376,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "pms.532862.xyz",
         "seju.life",
         "u3c3.com",
@@ -20259,7 +20424,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -20456,7 +20620,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "taosebt.com",
         "u3c3.com",
         "www.xxread.net"
@@ -20546,7 +20709,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "taosebt.com",
         "u3c3.com",
         "www.xxread.net"
@@ -20671,7 +20833,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "u3c3.com",
@@ -20687,7 +20848,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "seju.life",
         "taosebt.com",
@@ -20704,7 +20864,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "u3c3.com",
@@ -20720,7 +20879,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "u3c3.com",
         "www.xxread.net"
@@ -20838,7 +20996,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
@@ -20855,7 +21012,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -20884,7 +21040,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "u3c3.com",
         "www.xxread.net"
       ],
@@ -20917,7 +21072,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -20952,7 +21106,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -20969,7 +21122,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -20987,7 +21139,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "pms.532862.xyz",
         "thbt8.com",
         "u3c3.com",
@@ -21019,7 +21170,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "u3c3.com",
         "www.xxread.net"
@@ -21035,7 +21185,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -21091,7 +21240,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "taosebt.com",
         "u3c3.com",
         "www.xxread.net"
@@ -21185,7 +21333,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "u3c3.com",
         "www.xxread.net"
@@ -21218,7 +21365,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -21236,7 +21382,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "u3c3.com",
         "www.xxread.net"
       ],
@@ -21320,6 +21465,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "u3c3.com",
         "www.xxread.net"
       ],
@@ -21333,7 +21479,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "www.xxread.net"
@@ -21413,7 +21558,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "u3c3.com",
         "www.xxread.net"
       ],
@@ -21440,6 +21584,7 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
+        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "thbt8.com",
@@ -21485,7 +21630,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "www.xxread.net"
       ],
@@ -21499,7 +21643,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "u3c3.com",
@@ -21515,7 +21658,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "u3c3.com",
         "www.xxread.net"
       ],
@@ -21530,7 +21672,6 @@
       "source": "zloi_https",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "u3c3.com",
@@ -21546,7 +21687,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -21579,7 +21719,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "www.xxread.net"
       ],
@@ -21643,7 +21782,6 @@
       "score": 1,
       "source": "zloi_https",
       "valid_targets": [
-        "j4f4.com",
         "pms.532862.xyz",
         "u3c3.com",
         "www.xxread.net"
@@ -21691,6 +21829,7 @@
       "source": "zloi_https",
       "valid_targets": [
         "dtbt7.com",
+        "j4f4.com",
         "jpbt3.com",
         "taosebt.com",
         "u3c3.com",
@@ -21708,6 +21847,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -21796,7 +21936,6 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
         "thbt8.com",
         "u3c3.com"
       ],
@@ -21824,8 +21963,6 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
         "thbt8.com",
         "u3c3.com"
       ],
@@ -21841,7 +21978,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "pms.532862.xyz",
         "taosebt.com",
         "thbt8.com"
@@ -21857,6 +21993,7 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
+        "j4f4.com",
         "thbt8.com"
       ],
       "last_verified": 0.0
@@ -21897,7 +22034,6 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -22134,7 +22270,6 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -22151,7 +22286,6 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "taosebt.com",
@@ -22199,7 +22333,6 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -22243,6 +22376,7 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "thbt8.com"
       ],
       "last_verified": 0.0
@@ -22256,7 +22390,6 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "mfgc3.com",
         "taosebt.com",
         "thbt8.com"
@@ -22323,6 +22456,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com"
       ],
@@ -22381,6 +22515,7 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com"
       ],
@@ -22409,6 +22544,7 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "j4f4.com",
         "thbt8.com"
       ],
       "last_verified": 0.0
@@ -22423,6 +22559,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -22440,7 +22577,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -22485,7 +22621,6 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -22532,7 +22667,6 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "pms.532862.xyz",
         "thbt8.com",
@@ -22650,7 +22784,6 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "pms.532862.xyz",
         "seju.life",
         "taosebt.com",
@@ -22800,6 +22933,7 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com"
       ],
@@ -22862,6 +22996,7 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com"
       ],
@@ -22986,6 +23121,7 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "thbt8.com"
       ],
       "last_verified": 0.0
@@ -23047,6 +23183,7 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "j4f4.com",
         "thbt8.com"
       ],
       "last_verified": 0.0
@@ -23489,6 +23626,7 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "j4f4.com",
         "mfgc3.com",
         "thbt8.com"
       ],
@@ -23794,6 +23932,7 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
+        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
@@ -24224,6 +24363,7 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
+        "j4f4.com",
         "jpbt3.com",
         "thbt8.com"
       ],
@@ -24954,7 +25094,6 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
         "thbt8.com"
       ],
       "last_verified": 0.0
@@ -24982,7 +25121,6 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "thbt8.com"
       ],
       "last_verified": 0.0
@@ -25505,7 +25643,6 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "thbt8.com"
       ],
       "last_verified": 0.0
@@ -25530,7 +25667,6 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "thbt8.com"
@@ -26087,7 +26223,6 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
         "mfgc3.com",
         "thbt8.com"
       ],
@@ -26103,7 +26238,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "seju.life",
         "thbt8.com"
@@ -26120,7 +26254,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "thbt8.com"
       ],
       "last_verified": 0.0
@@ -26134,7 +26267,6 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "pms.532862.xyz",
         "seju.life",
         "thbt8.com"
@@ -26150,7 +26282,6 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
-        "j4f4.com",
         "jpbt3.com",
         "mfgc3.com",
         "seju.life",
@@ -26695,7 +26826,6 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
         "jpbt3.com",
         "seju.life",
         "taosebt.com",
@@ -26824,7 +26954,6 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "taosebt.com",
         "thbt8.com"
@@ -26962,7 +27091,6 @@
       "valid_targets": [
         "dtbt7.com",
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "seju.life",
         "taosebt.com",
@@ -27051,7 +27179,6 @@
       "source": "",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
         "jpbt3.com",
         "thbt8.com"
       ],
@@ -28781,8 +28908,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "67.207.92.87:1088",
-      "proxy_url": "socks5://67.207.92.87:1088",
+      "address": "72.205.0.67:4145",
+      "proxy_url": "socks5://72.205.0.67:4145",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -28794,161 +28921,15 @@
       "last_verified": 0.0
     },
     {
-      "protocol": "socks4",
-      "address": "184.178.172.3:4145",
-      "proxy_url": "socks4://184.178.172.3:4145",
+      "protocol": "socks5",
+      "address": "70.166.65.160:4145",
+      "proxy_url": "socks5://70.166.65.160:4145",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks4",
-      "address": "68.1.210.189:4145",
-      "proxy_url": "socks4://68.1.210.189:4145",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.178.172.5:15303",
-      "proxy_url": "socks4://184.178.172.5:15303",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.178.172.18:15280",
-      "proxy_url": "socks4://184.178.172.18:15280",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks4",
-      "address": "98.181.137.83:4145",
-      "proxy_url": "socks4://98.181.137.83:4145",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "seju.life",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks4",
-      "address": "24.249.199.4:4145",
-      "proxy_url": "socks4://24.249.199.4:4145",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks4",
-      "address": "174.77.111.197:4145",
-      "proxy_url": "socks4://174.77.111.197:4145",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks4",
-      "address": "184.178.172.17:4145",
-      "proxy_url": "socks4://184.178.172.17:4145",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks4",
-      "address": "98.170.57.249:4145",
-      "proxy_url": "socks4://98.170.57.249:4145",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
         "j4f4.com",
         "mfgc3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "184.178.172.5:15303",
-      "proxy_url": "socks5://184.178.172.5:15303",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.206.74.126:4145",
-      "proxy_url": "socks5://72.206.74.126:4145",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "72.195.114.169:4145",
-      "proxy_url": "socks5://72.195.114.169:4145",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "u3c3.com"
       ],
       "last_verified": 0.0
     },
@@ -28966,51 +28947,70 @@
     },
     {
       "protocol": "socks5",
-      "address": "184.178.172.23:4145",
-      "proxy_url": "socks5://184.178.172.23:4145",
+      "address": "172.81.111.156:10001",
+      "proxy_url": "socks5://172.81.111.156:10001",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com"
+        "gcbt.net",
+        "j4f4.com",
+        "seju.life"
       ],
       "last_verified": 0.0
     },
     {
-      "protocol": "socks4",
-      "address": "72.214.108.67:4145",
-      "proxy_url": "socks4://72.214.108.67:4145",
+      "protocol": "socks5",
+      "address": "98.191.0.37:4145",
+      "proxy_url": "socks5://98.191.0.37:4145",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
         "j4f4.com",
+        "mfgc3.com",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "98.188.47.150:4145",
+      "proxy_url": "socks5://98.188.47.150:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com",
+        "jpbt3.com",
         "u3c3.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "socks4",
-      "address": "184.178.172.28:15294",
-      "proxy_url": "socks4://184.178.172.28:15294",
+      "address": "184.178.172.25:15291",
+      "proxy_url": "socks4://184.178.172.25:15291",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "dtbt7.com",
+        "gcbt.net",
         "j4f4.com",
         "jpbt3.com"
       ],
       "last_verified": 0.0
     },
     {
-      "protocol": "https",
-      "address": "66.64.100.66:443",
-      "proxy_url": "https://66.64.100.66:443",
+      "protocol": "socks5",
+      "address": "184.178.172.26:4145",
+      "proxy_url": "socks5://184.178.172.26:4145",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "gcbt.net",
+        "dtbt7.com",
         "j4f4.com",
         "taosebt.com"
       ],
@@ -29018,8 +29018,21 @@
     },
     {
       "protocol": "https",
-      "address": "74.80.181.146:443",
-      "proxy_url": "https://74.80.181.146:443",
+      "address": "159.195.110.240:8080",
+      "proxy_url": "https://159.195.110.240:8080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com",
+        "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "217.142.139.207:8085",
+      "proxy_url": "https://217.142.139.207:8085",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -29045,94 +29058,13 @@
     },
     {
       "protocol": "https",
-      "address": "74.80.181.146:9443",
-      "proxy_url": "https://74.80.181.146:9443",
+      "address": "185.96.121.243:9443",
+      "proxy_url": "https://185.96.121.243:9443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
         "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "82.64.46.151:443",
-      "proxy_url": "https://82.64.46.151:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "12.221.146.147:9443",
-      "proxy_url": "https://12.221.146.147:9443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "185.68.28.79:443",
-      "proxy_url": "https://185.68.28.79:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "82.64.46.151:8013",
-      "proxy_url": "https://82.64.46.151:8013",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
-        "j4f4.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "152.233.20.206:443",
-      "proxy_url": "https://152.233.20.206:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "74.103.66.15:443",
-      "proxy_url": "https://74.103.66.15:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com"
       ],
       "last_verified": 0.0
     },
@@ -29152,8 +29084,8 @@
     },
     {
       "protocol": "https",
-      "address": "150.136.153.231:443",
-      "proxy_url": "https://150.136.153.231:443",
+      "address": "38.165.233.178:443",
+      "proxy_url": "https://38.165.233.178:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -29164,61 +29096,8 @@
     },
     {
       "protocol": "https",
-      "address": "135.136.3.34:9443",
-      "proxy_url": "https://135.136.3.34:9443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "141.148.181.144:443",
-      "proxy_url": "https://141.148.181.144:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "taosebt.com",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "135.136.5.34:9443",
-      "proxy_url": "https://135.136.5.34:9443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "149.102.227.77:9443",
-      "proxy_url": "https://149.102.227.77:9443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "135.136.5.2:9443",
-      "proxy_url": "https://135.136.5.2:9443",
+      "address": "38.165.233.178:9443",
+      "proxy_url": "https://38.165.233.178:9443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -29243,116 +29122,8 @@
     },
     {
       "protocol": "https",
-      "address": "205.178.137.53:8447",
-      "proxy_url": "https://205.178.137.53:8447",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "103.108.95.226:9443",
-      "proxy_url": "https://103.108.95.226:9443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "148.135.10.80:443",
-      "proxy_url": "https://148.135.10.80:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "taosebt.com",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "204.48.31.203:443",
-      "proxy_url": "https://204.48.31.203:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "44.243.87.160:8443",
-      "proxy_url": "https://44.243.87.160:8443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "35.84.133.236:8443",
-      "proxy_url": "https://35.84.133.236:8443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "4.172.245.121:443",
-      "proxy_url": "https://4.172.245.121:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "152.233.20.206:9443",
-      "proxy_url": "https://152.233.20.206:9443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "140.238.50.134:1234",
-      "proxy_url": "https://140.238.50.134:1234",
+      "address": "38.55.192.122:443",
+      "proxy_url": "https://38.55.192.122:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -29360,7 +29131,7 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
-        "mfgc3.com",
+        "jpbt3.com",
         "pms.532862.xyz",
         "u3c3.com"
       ],
@@ -29368,8 +29139,50 @@
     },
     {
       "protocol": "https",
-      "address": "141.164.39.178:443",
-      "proxy_url": "https://141.164.39.178:443",
+      "address": "205.178.186.23:8447",
+      "proxy_url": "https://205.178.186.23:8447",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "205.178.186.84:8447",
+      "proxy_url": "https://205.178.186.84:8447",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "134.1.7.9:443",
+      "proxy_url": "https://134.1.7.9:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "gcbt.net",
+        "j4f4.com",
+        "pms.532862.xyz",
+        "seju.life",
+        "taosebt.com",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "150.136.227.155:443",
+      "proxy_url": "https://150.136.227.155:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -29398,130 +29211,8 @@
     },
     {
       "protocol": "https",
-      "address": "45.91.210.78:1443",
-      "proxy_url": "https://45.91.210.78:1443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "taosebt.com",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "185.96.121.243:9443",
-      "proxy_url": "https://185.96.121.243:9443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "83.103.36.213:443",
-      "proxy_url": "https://83.103.36.213:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "seju.life"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "156.239.241.122:443",
-      "proxy_url": "https://156.239.241.122:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "gcbt.net",
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "taosebt.com",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "156.239.241.124:443",
-      "proxy_url": "https://156.239.241.124:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "gcbt.net",
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "45.154.87.153:1443",
-      "proxy_url": "https://45.154.87.153:1443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "gcbt.net",
-        "j4f4.com",
-        "jpbt3.com",
-        "mfgc3.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "24.121.152.67:443",
-      "proxy_url": "https://24.121.152.67:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "13.58.249.234:443",
-      "proxy_url": "https://13.58.249.234:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "114.33.6.158:443",
-      "proxy_url": "https://114.33.6.158:443",
+      "address": "140.238.50.134:1234",
+      "proxy_url": "https://140.238.50.134:1234",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -29537,64 +29228,25 @@
     },
     {
       "protocol": "https",
-      "address": "136.0.116.161:443",
-      "proxy_url": "https://136.0.116.161:443",
+      "address": "200.133.218.122:443",
+      "proxy_url": "https://200.133.218.122:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "taosebt.com",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "150.95.26.146:7081",
-      "proxy_url": "https://150.95.26.146:7081",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "185.164.138.162:443",
-      "proxy_url": "https://185.164.138.162:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "217.210.129.243:443",
-      "proxy_url": "https://217.210.129.243:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
+        "gcbt.net",
         "j4f4.com",
         "jpbt3.com",
+        "mfgc3.com",
         "pms.532862.xyz",
-        "seju.life",
         "u3c3.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "https",
-      "address": "185.164.138.162:9443",
-      "proxy_url": "https://185.164.138.162:9443",
+      "address": "91.221.229.86:443",
+      "proxy_url": "https://91.221.229.86:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -29639,33 +29291,6 @@
     },
     {
       "protocol": "https",
-      "address": "185.164.138.156:9443",
-      "proxy_url": "https://185.164.138.156:9443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "mfgc3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "124.156.223.252:4433",
-      "proxy_url": "https://124.156.223.252:4433",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
       "address": "193.87.1.47:443",
       "proxy_url": "https://193.87.1.47:443",
       "latency_ms": 500.0,
@@ -29684,33 +29309,17 @@
     },
     {
       "protocol": "https",
-      "address": "200.133.218.122:443",
-      "proxy_url": "https://200.133.218.122:443",
+      "address": "114.33.6.158:443",
+      "proxy_url": "https://114.33.6.158:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
-        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "51.161.152.170:443",
-      "proxy_url": "https://51.161.152.170:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "taosebt.com",
         "u3c3.com"
       ],
       "last_verified": 0.0
@@ -29735,14 +29344,16 @@
     },
     {
       "protocol": "https",
-      "address": "103.86.117.202:443",
-      "proxy_url": "https://103.86.117.202:443",
+      "address": "45.154.87.153:1443",
+      "proxy_url": "https://45.154.87.153:1443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
         "mfgc3.com",
         "pms.532862.xyz",
         "seju.life",
@@ -29752,30 +29363,14 @@
     },
     {
       "protocol": "https",
-      "address": "154.41.135.251:8443",
-      "proxy_url": "https://154.41.135.251:8443",
+      "address": "83.103.36.213:443",
+      "proxy_url": "https://83.103.36.213:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
         "j4f4.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "185.93.106.214:443",
-      "proxy_url": "https://185.93.106.214:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "taosebt.com",
-        "u3c3.com"
+        "seju.life"
       ],
       "last_verified": 0.0
     },
@@ -29798,100 +29393,30 @@
     },
     {
       "protocol": "https",
-      "address": "91.146.45.78:443",
-      "proxy_url": "https://91.146.45.78:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "38.55.192.122:443",
-      "proxy_url": "https://38.55.192.122:443",
+      "address": "150.95.26.146:7081",
+      "proxy_url": "https://150.95.26.146:7081",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
         "dtbt7.com",
-        "gcbt.net",
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "103.235.67.190:443",
-      "proxy_url": "https://103.235.67.190:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
         "j4f4.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "https",
-      "address": "118.184.157.67:4443",
-      "proxy_url": "https://118.184.157.67:4443",
+      "address": "103.86.117.202:443",
+      "proxy_url": "https://103.86.117.202:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "154.26.139.29:443",
-      "proxy_url": "https://154.26.139.29:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
         "mfgc3.com",
         "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "195.54.178.210:443",
-      "proxy_url": "https://195.54.178.210:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "103.127.242.229:7000",
-      "proxy_url": "https://103.127.242.229:7000",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
+        "seju.life",
         "u3c3.com"
       ],
       "last_verified": 0.0
@@ -29932,13 +29457,16 @@
     },
     {
       "protocol": "https",
-      "address": "13.42.36.101:443",
-      "proxy_url": "https://13.42.36.101:443",
+      "address": "85.209.157.181:8443",
+      "proxy_url": "https://85.209.157.181:8443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "gcbt.net",
         "j4f4.com",
+        "jpbt3.com",
+        "pms.532862.xyz",
         "u3c3.com"
       ],
       "last_verified": 0.0
@@ -29959,15 +29487,213 @@
     },
     {
       "protocol": "https",
-      "address": "120.232.204.58:40583",
-      "proxy_url": "https://120.232.204.58:40583",
+      "address": "84.237.50.68:444",
+      "proxy_url": "https://84.237.50.68:444",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "j4f4.com",
+        "pms.532862.xyz",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "154.26.139.29:443",
+      "proxy_url": "https://154.26.139.29:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "gcbt.net",
+        "j4f4.com",
+        "mfgc3.com",
+        "pms.532862.xyz",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "154.72.198.149:443",
+      "proxy_url": "https://154.72.198.149:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "j4f4.com",
+        "mfgc3.com",
+        "pms.532862.xyz",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "154.44.10.16:9443",
+      "proxy_url": "https://154.44.10.16:9443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "41.77.155.164:443",
+      "proxy_url": "https://41.77.155.164:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "j4f4.com",
+        "mfgc3.com",
+        "pms.532862.xyz",
+        "taosebt.com",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "193.176.84.9:9002",
+      "proxy_url": "https://193.176.84.9:9002",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "j4f4.com",
+        "mfgc3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "4.188.2.252:443",
+      "proxy_url": "https://4.188.2.252:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
         "j4f4.com",
-        "taosebt.com",
+        "jpbt3.com",
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.61.188.134:44499",
+      "proxy_url": "socks5://45.61.188.134:44499",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "j4f4.com",
+        "jpbt3.com",
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "131.154.10.44:443",
+      "proxy_url": "https://131.154.10.44:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "j4f4.com",
+        "mfgc3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "13.36.173.200:443",
+      "proxy_url": "https://13.36.173.200:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com",
+        "mfgc3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "45.220.173.35:443",
+      "proxy_url": "https://45.220.173.35:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "j4f4.com",
+        "jpbt3.com",
+        "mfgc3.com",
+        "pms.532862.xyz",
         "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "15.188.143.135:443",
+      "proxy_url": "https://15.188.143.135:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "154.44.18.166:8443",
+      "proxy_url": "https://154.44.18.166:8443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "3.70.238.102:443",
+      "proxy_url": "https://3.70.238.102:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "15.188.75.88:443",
+      "proxy_url": "https://15.188.75.88:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
       ],
       "last_verified": 0.0
     },
@@ -29987,8 +29713,104 @@
     },
     {
       "protocol": "https",
-      "address": "164.92.161.42:443",
-      "proxy_url": "https://164.92.161.42:443",
+      "address": "31.77.174.111:443",
+      "proxy_url": "https://31.77.174.111:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "88.198.122.50:8443",
+      "proxy_url": "https://88.198.122.50:8443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "52.47.148.236:443",
+      "proxy_url": "https://52.47.148.236:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "63.180.219.205:443",
+      "proxy_url": "https://63.180.219.205:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "63.180.251.255:443",
+      "proxy_url": "https://63.180.251.255:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "18.194.137.40:443",
+      "proxy_url": "https://18.194.137.40:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "63.180.250.201:443",
+      "proxy_url": "https://63.180.250.201:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "52.47.87.13:443",
+      "proxy_url": "https://52.47.87.13:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "120.232.204.58:39010",
+      "proxy_url": "https://120.232.204.58:39010",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -29996,15 +29818,14 @@
         "dtbt7.com",
         "j4f4.com",
         "jpbt3.com",
-        "pms.532862.xyz",
-        "u3c3.com"
+        "mfgc3.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "https",
-      "address": "91.221.229.86:443",
-      "proxy_url": "https://91.221.229.86:443",
+      "address": "144.126.241.24:443",
+      "proxy_url": "https://144.126.241.24:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30015,93 +29836,131 @@
     },
     {
       "protocol": "https",
-      "address": "87.199.198.178:443",
-      "proxy_url": "https://87.199.198.178:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "221.120.177.43:443",
-      "proxy_url": "https://221.120.177.43:443",
+      "address": "107.91.88.249:8443",
+      "proxy_url": "https://107.91.88.249:8443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
         "gcbt.net",
         "j4f4.com",
-        "pms.532862.xyz",
-        "u3c3.com"
+        "mfgc3.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "https",
-      "address": "185.68.191.63:443",
-      "proxy_url": "https://185.68.191.63:443",
+      "address": "206.188.212.210:8443",
+      "proxy_url": "https://206.188.212.210:8443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
-        "u3c3.com"
+        "j4f4.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "https",
-      "address": "84.237.50.68:8444",
-      "proxy_url": "https://84.237.50.68:8444",
+      "address": "69.161.222.130:8447",
+      "proxy_url": "https://69.161.222.130:8447",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "65.21.19.137:10818",
+      "proxy_url": "socks5://65.21.19.137:10818",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "51.17.99.116:40613",
+      "proxy_url": "https://51.17.99.116:40613",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "54.117.6.131:41029",
+      "proxy_url": "https://54.117.6.131:41029",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "69.161.222.75:8447",
+      "proxy_url": "https://69.161.222.75:8447",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "43.202.114.177:8550",
+      "proxy_url": "https://43.202.114.177:8550",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "5.78.181.0:9052",
+      "proxy_url": "socks5://5.78.181.0:9052",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "u3c3.com"
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.74.31.40:16828",
+      "proxy_url": "socks5://45.74.31.40:16828",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "https",
-      "address": "185.138.90.148:443",
-      "proxy_url": "https://185.138.90.148:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "84.237.50.68:444",
-      "proxy_url": "https://84.237.50.68:444",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
-        "j4f4.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "83.21",
-      "proxy_url": "https://83.21",
+      "address": "78.14.19.3:1975",
+      "proxy_url": "https://78.14.19.3:1975",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30112,23 +29971,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "13.126.183.60:54159",
-      "proxy_url": "socks5://13.126.183.60:54159",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "seju.life"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.126.183.60:8091",
-      "proxy_url": "socks5://13.126.183.60:8091",
+      "address": "95.216.45.44:10811",
+      "proxy_url": "socks5://95.216.45.44:10811",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30139,77 +29983,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "13.126.183.60:12047",
-      "proxy_url": "socks5://13.126.183.60:12047",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.126.183.60:18006",
-      "proxy_url": "socks5://13.126.183.60:18006",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
-        "seju.life",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.126.183.60:21",
-      "proxy_url": "socks5://13.126.183.60:21",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
-        "seju.life"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.126.183.60:8056",
-      "proxy_url": "socks5://13.126.183.60:8056",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.126.183.60:330",
-      "proxy_url": "socks5://13.126.183.60:330",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.208.246.143:20456",
-      "proxy_url": "socks5://13.208.246.143:20456",
+      "address": "45.74.31.42:4075",
+      "proxy_url": "socks5://45.74.31.42:4075",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30220,199 +29995,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "13.208.246.143:5199",
-      "proxy_url": "socks5://13.208.246.143:5199",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.126.183.60:13044",
-      "proxy_url": "socks5://13.126.183.60:13044",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "seju.life"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.245.161.189:57126",
-      "proxy_url": "socks5://13.245.161.189:57126",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.245.161.189:15480",
-      "proxy_url": "socks5://13.245.161.189:15480",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "mfgc3.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.245.161.189:309",
-      "proxy_url": "socks5://13.245.161.189:309",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.245.183.150:8015",
-      "proxy_url": "socks5://13.245.183.150:8015",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.245.183.150:33333",
-      "proxy_url": "socks5://13.245.183.150:33333",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "gcbt.net",
-        "j4f4.com",
-        "jpbt3.com",
-        "mfgc3.com",
-        "pms.532862.xyz",
-        "seju.life"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.38.27.183:5534",
-      "proxy_url": "socks5://13.38.27.183:5534",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.38.27.183:35577",
-      "proxy_url": "socks5://13.38.27.183:35577",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com",
-        "jpbt3.com",
-        "seju.life"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.38.27.183:8090",
-      "proxy_url": "socks5://13.38.27.183:8090",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.38.27.183:1090",
-      "proxy_url": "socks5://13.38.27.183:1090",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com",
-        "jpbt3.com",
-        "seju.life"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.38.27.183:50680",
-      "proxy_url": "socks5://13.38.27.183:50680",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "seju.life"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "13.38.27.183:33033",
-      "proxy_url": "socks5://13.38.27.183:33033",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "seju.life",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "143.198.239.45:10001",
-      "proxy_url": "socks5://143.198.239.45:10001",
+      "address": "5.75.133.113:10813",
+      "proxy_url": "socks5://5.75.133.113:10813",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30425,21 +30009,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "143.198.239.45:10029",
-      "proxy_url": "socks5://143.198.239.45:10029",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "143.198.239.45:10006",
-      "proxy_url": "socks5://143.198.239.45:10006",
+      "address": "217.171.94.166:1081",
+      "proxy_url": "socks5://217.171.94.166:1081",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30449,9 +30020,9 @@
       "last_verified": 0.0
     },
     {
-      "protocol": "socks5",
-      "address": "143.198.239.45:10034",
-      "proxy_url": "socks5://143.198.239.45:10034",
+      "protocol": "https",
+      "address": "34.220.80.147:8787",
+      "proxy_url": "https://34.220.80.147:8787",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30462,8 +30033,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "15.223.187.219:44505",
-      "proxy_url": "socks5://15.223.187.219:44505",
+      "address": "95.216.45.44:10158",
+      "proxy_url": "socks5://95.216.45.44:10158",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30474,8 +30045,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "15.223.187.219:26354",
-      "proxy_url": "socks5://15.223.187.219:26354",
+      "address": "45.74.31.47:5960",
+      "proxy_url": "socks5://45.74.31.47:5960",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30486,8 +30057,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "15.223.187.219:37101",
-      "proxy_url": "socks5://15.223.187.219:37101",
+      "address": "65.21.19.137:10906",
+      "proxy_url": "socks5://65.21.19.137:10906",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30498,8 +30069,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "15.223.187.219:24577",
-      "proxy_url": "socks5://15.223.187.219:24577",
+      "address": "45.74.31.41:7530",
+      "proxy_url": "socks5://45.74.31.41:7530",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30510,8 +30081,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "15.223.187.219:36421",
-      "proxy_url": "socks5://15.223.187.219:36421",
+      "address": "45.74.31.41:6546",
+      "proxy_url": "socks5://45.74.31.41:6546",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30522,8 +30093,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "16.174.124.173:10701",
-      "proxy_url": "socks5://16.174.124.173:10701",
+      "address": "45.74.31.41:7490",
+      "proxy_url": "socks5://45.74.31.41:7490",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30534,21 +30105,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "16.174.124.173:14227",
-      "proxy_url": "socks5://16.174.124.173:14227",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "pms.532862.xyz"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "16.174.124.173:14954",
-      "proxy_url": "socks5://16.174.124.173:14954",
+      "address": "45.74.31.47:26080",
+      "proxy_url": "socks5://45.74.31.47:26080",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30559,29 +30117,36 @@
     },
     {
       "protocol": "socks5",
-      "address": "16.52.81.236:22576",
-      "proxy_url": "socks5://16.52.81.236:22576",
+      "address": "45.74.31.42:9423",
+      "proxy_url": "socks5://45.74.31.42:9423",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "dtbt7.com",
-        "j4f4.com",
-        "mfgc3.com",
-        "pms.532862.xyz",
-        "seju.life"
+        "j4f4.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "socks5",
-      "address": "16.52.81.236:7531",
-      "proxy_url": "socks5://16.52.81.236:7531",
+      "address": "116.101.73.161:1090",
+      "proxy_url": "socks5://116.101.73.161:1090",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "dtbt7.com",
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "116.101.73.52:1090",
+      "proxy_url": "socks5://116.101.73.52:1090",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
         "j4f4.com",
         "mfgc3.com"
       ],
@@ -30589,23 +30154,105 @@
     },
     {
       "protocol": "socks5",
-      "address": "16.52.81.236:17897",
-      "proxy_url": "socks5://16.52.81.236:17897",
+      "address": "45.74.31.47:5915",
+      "proxy_url": "socks5://45.74.31.47:5915",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "seju.life"
+        "j4f4.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "socks5",
-      "address": "16.52.81.236:45573",
-      "proxy_url": "socks5://16.52.81.236:45573",
+      "address": "45.74.31.40:4144",
+      "proxy_url": "socks5://45.74.31.40:4144",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.74.31.47:4254",
+      "proxy_url": "socks5://45.74.31.47:4254",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.74.31.47:5950",
+      "proxy_url": "socks5://45.74.31.47:5950",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "49.87.152.169:8989",
+      "proxy_url": "socks5://49.87.152.169:8989",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "45.74.31.41:7372",
+      "proxy_url": "socks5://45.74.31.41:7372",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "65.21.19.137:10808",
+      "proxy_url": "socks5://65.21.19.137:10808",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "61.247.178.146:1080",
+      "proxy_url": "socks5://61.247.178.146:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "107.174.30.92:1080",
+      "proxy_url": "socks5://107.174.30.92:1080",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30613,14 +30260,16 @@
         "dtbt7.com",
         "gcbt.net",
         "j4f4.com",
-        "mfgc3.com"
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "u3c3.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "socks5",
-      "address": "16.26.208.68:46233",
-      "proxy_url": "socks5://16.26.208.68:46233",
+      "address": "103.13.19.219:10808",
+      "proxy_url": "socks5://103.13.19.219:10808",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30631,225 +30280,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "16.26.208.68:12345",
-      "proxy_url": "socks5://16.26.208.68:12345",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "16.174.124.173:2001",
-      "proxy_url": "socks5://16.174.124.173:2001",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "jpbt3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "167.99.3.26:5093",
-      "proxy_url": "socks5://167.99.3.26:5093",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "167.99.3.26:11146",
-      "proxy_url": "socks5://167.99.3.26:11146",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "167.99.3.26:11180",
-      "proxy_url": "socks5://167.99.3.26:11180",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "167.99.3.26:10111",
-      "proxy_url": "socks5://167.99.3.26:10111",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "171.245.71.217:1083",
-      "proxy_url": "socks5://171.245.71.217:1083",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "171.245.71.194:1083",
-      "proxy_url": "socks5://171.245.71.194:1083",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "171.245.71.236:1083",
-      "proxy_url": "socks5://171.245.71.236:1083",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "172.104.236.53:10808",
-      "proxy_url": "socks5://172.104.236.53:10808",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.163.182.106:46522",
-      "proxy_url": "socks5://18.163.182.106:46522",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.163.182.106:56398",
-      "proxy_url": "socks5://18.163.182.106:56398",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.163.182.106:24208",
-      "proxy_url": "socks5://18.163.182.106:24208",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.170.45.5:8447",
-      "proxy_url": "socks5://18.170.45.5:8447",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.166.56.240:28174",
-      "proxy_url": "socks5://18.166.56.240:28174",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.166.56.240:20925",
-      "proxy_url": "socks5://18.166.56.240:20925",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.166.56.240:6139",
-      "proxy_url": "socks5://18.166.56.240:6139",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.166.56.240:8842",
-      "proxy_url": "socks5://18.166.56.240:8842",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.188.168.99:17981",
-      "proxy_url": "socks5://18.188.168.99:17981",
+      "address": "92.5.68.29:1080",
+      "proxy_url": "socks5://92.5.68.29:1080",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30875,24 +30307,84 @@
     },
     {
       "protocol": "socks5",
-      "address": "18.188.168.99:1012",
-      "proxy_url": "socks5://18.188.168.99:1012",
+      "address": "152.69.202.88:1080",
+      "proxy_url": "socks5://152.69.202.88:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com",
+        "jpbt3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "160.30.204.24:50001",
+      "proxy_url": "socks5://160.30.204.24:50001",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "18.224.94.46:10366",
+      "proxy_url": "socks5://18.224.94.46:10366",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "31.58.144.19:1080",
+      "proxy_url": "socks5://31.58.144.19:1080",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
         "dtbt7.com",
+        "j4f4.com",
+        "pms.532862.xyz"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "3.26.199.107:42984",
+      "proxy_url": "socks5://3.26.199.107:42984",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "j4f4.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "91.143.161.163:1080",
+      "proxy_url": "socks5://91.143.161.163:1080",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
         "gcbt.net",
-        "j4f4.com",
-        "pms.532862.xyz",
-        "taosebt.com"
+        "j4f4.com"
       ],
       "last_verified": 0.0
     },
     {
       "protocol": "socks5",
-      "address": "18.228.228.159:6670",
-      "proxy_url": "socks5://18.228.228.159:6670",
+      "address": "51.17.99.135:35715",
+      "proxy_url": "socks5://51.17.99.135:35715",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -30903,360 +30395,8 @@
     },
     {
       "protocol": "socks5",
-      "address": "18.228.228.159:3829",
-      "proxy_url": "socks5://18.228.228.159:3829",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.228.228.159:8989",
-      "proxy_url": "socks5://18.228.228.159:8989",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.228.228.159:12267",
-      "proxy_url": "socks5://18.228.228.159:12267",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.228.228.159:37289",
-      "proxy_url": "socks5://18.228.228.159:37289",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.228.228.159:15988",
-      "proxy_url": "socks5://18.228.228.159:15988",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.228.228.159:10262",
-      "proxy_url": "socks5://18.228.228.159:10262",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.231.126.121:48465",
-      "proxy_url": "socks5://18.231.126.121:48465",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.231.126.121:7070",
-      "proxy_url": "socks5://18.231.126.121:7070",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.231.126.121:9332",
-      "proxy_url": "socks5://18.231.126.121:9332",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.231.126.121:8448",
-      "proxy_url": "socks5://18.231.126.121:8448",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.61.230.250:32960",
-      "proxy_url": "socks5://18.61.230.250:32960",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.61.230.250:33158",
-      "proxy_url": "socks5://18.61.230.250:33158",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.61.230.250:50334",
-      "proxy_url": "socks5://18.61.230.250:50334",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.61.230.250:9050",
-      "proxy_url": "socks5://18.61.230.250:9050",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "180.125.38.174:8989",
-      "proxy_url": "socks5://180.125.38.174:8989",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "217.25.228.102:9053",
-      "proxy_url": "socks5://217.25.228.102:9053",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "218.95.39.28:59999",
-      "proxy_url": "socks5://218.95.39.28:59999",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "218.95.39.54:59999",
-      "proxy_url": "socks5://218.95.39.54:59999",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "218.95.39.39:59999",
-      "proxy_url": "socks5://218.95.39.39:59999",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "218.95.39.42:59999",
-      "proxy_url": "socks5://218.95.39.42:59999",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "218.95.39.4:59999",
-      "proxy_url": "socks5://218.95.39.4:59999",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "218.95.39.60:59999",
-      "proxy_url": "socks5://218.95.39.60:59999",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "218.95.39.7:59999",
-      "proxy_url": "socks5://218.95.39.7:59999",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "221.225.48.84:8989",
-      "proxy_url": "socks5://221.225.48.84:8989",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "3.21.247.154:17006",
-      "proxy_url": "socks5://3.21.247.154:17006",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "3.231.160.150:10054",
-      "proxy_url": "socks5://3.231.160.150:10054",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "3.231.160.150:47569",
-      "proxy_url": "socks5://3.231.160.150:47569",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "3.231.160.150:7777",
-      "proxy_url": "socks5://3.231.160.150:7777",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "3.21.129.156:1111",
-      "proxy_url": "socks5://3.21.129.156:1111",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "j4f4.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "3.26.199.107:43612",
-      "proxy_url": "socks5://3.26.199.107:43612",
+      "address": "72.205.0.9312",
+      "proxy_url": "socks5://72.205.0.9312",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -33290,21 +32430,21 @@
     },
     {
       "protocol": "socks5",
-      "address": "172.81.111.156:10001",
-      "proxy_url": "socks5://172.81.111.156:10001",
+      "address": "98.188.47.132:4145",
+      "proxy_url": "socks5://98.188.47.132:4145",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "gcbt.net",
-        "seju.life"
+        "seju.life",
+        "u3c3.com"
       ],
       "last_verified": 0.0
     },
     {
-      "protocol": "socks5",
-      "address": "98.188.47.132:4145",
-      "proxy_url": "socks5://98.188.47.132:4145",
+      "protocol": "socks4",
+      "address": "98.181.137.83:4145",
+      "proxy_url": "socks4://98.181.137.83:4145",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -33329,13 +32469,16 @@
     },
     {
       "protocol": "https",
-      "address": "159.195.110.240:8080",
-      "proxy_url": "https://159.195.110.240:8080",
+      "address": "185.68.28.79:443",
+      "proxy_url": "https://185.68.28.79:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "seju.life"
+        "dtbt7.com",
+        "pms.532862.xyz",
+        "seju.life",
+        "u3c3.com"
       ],
       "last_verified": 0.0
     },
@@ -33353,14 +32496,27 @@
     },
     {
       "protocol": "https",
-      "address": "134.1.7.9:443",
-      "proxy_url": "https://134.1.7.9:443",
+      "address": "217.210.129.243:443",
+      "proxy_url": "https://217.210.129.243:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "dtbt7.com",
-        "gcbt.net",
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "seju.life",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "45.91.210.78:1443",
+      "proxy_url": "https://45.91.210.78:1443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
         "pms.532862.xyz",
         "seju.life",
         "taosebt.com",
@@ -33409,6 +32565,23 @@
     },
     {
       "protocol": "https",
+      "address": "156.239.241.124:443",
+      "proxy_url": "https://156.239.241.124:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "gcbt.net",
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "seju.life",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "69.161.223.152:8443",
       "proxy_url": "https://69.161.223.152:8443",
       "latency_ms": 500.0,
@@ -33416,6 +32589,24 @@
       "source": "",
       "valid_targets": [
         "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "156.239.241.122:443",
+      "proxy_url": "https://156.239.241.122:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "gcbt.net",
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "seju.life",
+        "taosebt.com",
+        "u3c3.com"
       ],
       "last_verified": 0.0
     },
@@ -36345,6 +35536,47 @@
     },
     {
       "protocol": "socks5",
+      "address": "13.126.183.60:13044",
+      "proxy_url": "socks5://13.126.183.60:13044",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.126.183.60:54159",
+      "proxy_url": "socks5://13.126.183.60:54159",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.126.183.60:21",
+      "proxy_url": "socks5://13.126.183.60:21",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com",
+        "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "13.126.183.60:12682",
       "proxy_url": "socks5://13.126.183.60:12682",
       "latency_ms": 500.0,
@@ -36364,6 +35596,20 @@
       "source": "",
       "valid_targets": [
         "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.126.183.60:18006",
+      "proxy_url": "socks5://13.126.183.60:18006",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com",
+        "seju.life",
+        "taosebt.com"
       ],
       "last_verified": 0.0
     },
@@ -36433,6 +35679,21 @@
     },
     {
       "protocol": "socks5",
+      "address": "13.245.161.189:15480",
+      "proxy_url": "socks5://13.245.161.189:15480",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "mfgc3.com",
+        "pms.532862.xyz",
+        "seju.life",
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "13.245.183.150:38423",
       "proxy_url": "socks5://13.245.183.150:38423",
       "latency_ms": 500.0,
@@ -36452,6 +35713,111 @@
       "source": "",
       "valid_targets": [
         "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.245.183.150:33333",
+      "proxy_url": "socks5://13.245.183.150:33333",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "gcbt.net",
+        "jpbt3.com",
+        "mfgc3.com",
+        "pms.532862.xyz",
+        "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.38.27.183:1090",
+      "proxy_url": "socks5://13.38.27.183:1090",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "jpbt3.com",
+        "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.38.27.183:5534",
+      "proxy_url": "socks5://13.38.27.183:5534",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "seju.life",
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.38.27.183:35577",
+      "proxy_url": "socks5://13.38.27.183:35577",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "jpbt3.com",
+        "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.38.27.183:50680",
+      "proxy_url": "socks5://13.38.27.183:50680",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.38.27.183:33033",
+      "proxy_url": "socks5://13.38.27.183:33033",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "seju.life",
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.38.27.183:8090",
+      "proxy_url": "socks5://13.38.27.183:8090",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "pms.532862.xyz",
+        "seju.life",
+        "taosebt.com"
       ],
       "last_verified": 0.0
     },
@@ -36617,6 +35983,35 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "16.52.81.236:22576",
+      "proxy_url": "socks5://16.52.81.236:22576",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "mfgc3.com",
+        "pms.532862.xyz",
+        "seju.life"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "16.52.81.236:17897",
+      "proxy_url": "socks5://16.52.81.236:17897",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com",
+        "pms.532862.xyz",
         "seju.life"
       ],
       "last_verified": 0.0
@@ -38898,14 +38293,14 @@
     },
     {
       "protocol": "socks5",
-      "address": "184.178.172.26:4145",
-      "proxy_url": "socks5://184.178.172.26:4145",
+      "address": "67.207.92.87:1088",
+      "proxy_url": "socks5://67.207.92.87:1088",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "dtbt7.com",
-        "taosebt.com"
+        "taosebt.com",
+        "u3c3.com"
       ],
       "last_verified": 0.0
     },
@@ -38925,15 +38320,13 @@
     },
     {
       "protocol": "socks5",
-      "address": "72.205.0.67:4145",
-      "proxy_url": "socks5://72.205.0.67:4145",
+      "address": "184.178.172.5:15303",
+      "proxy_url": "socks5://184.178.172.5:15303",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "jpbt3.com",
-        "taosebt.com",
-        "u3c3.com"
+        "taosebt.com"
       ],
       "last_verified": 0.0
     },
@@ -39061,6 +38454,19 @@
     },
     {
       "protocol": "https",
+      "address": "66.64.100.66:443",
+      "proxy_url": "https://66.64.100.66:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "79.188.239.47:8443",
       "proxy_url": "https://79.188.239.47:8443",
       "latency_ms": 500.0,
@@ -39080,6 +38486,22 @@
       "source": "",
       "valid_targets": [
         "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "141.148.181.144:443",
+      "proxy_url": "https://141.148.181.144:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "taosebt.com",
+        "u3c3.com"
       ],
       "last_verified": 0.0
     },
@@ -39171,6 +38593,36 @@
     },
     {
       "protocol": "https",
+      "address": "148.135.10.80:443",
+      "proxy_url": "https://148.135.10.80:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "taosebt.com",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "51.161.152.170:443",
+      "proxy_url": "https://51.161.152.170:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com",
+        "pms.532862.xyz",
+        "taosebt.com",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "107.175.24.166:8443",
       "proxy_url": "https://107.175.24.166:8443",
       "latency_ms": 500.0,
@@ -39189,6 +38641,31 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "24.121.152.67:443",
+      "proxy_url": "https://24.121.152.67:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "118.184.157.67:4443",
+      "proxy_url": "https://118.184.157.67:4443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
         "taosebt.com"
       ],
       "last_verified": 0.0
@@ -39214,6 +38691,33 @@
       "source": "",
       "valid_targets": [
         "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "136.0.116.161:443",
+      "proxy_url": "https://136.0.116.161:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "taosebt.com",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "120.232.204.58:40583",
+      "proxy_url": "https://120.232.204.58:40583",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "taosebt.com",
+        "u3c3.com"
       ],
       "last_verified": 0.0
     },
@@ -39255,19 +38759,6 @@
     },
     {
       "protocol": "https",
-      "address": "4.188.2.252:443",
-      "proxy_url": "https://4.188.2.252:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "jpbt3.com",
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
       "address": "13.36.243.62:443",
       "proxy_url": "https://13.36.243.62:443",
       "latency_ms": 500.0,
@@ -39275,6 +38766,20 @@
       "source": "",
       "valid_targets": [
         "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "185.93.106.214:443",
+      "proxy_url": "https://185.93.106.214:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "taosebt.com",
+        "u3c3.com"
       ],
       "last_verified": 0.0
     },
@@ -39491,22 +38996,6 @@
       "source": "",
       "valid_targets": [
         "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "41.77.155.164:443",
-      "proxy_url": "https://41.77.155.164:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
-        "mfgc3.com",
-        "pms.532862.xyz",
-        "taosebt.com",
-        "u3c3.com"
       ],
       "last_verified": 0.0
     },
@@ -40618,20 +40107,6 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "taosebt.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.61.188.134:44499",
-      "proxy_url": "socks5://45.61.188.134:44499",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "jpbt3.com",
         "taosebt.com"
       ],
       "last_verified": 0.0
@@ -41858,6 +41333,31 @@
     },
     {
       "protocol": "socks5",
+      "address": "13.126.183.60:330",
+      "proxy_url": "socks5://13.126.183.60:330",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "13.126.183.60:12047",
+      "proxy_url": "socks5://13.126.183.60:12047",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "13.126.183.60:59232",
       "proxy_url": "socks5://13.126.183.60:59232",
       "latency_ms": 500.0,
@@ -42912,6 +42412,21 @@
     },
     {
       "protocol": "socks5",
+      "address": "18.188.168.99:1012",
+      "proxy_url": "socks5://18.188.168.99:1012",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "gcbt.net",
+        "pms.532862.xyz",
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "18.188.168.99:3128",
       "proxy_url": "socks5://18.188.168.99:3128",
       "latency_ms": 500.0,
@@ -42960,6 +42475,18 @@
     },
     {
       "protocol": "socks5",
+      "address": "18.228.228.159:10262",
+      "proxy_url": "socks5://18.228.228.159:10262",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "18.228.228.159:24583",
       "proxy_url": "socks5://18.228.228.159:24583",
       "latency_ms": 500.0,
@@ -42984,6 +42511,18 @@
     },
     {
       "protocol": "socks5",
+      "address": "18.228.228.159:15988",
+      "proxy_url": "socks5://18.228.228.159:15988",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "18.230.23.72:58080",
       "proxy_url": "socks5://18.230.23.72:58080",
       "latency_ms": 500.0,
@@ -42998,6 +42537,18 @@
       "protocol": "socks5",
       "address": "18.228.228.159:33103",
       "proxy_url": "socks5://18.228.228.159:33103",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "18.228.228.159:12267",
+      "proxy_url": "socks5://18.228.228.159:12267",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -43060,6 +42611,18 @@
       "protocol": "socks5",
       "address": "219.128.23.206:10808",
       "proxy_url": "socks5://219.128.23.206:10808",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "taosebt.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "221.225.48.84:8989",
+      "proxy_url": "socks5://221.225.48.84:8989",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -44487,6 +44050,19 @@
       "last_verified": 0.0
     },
     {
+      "protocol": "socks4",
+      "address": "98.170.57.249:4145",
+      "proxy_url": "socks4://98.170.57.249:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "mfgc3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
       "protocol": "socks5",
       "address": "98.181.137.83:4145",
       "proxy_url": "socks5://98.181.137.83:4145",
@@ -44501,20 +44077,6 @@
       "last_verified": 0.0
     },
     {
-      "protocol": "socks4",
-      "address": "184.178.172.25:15291",
-      "proxy_url": "socks4://184.178.172.25:15291",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "gcbt.net",
-        "jpbt3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
       "protocol": "https",
       "address": "79.188.239.45:8443",
       "proxy_url": "https://79.188.239.45:8443",
@@ -44523,6 +44085,20 @@
       "source": "",
       "valid_targets": [
         "gcbt.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "82.64.46.151:8013",
+      "proxy_url": "https://82.64.46.151:8013",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "pms.532862.xyz",
+        "u3c3.com"
       ],
       "last_verified": 0.0
     },
@@ -44640,6 +44216,32 @@
     },
     {
       "protocol": "https",
+      "address": "204.48.31.203:443",
+      "proxy_url": "https://204.48.31.203:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "221.120.177.43:443",
+      "proxy_url": "https://221.120.177.43:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "gcbt.net",
+        "pms.532862.xyz",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "185.216.35.130:9443",
       "proxy_url": "https://185.216.35.130:9443",
       "latency_ms": 500.0,
@@ -44680,21 +44282,6 @@
     },
     {
       "protocol": "https",
-      "address": "85.209.157.181:8443",
-      "proxy_url": "https://85.209.157.181:8443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
       "address": "109.204.49.129:443",
       "proxy_url": "https://109.204.49.129:443",
       "latency_ms": 500.0,
@@ -44707,29 +44294,16 @@
     },
     {
       "protocol": "https",
-      "address": "154.72.198.149:443",
-      "proxy_url": "https://154.72.198.149:443",
+      "address": "84.237.50.68:8444",
+      "proxy_url": "https://84.237.50.68:8444",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
         "gcbt.net",
-        "mfgc3.com",
+        "jpbt3.com",
         "pms.532862.xyz",
         "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "193.176.84.9:9002",
-      "proxy_url": "https://193.176.84.9:9002",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
-        "mfgc3.com"
       ],
       "last_verified": 0.0
     },
@@ -44749,22 +44323,6 @@
     },
     {
       "protocol": "https",
-      "address": "45.220.173.35:443",
-      "proxy_url": "https://45.220.173.35:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
-        "jpbt3.com",
-        "mfgc3.com",
-        "pms.532862.xyz",
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
       "address": "147.45.79.33:8443",
       "proxy_url": "https://147.45.79.33:8443",
       "latency_ms": 500.0,
@@ -44772,19 +44330,6 @@
       "source": "",
       "valid_targets": [
         "gcbt.net"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "107.91.88.249:8443",
-      "proxy_url": "https://107.91.88.249:8443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
-        "mfgc3.com"
       ],
       "last_verified": 0.0
     },
@@ -44809,19 +44354,6 @@
       "source": "",
       "valid_targets": [
         "gcbt.net"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "131.154.10.44:443",
-      "proxy_url": "https://131.154.10.44:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net",
-        "mfgc3.com"
       ],
       "last_verified": 0.0
     },
@@ -45453,18 +44985,6 @@
     },
     {
       "protocol": "socks5",
-      "address": "5.78.181.0:9052",
-      "proxy_url": "socks5://5.78.181.0:9052",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
       "address": "45.74.31.47:6371",
       "proxy_url": "socks5://45.74.31.47:6371",
       "latency_ms": 500.0,
@@ -45729,18 +45249,6 @@
     },
     {
       "protocol": "socks5",
-      "address": "91.143.161.163:1080",
-      "proxy_url": "socks5://91.143.161.163:1080",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "gcbt.net"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
       "address": "46.37.59.97:1080",
       "proxy_url": "socks5://46.37.59.97:1080",
       "latency_ms": 500.0,
@@ -45809,22 +45317,6 @@
       "source": "",
       "valid_targets": [
         "gcbt.net"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "107.174.30.92:1080",
-      "proxy_url": "socks5://107.174.30.92:1080",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "gcbt.net",
-        "jpbt3.com",
-        "pms.532862.xyz",
-        "u3c3.com"
       ],
       "last_verified": 0.0
     },
@@ -46368,6 +45860,20 @@
       "source": "",
       "valid_targets": [
         "gcbt.net"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "16.52.81.236:45573",
+      "proxy_url": "socks5://16.52.81.236:45573",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "gcbt.net",
+        "mfgc3.com"
       ],
       "last_verified": 0.0
     },
@@ -48119,6 +47625,18 @@
     },
     {
       "protocol": "socks4",
+      "address": "72.214.108.67:4145",
+      "proxy_url": "socks4://72.214.108.67:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
       "address": "98.178.72.21:10919",
       "proxy_url": "socks4://98.178.72.21:10919",
       "latency_ms": 500.0,
@@ -48143,14 +47661,13 @@
       "last_verified": 0.0
     },
     {
-      "protocol": "socks5",
-      "address": "98.188.47.150:4145",
-      "proxy_url": "socks5://98.188.47.150:4145",
+      "protocol": "socks4",
+      "address": "184.178.172.3:4145",
+      "proxy_url": "socks4://184.178.172.3:4145",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "jpbt3.com",
         "u3c3.com"
       ],
       "last_verified": 0.0
@@ -48170,6 +47687,19 @@
     },
     {
       "protocol": "socks5",
+      "address": "72.206.74.126:4145",
+      "proxy_url": "socks5://72.206.74.126:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "174.77.111.196:4145",
       "proxy_url": "socks5://174.77.111.196:4145",
       "latency_ms": 500.0,
@@ -48177,6 +47707,18 @@
       "source": "",
       "valid_targets": [
         "jpbt3.com",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "72.195.114.169:4145",
+      "proxy_url": "socks5://72.195.114.169:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
         "u3c3.com"
       ],
       "last_verified": 0.0
@@ -48201,19 +47743,6 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "98.191.0.37:4145",
-      "proxy_url": "socks5://98.191.0.37:4145",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "mfgc3.com",
         "u3c3.com"
       ],
       "last_verified": 0.0
@@ -48280,6 +47809,19 @@
     },
     {
       "protocol": "https",
+      "address": "103.127.242.229:7000",
+      "proxy_url": "https://103.127.242.229:7000",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "103.107.197.146:9443",
       "proxy_url": "https://103.107.197.146:9443",
       "latency_ms": 500.0,
@@ -48310,6 +47852,19 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "4.172.245.121:443",
+      "proxy_url": "https://4.172.245.121:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
         "u3c3.com"
       ],
       "last_verified": 0.0
@@ -48352,6 +47907,45 @@
     },
     {
       "protocol": "https",
+      "address": "35.84.133.236:8443",
+      "proxy_url": "https://35.84.133.236:8443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "44.243.87.160:8443",
+      "proxy_url": "https://44.243.87.160:8443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "154.41.135.251:8443",
+      "proxy_url": "https://154.41.135.251:8443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "177.234.248.186:443",
       "proxy_url": "https://177.234.248.186:443",
       "latency_ms": 500.0,
@@ -48376,8 +47970,46 @@
     },
     {
       "protocol": "https",
+      "address": "124.156.223.252:4433",
+      "proxy_url": "https://124.156.223.252:4433",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "65.109.168.21:666",
       "proxy_url": "https://65.109.168.21:666",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "91.146.45.78:443",
+      "proxy_url": "https://91.146.45.78:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "13.42.36.101:443",
+      "proxy_url": "https://13.42.36.101:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -48395,6 +48027,33 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "185.138.90.148:443",
+      "proxy_url": "https://185.138.90.148:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "164.92.161.42:443",
+      "proxy_url": "https://164.92.161.42:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "jpbt3.com",
+        "pms.532862.xyz",
         "u3c3.com"
       ],
       "last_verified": 0.0
@@ -48443,6 +48102,19 @@
       "score": 1.0,
       "source": "",
       "valid_targets": [
+        "u3c3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "185.68.191.63:443",
+      "proxy_url": "https://185.68.191.63:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com",
         "u3c3.com"
       ],
       "last_verified": 0.0
@@ -49597,18 +49269,6 @@
       "protocol": "socks5",
       "address": "45.74.31.47:12709",
       "proxy_url": "socks5://45.74.31.47:12709",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "u3c3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.74.31.47:4254",
-      "proxy_url": "socks5://45.74.31.47:4254",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -51637,6 +51297,31 @@
     },
     {
       "protocol": "socks4",
+      "address": "184.178.172.18:15280",
+      "proxy_url": "socks4://184.178.172.18:15280",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com",
+        "pms.532862.xyz"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "174.77.111.197:4145",
+      "proxy_url": "socks4://174.77.111.197:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
       "address": "98.181.137.80:4145",
       "proxy_url": "socks4://98.181.137.80:4145",
       "latency_ms": 500.0,
@@ -51644,6 +51329,18 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com",
+        "jpbt3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.178.172.28:15294",
+      "proxy_url": "socks4://184.178.172.28:15294",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
         "jpbt3.com"
       ],
       "last_verified": 0.0
@@ -51674,8 +51371,8 @@
     },
     {
       "protocol": "https",
-      "address": "181.215.52.101:9443",
-      "proxy_url": "https://181.215.52.101:9443",
+      "address": "13.65.27.74:4254.112:443",
+      "proxy_url": "https://13.65.27.74:4254.112:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -51997,20 +51694,6 @@
       "source": "",
       "valid_targets": [
         "jpbt3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "120.232.204.58:39010",
-      "proxy_url": "https://120.232.204.58:39010",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "jpbt3.com",
-        "mfgc3.com"
       ],
       "last_verified": 0.0
     },
@@ -53170,18 +52853,6 @@
     },
     {
       "protocol": "socks5",
-      "address": "152.69.202.88:1080",
-      "proxy_url": "socks5://152.69.202.88:1080",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "jpbt3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
       "address": "90.150.52.50:1080",
       "proxy_url": "socks5://90.150.52.50:1080",
       "latency_ms": 500.0,
@@ -53932,6 +53603,18 @@
     },
     {
       "protocol": "socks5",
+      "address": "13.126.183.60:8056",
+      "proxy_url": "socks5://13.126.183.60:8056",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "13.208.246.143:4118",
       "proxy_url": "socks5://13.208.246.143:4118",
       "latency_ms": 500.0,
@@ -54477,6 +54160,18 @@
       "protocol": "socks5",
       "address": "15.232.45.244:1648",
       "proxy_url": "socks5://15.232.45.244:1648",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "jpbt3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "16.174.124.173:2001",
+      "proxy_url": "socks5://16.174.124.173:2001",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -56380,6 +56075,18 @@
     },
     {
       "protocol": "https",
+      "address": "82.64.46.151:443",
+      "proxy_url": "https://82.64.46.151:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "149.88.21.129:9443",
       "proxy_url": "https://149.88.21.129:9443",
       "latency_ms": 500.0,
@@ -56933,19 +56640,6 @@
     },
     {
       "protocol": "socks5",
-      "address": "5.75.133.113:10813",
-      "proxy_url": "socks5://5.75.133.113:10813",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "mfgc3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
       "address": "45.74.31.41:6106",
       "proxy_url": "socks5://45.74.31.41:6106",
       "latency_ms": 500.0,
@@ -57062,19 +56756,6 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "31.58.144.19:1080",
-      "proxy_url": "socks5://31.58.144.19:1080",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "dtbt7.com",
-        "pms.532862.xyz"
       ],
       "last_verified": 0.0
     },
@@ -57537,6 +57218,31 @@
     },
     {
       "protocol": "socks5",
+      "address": "143.198.239.45:10001",
+      "proxy_url": "socks5://143.198.239.45:10001",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "mfgc3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "143.198.239.45:10029",
+      "proxy_url": "socks5://143.198.239.45:10029",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
       "address": "15.152.38.117:13359",
       "proxy_url": "socks5://15.152.38.117:13359",
       "latency_ms": 500.0,
@@ -57700,6 +57406,19 @@
       "source": "",
       "valid_targets": [
         "dtbt7.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "16.52.81.236:7531",
+      "proxy_url": "socks5://16.52.81.236:7531",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "dtbt7.com",
+        "mfgc3.com"
       ],
       "last_verified": 0.0
     },
@@ -59386,18 +59105,6 @@
       "last_verified": 0.0
     },
     {
-      "protocol": "socks5",
-      "address": "70.166.65.160:4145",
-      "proxy_url": "socks5://70.166.65.160:4145",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "mfgc3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
       "protocol": "https",
       "address": "12.202.180.118:9443",
       "proxy_url": "https://12.202.180.118:9443",
@@ -59507,6 +59214,18 @@
     },
     {
       "protocol": "https",
+      "address": "185.164.138.156:9443",
+      "proxy_url": "https://185.164.138.156:9443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "mfgc3.com"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
       "address": "84.17.50.214:9443",
       "proxy_url": "https://84.17.50.214:9443",
       "latency_ms": 500.0,
@@ -59545,18 +59264,6 @@
       "protocol": "https",
       "address": "213.207.132.2:443",
       "proxy_url": "https://213.207.132.2:443",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "mfgc3.com"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "https",
-      "address": "13.36.173.200:443",
-      "proxy_url": "https://13.36.173.200:443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -59647,18 +59354,6 @@
       "valid_targets": [
         "mfgc3.com",
         "pms.532862.xyz"
-      ],
-      "last_verified": 0.0
-    },
-    {
-      "protocol": "socks5",
-      "address": "116.101.73.52:1090",
-      "proxy_url": "socks5://116.101.73.52:1090",
-      "latency_ms": 500.0,
-      "score": 1.0,
-      "source": "",
-      "valid_targets": [
-        "mfgc3.com"
       ],
       "last_verified": 0.0
     },
@@ -60493,6 +60188,30 @@
       "last_verified": 0.0
     },
     {
+      "protocol": "socks4",
+      "address": "24.249.199.4:4145",
+      "proxy_url": "socks4://24.249.199.4:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks4",
+      "address": "184.178.172.17:4145",
+      "proxy_url": "socks4://184.178.172.17:4145",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 0.0
+    },
+    {
       "protocol": "socks5",
       "address": "98.175.31.195:4145",
       "proxy_url": "socks5://98.175.31.195:4145",
@@ -60640,6 +60359,18 @@
       "protocol": "https",
       "address": "133.9.6.10:443",
       "proxy_url": "https://133.9.6.10:443",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "https",
+      "address": "152.233.20.206:9443",
+      "proxy_url": "https://152.233.20.206:9443",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -62728,6 +62459,18 @@
       "protocol": "socks5",
       "address": "15.232.45.244:1452",
       "proxy_url": "socks5://15.232.45.244:1452",
+      "latency_ms": 500.0,
+      "score": 1.0,
+      "source": "",
+      "valid_targets": [
+        "pms.532862.xyz"
+      ],
+      "last_verified": 0.0
+    },
+    {
+      "protocol": "socks5",
+      "address": "16.174.124.173:14227",
+      "proxy_url": "socks5://16.174.124.173:14227",
       "latency_ms": 500.0,
       "score": 1.0,
       "source": "",
@@ -64946,18 +64689,6 @@
         "www.xxread.net"
       ],
       "last_verified": 1787404279.7886894
-    },
-    {
-      "protocol": "socks5",
-      "address": "18.163.182.106:55345",
-      "proxy_url": "socks5://18.163.182.106:55345",
-      "latency_ms": 805.9,
-      "score": 1,
-      "source": "gfpcom_socks5",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1794873595.7322662
     },
     {
       "protocol": "https",
@@ -67582,6 +67313,18 @@
     },
     {
       "protocol": "https",
+      "address": "173.249.37.45:5006",
+      "proxy_url": "https://173.249.37.45:5006",
+      "latency_ms": 1300.9,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "www.xxread.net"
+      ],
+      "last_verified": 1787404278.3943288
+    },
+    {
+      "protocol": "https",
       "address": "200.210.103.211:443",
       "proxy_url": "https://200.210.103.211:443",
       "latency_ms": 1319.1,
@@ -67855,18 +67598,6 @@
         "www.xxread.net"
       ],
       "last_verified": 1787404281.0930552
-    },
-    {
-      "protocol": "https",
-      "address": "3.71.187.28:443",
-      "proxy_url": "https://3.71.187.28:443",
-      "latency_ms": 1548.6,
-      "score": 1,
-      "source": "zloi_https",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1794872533.1585355
     },
     {
       "protocol": "https",
@@ -68374,18 +68105,6 @@
     },
     {
       "protocol": "socks5",
-      "address": "98.81.204.137:9459",
-      "proxy_url": "socks5://98.81.204.137:9459",
-      "latency_ms": 2225.5,
-      "score": 1,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1794872556.700699
-    },
-    {
-      "protocol": "socks5",
       "address": "18.166.56.240:57137",
       "proxy_url": "socks5://18.166.56.240:57137",
       "latency_ms": 2246.9,
@@ -68503,6 +68222,18 @@
         "ypb.295282.xyz"
       ],
       "last_verified": 1794872679.097041
+    },
+    {
+      "protocol": "https",
+      "address": "103.108.92.82:9443",
+      "proxy_url": "https://103.108.92.82:9443",
+      "latency_ms": 2384.4,
+      "score": 1,
+      "source": "zloi_https",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1794872526.3230994
     },
     {
       "protocol": "socks5",
@@ -68974,18 +68705,6 @@
     },
     {
       "protocol": "socks5",
-      "address": "16.28.32.67:9123",
-      "proxy_url": "socks5://16.28.32.67:9123",
-      "latency_ms": 4541.9,
-      "score": 1,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1794872561.580158
-    },
-    {
-      "protocol": "socks5",
       "address": "45.74.31.40:5130",
       "proxy_url": "socks5://45.74.31.40:5130",
       "latency_ms": 4635.5,
@@ -69070,18 +68789,6 @@
     },
     {
       "protocol": "socks5",
-      "address": "34.229.190.39:4091",
-      "proxy_url": "socks5://34.229.190.39:4091",
-      "latency_ms": 5047.3,
-      "score": 1,
-      "source": "speedx_socks5",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1794872560.9228954
-    },
-    {
-      "protocol": "socks5",
       "address": "56.228.13.15:15817",
       "proxy_url": "socks5://56.228.13.15:15817",
       "latency_ms": 5087.8,
@@ -69103,18 +68810,6 @@
         "ypb.295282.xyz"
       ],
       "last_verified": 1794874855.8431184
-    },
-    {
-      "protocol": "socks5",
-      "address": "35.183.29.62:48156",
-      "proxy_url": "socks5://35.183.29.62:48156",
-      "latency_ms": 5398.2,
-      "score": 1,
-      "source": "komutan_socks5",
-      "valid_targets": [
-        "ypb.295282.xyz"
-      ],
-      "last_verified": 1794872585.7374434
     },
     {
       "protocol": "https",
