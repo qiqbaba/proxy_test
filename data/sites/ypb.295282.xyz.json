@@ -12019,4 +12019,18 @@
       "last_verified": 1794875534.1009936
     }
   ]
+} },
+    {
+      "protocol": "socks5",
+      "address": "78.14.19.3:45229",
+      "proxy_url": "socks5://78.14.19.3:45229",
+      "latency_ms": 340.8,
+      "score": 1,
+      "source": "gfpcom_socks5",
+      "valid_targets": [
+        "ypb.295282.xyz"
+      ],
+      "last_verified": 1795383739.7235687
+    }
+  ]
 }
