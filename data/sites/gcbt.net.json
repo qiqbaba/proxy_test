@@ -9422,55 +9422,56 @@
       "valid_targets": [
         "gcbt.net"
       ],
-      "last_verified": 1795127892.4120653
-    },
-    {
-      "protocol": "socks5",
-      "address": "45.74.31.47:5446",
-      "proxy_url": "socks5://45.74.31.47:5446",
-      "latency_ms": 5247.7,
+      "last_veri.2:10808",
+      "proxy_url": "socks5://80.225.224.2:10808",
+      "latency_ms": 2008.7,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "vpslab_socks5_all",
       "valid_targets": [
         "gcbt.net"
       ],
-      "last_verified": 1795127892.473824
+      "last_verified": 1795821542.3852754
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.47:6019",
-      "proxy_url": "socks5://45.74.31.47:6019",
-      "latency_ms": 5178.8,
+      "address": "212.189.31.222:20001",
+      "proxy_url": "socks5://212.189.31.222:20001",
+      "latency_ms": 907.4,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "databay_socks5",
       "valid_targets": [
         "gcbt.net"
       ],
-      "last_verified": 1795127892.6083443
+      "last_verified": 1795821542.442154
     },
     {
       "protocol": "socks5",
-      "address": "45.74.31.47:10114",
-      "proxy_url": "socks5://45.74.31.47:10114",
-      "latency_ms": 4661.1,
+      "address": "154.219.101.12:1080",
+      "proxy_url": "socks5://154.219.101.12:1080",
+      "latency_ms": 3288.1,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "vpslab_socks5_all",
       "valid_targets": [
         "gcbt.net"
       ],
-      "last_verified": 1795127892.6808608
+      "last_verified": 1795821543.8115797
     },
     {
       "protocol": "socks5",
-      "address": "2.28.105.45:8888",
-      "proxy_url": "socks5://2.28.105.45:8888",
-      "latency_ms": 2836.5,
+      "address": "82.196.69.34:1080",
+      "proxy_url": "socks5://82.196.69.34:1080",
+      "latency_ms": 1096.4,
       "score": 1,
-      "source": "proxyscrape_socks5",
+      "source": "databay_socks5",
       "valid_targets": [
         "gcbt.net"
       ],
-      "last_verified": 1795127892.712917
+      "last_verified": 1795821544.732877
+    },
+    {
+      "protocol": "socks5",
+      "address": "178.92.72.205:1080",
+      7
     },
     {
       "protocol": "socks5",
